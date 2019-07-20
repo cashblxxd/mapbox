@@ -1,0 +1,3440 @@
+[
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Гагарина, д. 60",
+            "email": "siv-sochi@mail.ru",
+            "inn": 2320039554,
+            "name_employee": "Ирина Викторовна Стародуб",
+            "name_short": "ЖСК «Весна»",
+            "orn": 1022302938756,
+            "phone": "88622540645",
+            "site": "пжск-сочи.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.726215,
+                43.605555
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Победы, д. 113",
+            "email": "mupreo19@mail.ru",
+            "inn": 2318008189,
+            "name_employee": "Чигали Кубер-Оглы Юсуфов",
+            "name_short": "МУП «РЭО-19»",
+            "orn": 2132366021060,
+            "phone": "8(8622)70-41-14",
+            "site": "www.мупрэо19.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.322871,
+                43.91546
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, д. 14,16, к. 1,2",
+            "email": "tigra6201@yandex.ru",
+            "inn": 2318013904,
+            "name_employee": "Владимир Николаевич Кишкин",
+            "name_short": "НО ТСЖ «ГОЛОВИНСКАЯ БУХТА»",
+            "orn": 1142366016154,
+            "phone": "+7 988 140 9850",
+            "site": "golovinka.jimdo.com"
+        },
+        "geometry": {
+            "coordinates": [
+                39.723062,
+                43.585525
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Юных Ленинцев, д. 10",
+            "email": "uk_akvaplus@mail.ru",
+            "inn": 2320128250,
+            "name_employee": "Сергей Александрович Назаров",
+            "name_short": "ООО «Аква-плюс»",
+            "orn": 1052311682587,
+            "phone": "88622988170",
+            "site": "аква-плюс-сочи.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.727805,
+                43.59669
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Кубанская, д. 6",
+            "email": "alpton@mail.ru",
+            "inn": 2320139485,
+            "name_employee": "Оганес Петросович Меликсетян",
+            "name_short": "ООО «Альп-Тон»",
+            "orn": 1062320038483,
+            "phone": "+7(862)262-13-59",
+            "site": "www.uksochi.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.727904,
+                43.580934
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Делегатская, д. 8",
+            "email": "wita.kan@yandex.ru",
+            "inn": 2318006618,
+            "name_employee": "Виктория Викторовна Канивец",
+            "name_short": "ООО «Альянс»",
+            "orn": 1112366007555,
+            "phone": "89882330563",
+            "site": "al2015.kvado.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.648915,
+                43.660604
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пгт. Красная Поляна, ул. Турчинского, д. 78, п. кабинет 16",
+            "email": "ykapartpolyana@yandex.ru",
+            "inn": 2367000961,
+            "name_employee": "Святослав Николаевич Карпушов ",
+            "name_short": "ООО «АП»",
+            "orn": 1182375003128,
+            "phone": "88004440566",
+            "site": "ykapartpolyana.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                40.210308,
+                43.680655
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Пасечная, д. 7",
+            "email": "info@ukdos.ru",
+            "inn": 2319048561,
+            "name_employee": "Наталья Геннадьевна Тонких",
+            "name_short": "ООО «АСКА УК «Дом Сервис»",
+            "orn": 1102367003254,
+            "phone": "+7 (862) 200-02-03",
+            "site": "www.ukdos.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.727095,
+                43.617356
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, р-н. Адлерский, ул. Куйбышева, д. 21",
+            "email": "info@atlantcity.com",
+            "inn": 2317076531,
+            "name_employee": "Белла Мухтаровна Токтабиева",
+            "name_short": "ООО «АТЛАНТ»",
+            "orn": 1152367001500,
+            "phone": "89282427864",
+            "site": "атлант-сочи.всеведа.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.920323,
+                43.430277
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Красноармейская, д. 22",
+            "email": "vozrozhdenie1@list.ru",
+            "inn": 2320169070,
+            "name_employee": "Анатолий Иванович Ляховой",
+            "name_short": "ООО «Возрождение+»",
+            "orn": 1082366004335,
+            "phone": "2541641",
+            "site": "www.vozrozhdenieplus.wordpress.com"
+        },
+        "geometry": {
+            "coordinates": [
+                39.721157,
+                43.600267
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Я.Фабрициуса, д. 2/4а, п. 9",
+            "email": "guk.sochi@mail.ru",
+            "inn": 2320231441,
+            "name_employee": "Сергей Владимирович Стришко",
+            "name_short": "ООО «Гранд УК»",
+            "orn": 1152366006121,
+            "phone": "862-296-57-81",
+            "site": "guk-sochi.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.749912,
+                43.567911
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Санаторная, д. 65/2",
+            "email": "grin-way@mail.ru",
+            "inn": 2320180860,
+            "name_employee": "Павел Викторович Гринин",
+            "name_short": "ООО «Грин-Вэй»",
+            "orn": 1102366001605,
+            "phone": "+7 (862) 2 000 888",
+            "site": "www.grin-way.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.708374,
+                43.620972
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Учительская, д. 30",
+            "email": "ukgfswetlana@rambler.ru",
+            "inn": 2319037961,
+            "name_employee": "Елена Анатольевна Щербинина",
+            "name_short": "ООО «Домоуправление  Светлана»",
+            "orn": 1062319006551,
+            "phone": "+7(862)262-84-78",
+            "site": "2.уксветлана.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.740193,
+                43.578152
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Макаренко, д. 45",
+            "email": "du-8@mail.ru",
+            "inn": 2320164178,
+            "name_employee": "Дамир Галиевич Галиулин",
+            "name_short": "ООО «ДУ-8»",
+            "orn": 1082320004140,
+            "phone": "+7(862)268-19-84",
+            "site": "http://оооду8.уксайт.рф/"
+        },
+        "geometry": {
+            "coordinates": [
+                39.747424,
+                43.619954
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Пластунская, д. 135",
+            "email": "zhilekspert@mail.ru",
+            "inn": 2320241224,
+            "name_employee": "Софья Акоповна Кротова",
+            "name_short": "ООО «ЖИЛЭКСПЕРТ»",
+            "orn": 1162366055796,
+            "phone": "89189187737",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.739294,
+                43.616514
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Гагарина, д. 72",
+            "email": "jek1sochi@mail.ru",
+            "inn": 2320232734,
+            "name_employee": "Игорь Александрович Волков",
+            "name_short": "ООО «ЖЭК №1»",
+            "orn": 1152366007485,
+            "phone": "+79183055161",
+            "site": "жэк-1-сочи.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.730922,
+                43.610855
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Невская, д. 18",
+            "email": "89284520430@bk.ru",
+            "inn": 2320210794,
+            "name_employee": "Михаил Петрович Лещенко",
+            "name_short": "ООО «КВАДРО+»",
+            "orn": 1132366002768,
+            "phone": "89181002026",
+            "site": "quadro.i-gkh.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.73474,
+                43.5924
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Депутатская, д. 3",
+            "email": "sunzhaservis@mail.ru",
+            "inn": 2319049501,
+            "name_employee": "Владимир Анатольевич Саббатовский",
+            "name_short": "ООО «Клинтек»",
+            "orn": 1112367000514,
+            "phone": "+7(862)2255379",
+            "site": "cleentek.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.737246,
+                43.568447
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, р-н. Адлерский, ул. Ромашек, д. 42, к. а",
+            "email": "komfortservice_info@mail.ru",
+            "inn": 2320244909,
+            "name_employee": "Сергей Александрович Серебряков",
+            "name_short": "ООО «Комфортсервис»",
+            "orn": 1162375060231,
+            "phone": "8(988)142-22-55",
+            "site": "komfortservis.su"
+        },
+        "geometry": {
+            "coordinates": [
+                39.919874,
+                43.434781
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Мацестинская, д. 12",
+            "email": "89180000033@mail.ru",
+            "inn": 2319037094,
+            "name_employee": "Александр Олегович Кокшаров",
+            "name_short": "ООО «Кубанькапстрой-УМД и ДОН»",
+            "orn": 1062319004032,
+            "phone": "89180000033",
+            "site": "http://кубанькапстрой.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.79499,
+                43.559197
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Партизанская, д. 20",
+            "email": "ooo-reo@mail.ru",
+            "inn": 2318031935,
+            "name_employee": "Юрий Владимирович Застрехин",
+            "name_short": "ООО «Лазаревское»",
+            "orn": 1062318005067,
+            "phone": "(862)2702022",
+            "site": "http://ооорэо.уксайт.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.330911,
+                43.915175
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Ландышевая, д. 12, к. 7",
+            "email": "nashdomsochi@yandex.ru",
+            "inn": 2320162678,
+            "name_employee": "Сергей Александрович Зеленский",
+            "name_short": "ООО «Наш дом»",
+            "orn": 1082320002786,
+            "phone": "8 (862) 2500051",
+            "site": "www.nashdomsochi.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.696256,
+                43.635666
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Дорога на Большой Ахун, д. 14А, лит. Б",
+            "email": "neman@inbox.ru",
+            "inn": 2317077920,
+            "name_employee": "Василий Владимирович Орличеня",
+            "name_short": "ООО «Неман»",
+            "orn": 1152367003799,
+            "phone": "8-862-2600533",
+            "site": "ooo-neman.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.815939,
+                43.538517
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пр-кт. Курортный, д. 94, к. 26",
+            "email": "316614@mail.ru",
+            "inn": 2317036803,
+            "name_employee": "Александрас - Федосеевас",
+            "name_short": "ООО «Ореховая Роща»",
+            "orn": 1022302722848,
+            "phone": "8(862) 2671662",
+            "site": "https://domosite.ru/sosnovybor"
+        },
+        "geometry": {
+            "coordinates": [
+                39.768058,
+                43.560543
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Кирова, д. 56 А, п. офис 38",
+            "email": "uk-orhidea@mail.ru",
+            "inn": 2317044427,
+            "name_employee": "Наталья Борисовна Шаповалова",
+            "name_short": "ООО «Орхидея»",
+            "orn": 1062317012658,
+            "phone": "8(862)296-59-57  8(862)296-59-58 ",
+            "site": "http://uk-orhidea.3dn.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.925749,
+                43.426558
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, р-н. Центральный, ул. Войкова, д. 21",
+            "email": "victoria.frank@mail.ru",
+            "inn": 2317062112,
+            "name_employee": "Виктория Рудольфовна Франкевич",
+            "name_short": "ООО «ОСКАР»",
+            "orn": 1122367000524,
+            "phone": "89882389484",
+            "site": "http://krasnaya-ploshad-sochi.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.723313,
+                43.582547
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пер. Гуковский, д. 6, п. 5-А",
+            "email": "newtechno@bk.ru",
+            "inn": 2320150048,
+            "name_employee": "Андрей Геннадьевич Стаханов",
+            "name_short": "ООО «Перспектива»",
+            "orn": 1072320006384,
+            "phone": "9885000314, 8622967326",
+            "site": "perspektiva.zhkh-uk.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.721103,
+                43.602624
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Свердлова, д. 94, п. 1",
+            "email": "uk-garant-sochi@mail.ru",
+            "inn": 2317084148,
+            "name_employee": "Дмитрий Викторович Ткачук",
+            "name_short": "ООО «Профессионал»",
+            "orn": 1172375019266,
+            "phone": "89628818350",
+            "site": "http://garant-adler.ru/"
+        },
+        "geometry": {
+            "coordinates": [
+                39.924832,
+                43.432457
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пер. Грузинский, д. 1",
+            "email": "morskayasimfoniya@mail.ru",
+            "inn": 2320155085,
+            "name_employee": "Ростислав Заурович Вазба",
+            "name_short": "ООО «Регион-Строй»",
+            "orn": 1072320014337,
+            "phone": "8-862-261-75-22",
+            "site": "www.regionstroi.city"
+        },
+        "geometry": {
+            "coordinates": [
+                39.732692,
+                43.596004
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Виноградная, д. 2/3",
+            "email": "rivera-sochi@yandex.ru",
+            "inn": 2320166094,
+            "name_employee": "Дмитрий Иванович Гончаров",
+            "name_short": "ООО «Ривьера»",
+            "orn": 1082366001156,
+            "phone": "8 862 253 80 15",
+            "site": "ykrive.ranarod2.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.717295,
+                43.595946
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Гайдара, д. 7, к. б",
+            "email": "reo-18@yandex.ru",
+            "inn": 2318042422,
+            "name_employee": "Александр Сергеевич Павлюченко",
+            "name_short": "ООО «РЭО - 18»",
+            "orn": 1162366051858,
+            "phone": "8(862) 200-18-18",
+            "site": "http://ооорэо18.уксайт.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.657098,
+                43.660598
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ш. Батумское, д. 63",
+            "email": "reo-18@yandex.ru",
+            "inn": 2318047156,
+            "name_employee": "Александр Сергеевич Павлюченко",
+            "name_short": "ООО «РЭО-18»",
+            "orn": 1132366010721,
+            "phone": "+7(862)200-18-18",
+            "site": "http://рэо18.уксайт.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.666639,
+                43.662261
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Гагарина, д. 58",
+            "email": "ooorep-5@mail.ru",
+            "inn": 2320129430,
+            "name_employee": "Александр Анатольевич Баклаев",
+            "name_short": "ООО «РЭП-5»",
+            "orn": 1052311692157,
+            "phone": "авар.служба  8-918-400-98-01",
+            "site": "http://uksochi.ru/organizatsii-uchastniki-assotsiatsii/rep-5"
+        },
+        "geometry": {
+            "coordinates": [
+                39.72608,
+                43.606077
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Островского, д. 37",
+            "email": "s.szhs@mail.ru",
+            "inn": 2320181470,
+            "name_employee": "Вячеслав Анатольевич Камнев",
+            "name_short": "ООО «СЖС»",
+            "orn": 1102366002420,
+            "phone": "296-07-71",
+            "site": "www.sochigilservis.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.72272,
+                43.588822
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Труда, д. 27а",
+            "email": "szsk12@bk.ru",
+            "inn": 2320202264,
+            "name_employee": "Надежда Владимировна Строкова",
+            "name_short": "ООО «СЖСК»",
+            "orn": 1122366008698,
+            "phone": "+7(918)3083675",
+            "site": "www.szsk-sochi.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.745547,
+                43.638629
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Островского, д. 37, п. 1-8",
+            "email": "szgsplus@mail.ru",
+            "inn": 2320240397,
+            "name_employee": "Вячеслав Анатольевич Камнев",
+            "name_short": "ООО «СЖС «ПЛЮС»",
+            "orn": 1162366054971,
+            "phone": "862-296-07-71",
+            "site": "sgs-plus.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.720025,
+                43.585035
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пр-кт. Курортный, д. 105 Б",
+            "email": "rio.city@yandex.ru",
+            "inn": 2320170968,
+            "name_employee": "ТАТЬЯНА ГЕОРГИЕВНА АНДРЮНЬКИНА ",
+            "name_short": "ООО «СОЛНЕЧНЫЙ ГОРОД»",
+            "orn": 1082366006568,
+            "phone": "8-8622-960-917",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.77935,
+                43.549893
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пер. Горького, д. 13, п. 10",
+            "email": "sochigradservise@inbox.ru",
+            "inn": 2320235206,
+            "name_employee": "Алексей Олегович Смыков",
+            "name_short": "ооо «СОЧИГРАДСЕРВИС»",
+            "orn": 1152366010147,
+            "phone": "8(862)291-09-04",
+            "site": "www.sochigradservise.reformagkh.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.729044,
+                43.585198
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пер. Гуковский, д. 6, п. 5-А",
+            "email": "newtechno@bk.ru",
+            "inn": 2320124601,
+            "name_employee": "Михаил Михайлович Храбовченко",
+            "name_short": "ООО «СТ»",
+            "orn": 1042311701640,
+            "phone": "9885000314",
+            "site": "new-te.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.721103,
+                43.602624
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Мостовая, д. 14, к. 1, п. 1",
+            "email": "kfks12@yandex.ru",
+            "inn": 2318046843,
+            "name_employee": "Николай Иванович Васюков",
+            "name_short": "ООО «Стройэкспо-С»",
+            "orn": 1132366007278,
+            "phone": "8.988-410-96-18",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.474462,
+                43.7921
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Дарвина, д. 74",
+            "email": "ujfkudepsta@mail.ru",
+            "inn": 2319039768,
+            "name_employee": "Павел Иванович Чесноков",
+            "name_short": "ООО «УЖФ Кудепста»",
+            "orn": 1072319000445,
+            "phone": "8-918-209-76-38",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.892044,
+                43.50104
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, р-н. Хостинский, ул. Есауленко, д. 3, к. А",
+            "email": "uk108@yandex.ru",
+            "inn": 2319044623,
+            "name_employee": "Елена Александровна Громова",
+            "name_short": "ООО «УК-108»",
+            "orn": 1082367001397,
+            "phone": "8-862-298-84-12",
+            "site": "http://www.uk108.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.786141,
+                43.550769
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Гайдара, д. 2",
+            "email": "1875107@mail.ru",
+            "inn": 2318042278,
+            "name_employee": "Николай Витальевич Казарцев",
+            "name_short": "ООО «УК АВАНГАРД»",
+            "orn": 1162366050582,
+            "phone": "+7(985)897-5343",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.657961,
+                43.660324
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Молокова, д. 1",
+            "email": "uk.adlergilservis@ya.ru",
+            "inn": 2317050170,
+            "name_employee": "Андрей Сергеевич Козкин",
+            "name_short": "ООО «УК« Адлержилсервис»",
+            "orn": 1082317000655,
+            "phone": "+7(862)240-04-90",
+            "site": "adlergs.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.921967,
+                43.432457
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, р-н. Адлерский, ул. Просвещения, д. 84",
+            "email": "adler-stroy@mail.ru",
+            "inn": 2317062176,
+            "name_employee": "Ольга Николаевна Немчинова",
+            "name_short": "ООО «УК«Адлержилстрой»",
+            "orn": 1122367000634,
+            "phone": "89882390015",
+            "site": "http://www.adlerzhilstrou.ru/"
+        },
+        "geometry": {
+            "coordinates": [
+                39.914421,
+                43.427174
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, р-н. Адлерский, ул. Молокова, д. 44, п. 501",
+            "email": "ykadler@mail.ru",
+            "inn": 2317080383,
+            "name_employee": "Ольга Николаевна Немчинова",
+            "name_short": "ООО «УК «Адлер-Жил-Строй»",
+            "orn": 1162367051186,
+            "phone": "8-988-2390015",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.920565,
+                43.435181
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Свердлова, д. 49/2а, п. офис 32",
+            "email": "alpik-siti@mail.ru",
+            "inn": 2317060764,
+            "name_employee": "Нина Григорьевна Мурашова",
+            "name_short": "ООО «УК «Альпик-Сити»",
+            "orn": 1112367003638,
+            "phone": "88622401508",
+            "site": "alpik-sity.my1.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.921742,
+                43.430657
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Чебрикова, д. 7",
+            "email": "ukrep3@mail.ru",
+            "inn": 2320139534,
+            "name_employee": "Саяд Анатольевич Саградов",
+            "name_short": "ООО «УК «Ареда-Сочи»",
+            "orn": 1062320038362,
+            "phone": "261-15-88, 261-43-64",
+            "site": "рэп-3.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.733922,
+                43.596442
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Горького, д. 43, п. офис 5",
+            "email": "s1@sochi.com",
+            "inn": 2320206808,
+            "name_employee": "Сергей Александрович Швец",
+            "name_short": "ООО «УК Багратион»",
+            "orn": 1122366016827,
+            "phone": "89673224242",
+            "site": "ук-багратион.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.726215,
+                43.588757
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Гагарина, д. 1а",
+            "email": "ukvashdom_2011@mail.ru",
+            "inn": 2320177882,
+            "name_employee": "Любовь Николаевна Крыгалева",
+            "name_short": "ООО «УК «Ваш Дом»",
+            "orn": 1092366008998,
+            "phone": "8622531173",
+            "site": "http://ваш-дом.vgkh.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.718265,
+                43.594457
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Демократическая, д. 53а, п. 501",
+            "email": "ukvashdomsochi@mail.ru",
+            "inn": 2317076891,
+            "name_employee": "Руслан Самвелович Гаранян",
+            "name_short": "УК ВАШ ДОМ»",
+            "orn": 1152367002138,
+            "phone": "8-988-239-74-47",
+            "site": "уквашдомсочи.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.92582,
+                43.426054
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Транспортная, д. 78/31",
+            "email": "uk_vesna@mail.ru",
+            "inn": 2319055047,
+            "name_employee": "Мадина Мовлиевна Наврузова",
+            "name_short": "УК ВЕСНА»",
+            "orn": 1132367005650,
+            "phone": "8(988)280-67-77",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.758895,
+                43.586537
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Абрикосовая, д. 6",
+            "email": "uk-garant@list.ru",
+            "inn": 2320227981,
+            "name_employee": "Мария Олеговна Байгачева",
+            "name_short": "ООО «УК ГАРАНТ»",
+            "orn": 1152366002249,
+            "phone": "8(862) 268-12-64",
+            "site": "http://oooukgarant.ru/"
+        },
+        "geometry": {
+            "coordinates": [
+                39.743543,
+                43.6144
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Молокова, д. 18/78",
+            "email": "ukdoverie@mail.ru",
+            "inn": 2317045741,
+            "name_employee": "Лилия Рышардовна Бугриева",
+            "name_short": "ООО «УК «Доверие«»",
+            "orn": 1062317014033,
+            "phone": "8(862)-240-60-09",
+            "site": "www.doverie-adler.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.924958,
+                43.430395
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Вишневая, д. 29",
+            "email": "uk_domservis@mail.ru",
+            "inn": 2319047166,
+            "name_employee": "Сергей Николаевич Шевченко",
+            "name_short": "ООО «УК «Домсервис»",
+            "orn": 1092367004388,
+            "phone": "88622688854",
+            "site": "домкомсервис.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.74887,
+                43.62306
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Первомайская, д. 5, п. 39",
+            "email": "i.77@bk.ru",
+            "inn": 2320223962,
+            "name_employee": "Андрей Анатольевич Рогулин",
+            "name_short": "ООО УК «ЖЕМЧУЖИНА»",
+            "orn": 1142366012117,
+            "phone": "89882374873",
+            "site": "http://2320223962.roskvartal.ru/"
+        },
+        "geometry": {
+            "coordinates": [
+                39.724472,
+                43.581992
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Бытха, д. 8 Д",
+            "email": "uk.gkh-servis@mail.ru",
+            "inn": 2320197744,
+            "name_employee": "Наталья Вячеславовна Андриященко",
+            "name_short": "ООО УК «ЖКХ-Сервис»",
+            "orn": 1112366012549,
+            "phone": "8-918-604-90-81",
+            "site": "ukgkh-servis.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.756587,
+                43.566461
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Гагарина, д. 58",
+            "email": "oooukgeo@mail.ru",
+            "inn": 2320170358,
+            "name_employee": "Александр Анатольевич Баклаев",
+            "name_short": "ООО «УК «ЖЭО»",
+            "orn": 1082366005732,
+            "phone": "Аварийная служба 89184009801",
+            "site": "uksochi.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.72608,
+                43.606077
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Кирпичная, д. 24",
+            "email": "uk-izumrud@mail.ru",
+            "inn": 2317073900,
+            "name_employee": "Юрий Витальевич Сукач",
+            "name_short": "ООО «УК «Изумруд»",
+            "orn": 1142367011170,
+            "phone": "8(862)246-47-94",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.913585,
+                43.443664
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Бамбуковая, д. 44, к. А, п. 2",
+            "email": "sokan3@yandex.ru",
+            "inn": 2320223190,
+            "name_employee": "Анатолий  Анатольевич Соколов ",
+            "name_short": "ООО «УК «Квартал»",
+            "orn": 1142366011072,
+            "phone": "89384531366",
+            "site": "квартал23.жкх.su"
+        },
+        "geometry": {
+            "coordinates": [
+                39.712129,
+                43.611103
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Туапсинская, д. 43",
+            "email": "komfortuk12@mail.ru",
+            "inn": 2320201528,
+            "name_employee": "Инна Геннадьевна Теплова",
+            "name_short": "ООО «УК «Комфорт»",
+            "orn": 1122366006069,
+            "phone": "89183005694",
+            "site": "ук-комфорт-сочи.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.740031,
+                43.593066
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Краснодар, ул. Калинина, д. 13, к. 58",
+            "email": "obmen@ukkrasnodar.ru",
+            "inn": 2318046674,
+            "name_employee": "Ольга Николаевна Алешина",
+            "name_short": "ООО УК «Краснодар»",
+            "orn": 1132366004715,
+            "phone": "8(861)991-21-00",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                38.918063,
+                45.041419
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Виноградная, д. 4, п. Н114",
+            "email": "uk.lr123@mail.ru",
+            "inn": 2366002412,
+            "name_employee": "Элеонора Павловна Кошкина",
+            "name_short": "ООО УК «ЛЕТНЯЯ РЕЗИДЕНЦИЯ»",
+            "orn": 1182375016086,
+            "phone": "8-862-296-90-44",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.715633,
+                43.59733
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, д. 293, п. 13 14 20",
+            "email": "uklidersochi@mail.ru",
+            "inn": 2319059669,
+            "name_employee": "Любовь Юрьевна Колесник",
+            "name_short": "ООО «УК «Лидер-Сочи»",
+            "orn": 1152367004756,
+            "phone": "8 988 181 83 03",
+            "site": "uk-lidersochi.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.723062,
+                43.585525
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Макаренко, д. 8",
+            "email": "ukmakarenko@mail.ru",
+            "inn": 2320160350,
+            "name_employee": "Сальмет Маджидовна Шашева",
+            "name_short": "ООО «УК « Макаренко»",
+            "orn": 1082320000454,
+            "phone": "88622680973",
+            "site": "http://uksochi.ru/companii/ukmakarenko"
+        },
+        "geometry": {
+            "coordinates": [
+                39.743552,
+                43.612598
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Лесная, д. 6, к. 2",
+            "email": "yanenko87@mail.ru",
+            "inn": 2317077197,
+            "name_employee": "Татьяна Николаевна Яненко",
+            "name_short": "ООО УК «Мечта»",
+            "orn": 1152367002578,
+            "phone": "89180249740",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.768373,
+                43.564024
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Пирогова, д. 30, п. 2",
+            "email": "oooukms@mail.ru",
+            "inn": 2320236680,
+            "name_employee": "Родион Игоревич Цырульник",
+            "name_short": "ООО УК «МИДГАРД-СЕРВИС»",
+            "orn": 1162366050615,
+            "phone": "+79897554994",
+            "site": "http://www.midgardservice.ru/"
+        },
+        "geometry": {
+            "coordinates": [
+                39.714456,
+                43.606932
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Пластунская, д. 50/2, п. 43",
+            "email": "moydomsochi@gmail.com",
+            "inn": 2320217006,
+            "name_employee": "Вадим Ибрагимович Гафиатулин",
+            "name_short": "ООО УК «МойДомСочи»",
+            "orn": 1132366016661,
+            "phone": "+7988 4067666",
+            "site": "www.moydomsochi.com"
+        },
+        "geometry": {
+            "coordinates": [
+                39.739609,
+                43.601345
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Молокова, д. 42/А",
+            "email": "uk-nov-vek2016@yandex.ru",
+            "inn": 2317076330,
+            "name_employee": "АЛЕКСАНДР АЛЕКСЕЕВИЧ КОВАЛЕВИЧ",
+            "name_short": "ООО «УК «НОВЫЙ ВЕК»",
+            "orn": 1152367001115,
+            "phone": "89189162602",
+            "site": "www.NorvekSochi.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.920799,
+                43.435253
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Транспортная, д. 17/2, п. 10",
+            "email": "info@uk-optimum-service.ru",
+            "inn": 2320246141,
+            "name_employee": "Анжела Руслановна Абдулаева",
+            "name_short": "ООО «УК«Оптимум сервис»",
+            "orn": 1172375012996,
+            "phone": "+79881413838",
+            "site": "http://uk-optimum-service.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.748771,
+                43.608427
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, р-н. Адлерский, ул. Голубые дали, д. 34, п. 69",
+            "email": "uk-orhidea@mail.ru",
+            "inn": 2317077084,
+            "name_employee": "Наталья Борисовна Шаповалова",
+            "name_short": "ООО «УК «Орхидея»",
+            "orn": 1152367002413,
+            "phone": "(862)296-59-57  (862)296-59-58",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.906911,
+                43.450026
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Горького, д. 87, к. 2",
+            "email": "yk@sochi.saks.ru",
+            "inn": 2320193394,
+            "name_employee": "Сергей Васильевич Жигулев",
+            "name_short": "ООО «УК Парк Горького»",
+            "orn": 1112366006741,
+            "phone": "8622-25-53-84",
+            "site": "укпаркгорького.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.728649,
+                43.595045
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Возрождения, д. 10",
+            "email": null,
+            "inn": 2319058591,
+            "name_employee": "Екатерина Николаевна Ключникова",
+            "name_short": "ООО «УК «РЭО-10»",
+            "orn": 1152367001852,
+            "phone": null,
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.764726,
+                43.562829
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Донская, д. 15, к. А",
+            "email": "ukreo-10sochi@yandex.ru",
+            "inn": 2320141212,
+            "name_employee": "Георгий Михайлович Сухинин",
+            "name_short": "ООО «УК «РЭО-10»",
+            "orn": 1062320040166,
+            "phone": "Круглосуточно 255-50-47  факс 255-64-93, абонентский отдел 255-25-97 (9.00 - 12.00, 13.00 - 17.00).",
+            "site": "http://uksochi.ru/organizatsii-uchastniki-assotsiatsii/reo10"
+        },
+        "geometry": {
+            "coordinates": [
+                39.72193,
+                43.619823
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пер. Чехова, д. 9",
+            "email": "uk-reo-7@mail.ru",
+            "inn": 2320142872,
+            "name_employee": "Алексей Владимирович Примак",
+            "name_short": "ООО «УК РЭО-7»",
+            "orn": 1062320041904,
+            "phone": "8622556845",
+            "site": "http://укрэо7.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.724274,
+                43.620724
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Пятигорская, д. 7И",
+            "email": "servissochi@list.ru",
+            "inn": 2317081348,
+            "name_employee": "Анатолий Борисович Нянин",
+            "name_short": "ООО «УК «Сервис Сочи»",
+            "orn": 1162367052825,
+            "phone": "+79882370767",
+            "site": "UKServisSochi.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.750478,
+                43.598936
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Виноградная, д. 22/1, лит. В, п. 1",
+            "email": "uk.s-sochi@yandex.ru",
+            "inn": 2320208717,
+            "name_employee": "Виктория Михайловна Матюшина",
+            "name_short": "ООО «УК «Сияние Сочи»",
+            "orn": 1122366019236,
+            "phone": "8(862) 296-05-55",
+            "site": "www.uksiyanie.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.719262,
+                43.603264
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Первомайская, д. 19, п. офис 6",
+            "email": "pervomayskaya19@yandex.ru",
+            "inn": 2320250204,
+            "name_employee": "Евгений Евгеньевич Елисеев",
+            "name_short": "ООО «УК «Содействие»",
+            "orn": 1172375055951,
+            "phone": "88622418041",
+            "site": "uk-sodeystvie.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.726116,
+                43.583749
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, р-н. Адлерский, ул. Тюльпанов, д. 41, лит. А, п. 2",
+            "email": "suncity23uk@gmail.com",
+            "inn": 7724888143,
+            "name_employee": "Сергей Михайлович Олейник",
+            "name_short": "ООО «УК«Солнечный Город»",
+            "orn": 1137746780522,
+            "phone": "89884143104, 88003503827",
+            "site": "sunsity-uk.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.936322,
+                43.420469
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Первомайская, д. 5, п. 6",
+            "email": "uc_soiuz-93@mail.ru",
+            "inn": 2320229770,
+            "name_employee": "Максим Васильевич Загороднев",
+            "name_short": "ООО «УК «Союз-93»",
+            "orn": 1152366004218,
+            "phone": "89182020432",
+            "site": "союз-93.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.724472,
+                43.581992
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, р-н. Хостинский, ул. Я.Фабрициуса, д. 2/9, к. А, п. 1",
+            "email": "ukspecizol@bk.ru",
+            "inn": 2319049621,
+            "name_employee": "Николай Борисович Шереметинский",
+            "name_short": "ООО «УК «Специалист»",
+            "orn": 1112367000767,
+            "phone": "8-862-296-42-08",
+            "site": "www.ukspecizol.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.748655,
+                43.569459
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Бытха, д. 2Б, п. 35",
+            "email": "info@uk-skontinent.ru",
+            "inn": 2317045205,
+            "name_employee": "Кристина Людвиговна Гращенкова",
+            "name_short": "ООО «УК «Стройконтинент»",
+            "orn": 1062317013494,
+            "phone": "88622960041",
+            "site": "http://stroykontinent.i-gkh.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.754188,
+                43.566925
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. 50 лет СССР, д. 12",
+            "email": "ukxosta@mail.ru",
+            "inn": 2319044197,
+            "name_employee": "Дамир Галиевич Галиулин",
+            "name_short": "ООО «УК «Хоста»",
+            "orn": 1082367000638,
+            "phone": "+7(862)265-31-46",
+            "site": "http://укхоста.уксайт.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.872658,
+                43.513156
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. 50 лет СССР, д. 15",
+            "email": "kh-reo-16@mail.ru",
+            "inn": 2319056989,
+            "name_employee": "Владимир Владимирович Блошкин",
+            "name_short": "ООО «УК Хостинская РЭО-16»",
+            "orn": 1142367010720,
+            "phone": "приемная (диспетчер) +7(862)-65-34-48 факс бухгалтерия  +7(862)265-38-59",
+            "site": "www.ukreo16.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.872056,
+                43.512417
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Севастопольская, д. 25, п. 11",
+            "email": "info@expert-dom.com",
+            "inn": 2320244666,
+            "name_employee": "Евгений Петрович Вихляев",
+            "name_short": "ООО УК «Эксперт»",
+            "orn": 1162375057833,
+            "phone": "+ 7 (862) 291-09-23",
+            "site": "https://expert.reformagkh.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.735539,
+                43.58828
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пр-кт. Курортный, д. 108",
+            "email": "ukelitprospect@mail.ru",
+            "inn": 2319051067,
+            "name_employee": "Армен Николаевич Кешишян",
+            "name_short": "ООО «УК «ЭЛИТ ПРОСПЕКТ»",
+            "orn": 1112367004584,
+            "phone": "8-862-266-87-93",
+            "site": "www.elitprospect.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.779763,
+                43.551592
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Я.Фабрициуса, д. 2/28а",
+            "email": "elit_servis@inbox.ru",
+            "inn": 2320217609,
+            "name_employee": "Владимир Юрьевич Чиж",
+            "name_short": "ООО «УК «ЭЛИТ СЕРВИС»",
+            "orn": 1132366017300,
+            "phone": "8 (862) 227-17-32  8-918-204-20-70",
+            "site": "sochiuk.com"
+        },
+        "geometry": {
+            "coordinates": [
+                39.750029,
+                43.569479
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Конституции СССР, д. 44/4 офис 35.",
+            "email": "ug3030@yandex.ru",
+            "inn": 2320227847,
+            "name_employee": "Кирилл Петрович Помятинский",
+            "name_short": "ООО «УК Юг»",
+            "orn": 1152366002051,
+            "phone": "+79884053030",
+            "site": "http://оооукюг.уксайт.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.732674,
+                43.601743
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Гагарина, д. 29 А",
+            "email": "uprava-sochi@mail.ru",
+            "inn": 2320206124,
+            "name_employee": "Дмитрий Георгиевич Чернов",
+            "name_short": "ООО «УПРАВА»",
+            "orn": 1122366015386,
+            "phone": "2-96-97-05",
+            "site": "http://upravasochi.ru/"
+        },
+        "geometry": {
+            "coordinates": [
+                39.723816,
+                43.60421
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Дмитриевой, д. 5, п. 5",
+            "email": "alfasochi@mail.ru",
+            "inn": 2319056435,
+            "name_employee": "Александр Николаевич Онопин",
+            "name_short": "ООО «УПРАВЛЯЮЩАЯ КОМПАНИЯ АЛЬФА»",
+            "orn": 1142367004284,
+            "phone": "8(862)250-50-17",
+            "site": "alfa-sochi.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.737785,
+                43.574795
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Кубанская, д. 12б",
+            "email": "ppremer@mail.ru",
+            "inn": 2320142745,
+            "name_employee": "Зураби Чичикоевич Джулакидзе",
+            "name_short": "ООО «Управляющая компания «ВЕСТА»",
+            "orn": 1062320041783,
+            "phone": "+7(862)262-59-78, +7(862)262-73-31",
+            "site": "www.ukvesta.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.729997,
+                43.57955
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Лысая гора, д. 27/9, п. 14",
+            "email": "uk.rio@mail.ru",
+            "inn": 2319056594,
+            "name_employee": "Иван Евгеньевич Вахрушев",
+            "name_short": "ООО «Управляющая компания «РИО»",
+            "orn": 1142367006275,
+            "phone": "8-988-235-01-51",
+            "site": "http://www.uk-rio.reformagkh.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.741315,
+                43.581914
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Ясногорская, д. 3",
+            "email": "UKREU17@rambler.ru",
+            "inn": 2319039944,
+            "name_employee": "Сергей Владимирович Шлячков",
+            "name_short": "ООО «Управляющая компания «РЭУ-17»",
+            "orn": 1072319001281,
+            "phone": "+7(862)-2-41-22-16",
+            "site": "http://www.укрэу-17.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.76389,
+                43.567545
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, р-н. Хостинский, ул. Я.Фабрициуса, д. 2/9а",
+            "email": "uprawdom@bk.ru",
+            "inn": 2319019578,
+            "name_employee": "Николай Борисович Шереметинский",
+            "name_short": "ООО «Фирма «Специзол»",
+            "orn": 1022302830120,
+            "phone": "+7 (862) 296-42-08",
+            "site": "www.firmaspecizol.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.748655,
+                43.569459
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пр-кт. Курортный, д. 92/5",
+            "email": "info@ukhk.ru",
+            "inn": 2320191703,
+            "name_employee": "Дмитрий Александрович Старынин",
+            "name_short": "ООО «Хаус Комфорт»",
+            "orn": 1112366004300,
+            "phone": "8(862)2960886",
+            "site": "http://www.ukhk.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.761824,
+                43.562463
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Красноармейская, д. 24",
+            "email": "ezhfsochi@mail.ru",
+            "inn": 2320244835,
+            "name_employee": "Ибрагим Юсуфович Кучуков",
+            "name_short": "ООО «ЭЖФ Сочи»",
+            "orn": 1162375059098,
+            "phone": "+7 (918) 611-70-76 - офис, +7 (938) 457-00-17 - бухгалтерия/юрист",
+            "site": "https://ezhfsochi.reformagkh.ru/"
+        },
+        "geometry": {
+            "coordinates": [
+                39.721678,
+                43.600607
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Навагинская, д. 7",
+            "email": "ecostreet@bk.ru",
+            "inn": 2320229259,
+            "name_employee": "Виталий Вадимович Куклин",
+            "name_short": "ООО «ЭКОСТРИТ»",
+            "orn": 1152366003613,
+            "phone": "89646377711",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.722271,
+                43.586726
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Демократическая, д. 43",
+            "email": "info@elite-towers.ru",
+            "inn": 2317046897,
+            "name_employee": "Николай Владимирович Кондратчик",
+            "name_short": "ООО «Элит Тауэрс»",
+            "orn": 1072317001393,
+            "phone": "+78622407252",
+            "site": "www.elite-towers.ru/management/"
+        },
+        "geometry": {
+            "coordinates": [
+                39.924168,
+                43.424234
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пр-кт. Курортный, д. 75 Г",
+            "email": "pzskgalaktika@yandex.ru",
+            "inn": 2319023800,
+            "name_employee": "Юрий Николаевич Аринцев",
+            "name_short": "ПЖСК «Галактика-2»",
+            "orn": 1022302833992,
+            "phone": "89882335020",
+            "site": "www.galaktika.i-gkh.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.736779,
+                43.570628
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Белорусская, д. 18",
+            "email": "tsgTRIO@mail.ru",
+            "inn": 2317039868,
+            "name_employee": "Олег Владимирович Шумков ",
+            "name_short": "Товарищество собственников жилья «ТРИО»",
+            "orn": 1042309873286,
+            "phone": "918-305-1885",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.908636,
+                43.440653
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Партизанская, д. 15",
+            "email": "ylchaaaa@mail.ru",
+            "inn": 2318030748,
+            "name_employee": "Юлия Ильинична Волошина",
+            "name_short": "ТСЖ «Высотка»",
+            "orn": 1052310484357,
+            "phone": "8-918-309-94-20",
+            "site": "тсжвысотка.уксайт.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.330938,
+                43.91211
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Гагарина, д. 7",
+            "email": "gagarina-7@mail.ru",
+            "inn": 2320148793,
+            "name_employee": "Наталья Александровна Прокудина",
+            "name_short": "ТСЖ «Гагарина-7»",
+            "orn": 1072300000442,
+            "phone": "89182010230",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.719729,
+                43.595247
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Гайдара, д. 5/4",
+            "email": "tczgaidara@mail.ru",
+            "inn": 2318040827,
+            "name_employee": "Елена Ивановна Геймур",
+            "name_short": "ТСЖ «Гайдара»",
+            "orn": 1152366003855,
+            "phone": "89885025421",
+            "site": "www.reformagkh.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.657718,
+                43.658654
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Пирогова, д. 14,16,18",
+            "email": "sayilmaz@mail.ru",
+            "inn": 2320134134,
+            "name_employee": "Нина Николаевна Шаповалова",
+            "name_short": "ТСЖ «Дельфин»",
+            "orn": 1052311741008,
+            "phone": "862)253-56-86",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.716872,
+                43.60609
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Череповецкая, д. 10, п. 39",
+            "email": "natali-sohi@rambler.ru",
+            "inn": 2318028932,
+            "name_employee": "Наталья Семеновна Аносова",
+            "name_short": "ТСЖ «ДОМ»",
+            "orn": 1032310481323,
+            "phone": "+79183091937",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.504924,
+                43.773401
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Череповецкая, д. 16, п. нет",
+            "email": "baharcova-risal@rambler.ru",
+            "inn": 2318032336,
+            "name_employee": "Лариса Васильевна Ковалёва",
+            "name_short": "ТСЖ  «ДОМ-3»",
+            "orn": 1062318006563,
+            "phone": "89183068181",
+            "site": "http://www.tsj-dom-3.kvado.ru/"
+        },
+        "geometry": {
+            "coordinates": [
+                39.506083,
+                43.773837
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Донская, д. 45",
+            "email": "zakurdaieva64@mail.ru",
+            "inn": 2320126180,
+            "name_employee": "Светлана Витальевна Закурдаева ",
+            "name_short": "ТСЖ «Донская-45»",
+            "orn": 1042311710462,
+            "phone": "8-918-309-08-68",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.71725,
+                43.625161
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Звездная, д. 19Д",
+            "email": "bkr88@yandex.ru",
+            "inn": 2319058560,
+            "name_employee": "Алексей Михайлович Бырин",
+            "name_short": "ТСЖ «ЖК «Анна»",
+            "orn": 1152367001775,
+            "phone": "89384422409",
+            "site": "http://www.anna.house.ru/"
+        },
+        "geometry": {
+            "coordinates": [
+                39.839385,
+                43.5297
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Интернациональная, д. 3/1, п. 9",
+            "email": "igymnov@mail.ru",
+            "inn": 2317073890,
+            "name_employee": "Сергей Александрович Игумнов",
+            "name_short": "ТСЖ «Интернациональное»",
+            "orn": 1142367011148,
+            "phone": "+79881890623",
+            "site": "http://international-sochi.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.923224,
+                43.419579
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пгт. Красная Поляна, ул. Защитников Кавказа, д. 77/2",
+            "email": "katerina.alpik@mail.ru",
+            "inn": 2317055210,
+            "name_employee": "Ольга Ивановна Пушкарева",
+            "name_short": "ТСЖ «Катерина Альпик»",
+            "orn": 1092367004333,
+            "phone": "+79180031976",
+            "site": "http://www.katerina-alpik.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                40.226244,
+                43.684495
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пр-кт. Курортный, д. 98/13",
+            "email": "danshina.marina@rambler.ru",
+            "inn": 2319035940,
+            "name_employee": "Евгений Андреевич Ковин",
+            "name_short": "ТСЖ «Кипарис»",
+            "orn": 1052311096672,
+            "phone": "918-915-92-14",
+            "site": "tsgkiparis.ucoz.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.77211,
+                43.557635
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Клубничная, д. 110",
+            "email": "infotszh@mail.ru",
+            "inn": 2320206741,
+            "name_employee": "ОЛЬГА ВЯЧЕСЛАВОВНА ЧУМАКОВА",
+            "name_short": "ТСЖ «КЛУБНИЧНАЯ 110»",
+            "orn": 1122366016816,
+            "phone": "9891606621",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.712839,
+                43.62184
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Гайдара, д. 20, п. офис 1",
+            "email": "tsz_comfort@mail.ru",
+            "inn": 2318042990,
+            "name_employee": "Игорь Александрович Феклистов",
+            "name_short": "ТСЖ «Комфорт»",
+            "orn": 1162366055455,
+            "phone": "89881870414",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.653622,
+                43.662195
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Тормахова Д.Д., д. 2, к. 3, п. 61",
+            "email": "coralltsg@mail.ru",
+            "inn": 2320165164,
+            "name_employee": "Виктор Владимирович Морев",
+            "name_short": "ТСЖ «Коралл Хаус»",
+            "orn": 1082366000177,
+            "phone": "8-952-830-71-75",
+            "site": "moidomru.ru/tsgcorall"
+        },
+        "geometry": {
+            "coordinates": [
+                39.723062,
+                43.585525
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пр-кт. Курортный, д. 105Б",
+            "email": "rio_city2009@mail.ru",
+            "inn": 2319046187,
+            "name_employee": "Владимир Семенович Савинов",
+            "name_short": "ТСЖ «Королевский парк»",
+            "orn": 1092367001902,
+            "phone": "8 8622 2960-919",
+            "site": "king-park.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.77935,
+                43.549893
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Красноармейская, д. 14",
+            "email": "krasnoarmeyskaya-14@mail.ru",
+            "inn": 2320172796,
+            "name_employee": "Николай Васильевич Жирков",
+            "name_short": "ТСЖ «Красноармейская-14»",
+            "orn": 1092366002068,
+            "phone": "89182010230",
+            "site": "krasnoarmeyskaya-14@mail.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.720061,
+                43.5978
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Ленина, д. 219/35",
+            "email": "6091188@mail.ru",
+            "inn": 2317072047,
+            "name_employee": "Сергей Леонидович Топчиян",
+            "name_short": "ТСЖ «Курортный»",
+            "orn": 1142367000060,
+            "phone": "+79286651308",
+            "site": "http://kurortnii-tszh.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.899733,
+                43.467079
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Ленина, д. 4",
+            "email": "tsg.lenina@mail.ru",
+            "inn": 2317030047,
+            "name_employee": "Эдуард Грантович Торосян",
+            "name_short": "ТСЖ «Ленина-4»",
+            "orn": 1022302725114,
+            "phone": "+79183043235",
+            "site": "ленина4.тсж.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.923682,
+                43.42686
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Лесная, д. 19",
+            "email": "svet_lana50@mail.ru",
+            "inn": 2317041257,
+            "name_employee": "Светлана Николаевна Алейник",
+            "name_short": "ТСЖ «Лесная-19»",
+            "orn": 1052309878191,
+            "phone": "89181004724",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.964951,
+                43.424077
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Лесная, д. 41",
+            "email": "viktor_nbs@mail.ru",
+            "inn": 2317033143,
+            "name_employee": "Виктор Михайлович Белоусов",
+            "name_short": "ТСЖ «Лесная 41»",
+            "orn": 1022302716974,
+            "phone": "89186001313",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.959705,
+                43.421681
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Нахимова, д. 12",
+            "email": "demyanovaev@mail.ru",
+            "inn": 2318033080,
+            "name_employee": "Денис Алексеевич Демьянов",
+            "name_short": "ТСЖ «Лукоморье»",
+            "orn": 1062318007290,
+            "phone": "89181095888",
+            "site": "0"
+        },
+        "geometry": {
+            "coordinates": [
+                39.325737,
+                43.908882
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пр-кт. Курортный, д. 99/7",
+            "email": "magnolia2014@list.ru",
+            "inn": 2319038330,
+            "name_employee": "Виктор Васильевич Сафронов",
+            "name_short": "ТСЖ «МАГНОЛИЯ»",
+            "orn": 1062319006892,
+            "phone": "8-918-607-28-49",
+            "site": "нет данных"
+        },
+        "geometry": {
+            "coordinates": [
+                39.772712,
+                43.553363
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Макаренко, д. 40",
+            "email": "tavoitenko@gamil.com",
+            "inn": 2320209414,
+            "name_employee": "Тамара Александровна Войтенко",
+            "name_short": "ТСЖ «Макаренко 40»",
+            "orn": 1132366000700,
+            "phone": "+79182089412",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.741666,
+                43.61143
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Кольцевая, д. 2/1",
+            "email": "t_don_mark30@mail.ru",
+            "inn": 2318023081,
+            "name_employee": "Татьяна Дмитриевна Бахметьева",
+            "name_short": "ТСЖ «МЕРИДИАН»",
+            "orn": 1022302795030,
+            "phone": "8-965-468-02-84",
+            "site": "http://тсжмеридиан.уксайт.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.320572,
+                43.919409
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Молокова, д. 24",
+            "email": "tszh.molokova24@mail.ru",
+            "inn": 2317039770,
+            "name_employee": "Каринэ Арменаковна Цканян",
+            "name_short": "ТСЖ «Молокова-24»",
+            "orn": 1042309872890,
+            "phone": "+79183011779",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.923108,
+                43.432549
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Депутатская, д. 9, п. 19",
+            "email": "dep1014@bk.ru",
+            "inn": 2319057608,
+            "name_employee": "Аркадий Анатольевич Александров",
+            "name_short": "ТСЖ «Московия»",
+            "orn": 1142367013997,
+            "phone": "+7(938)4192119",
+            "site": "московия.тсж.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.737992,
+                43.571007
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Братская, д. 1",
+            "email": "gennadiimagri@gmail.com",
+            "inn": 2318034799,
+            "name_employee": "Геннадий Иванович Логутов",
+            "name_short": "ТСЖ «Наша поляна»",
+            "orn": 1072300011937,
+            "phone": "89531163448",
+            "site": "https://www.reformagkh.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.158605,
+                44.020119
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пер. Горького, д. 13",
+            "email": "sochi_palm@mail.ru",
+            "inn": 2320157727,
+            "name_employee": "Евгений Владимирович Прыгин",
+            "name_short": "ТСЖ «Пальма»",
+            "orn": 1072300010485,
+            "phone": "+7 (918) 001-22-40",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.729044,
+                43.585198
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Санаторная, д. 45",
+            "email": "parus.tszh@bk.ru",
+            "inn": 2320125250,
+            "name_employee": "Светлана Васильевна Черникова",
+            "name_short": "ТСЖ «Парус»",
+            "orn": 1042311705600,
+            "phone": "89184060055",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.711411,
+                43.623791
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Павлова, д. 64 Б",
+            "email": "tparus@mail.ru",
+            "inn": 2318032833,
+            "name_employee": "Александра Николаевна Другашова",
+            "name_short": "ТСЖ Парус»",
+            "orn": 1062318007069,
+            "phone": "+79183061711",
+            "site": "тсж-парус.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.340424,
+                43.915376
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Первомайская, д. 21",
+            "email": "tsgpervomay21@yandex.ru",
+            "inn": 2320134906,
+            "name_employee": "Андрей Александрович Лишай",
+            "name_short": "ТСЖ «Первомайская-21»",
+            "orn": 1052311746057,
+            "phone": "86222622705",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.726709,
+                43.584186
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Первомайская, д. 11",
+            "email": "tsgpervomay@yandex.ru",
+            "inn": 2320138298,
+            "name_employee": "Оксана Леонидовна Вознюк",
+            "name_short": "ТСЖ «Первомайское»",
+            "orn": 1062320031531,
+            "phone": "8622622705",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.724993,
+                43.582606
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Первомайская, д. 13",
+            "email": "tsgpervomay@yandex.ru",
+            "inn": 2320142551,
+            "name_employee": "Оксана Леонидовна Вознюк",
+            "name_short": "ТСЖ«Первомайское-1»",
+            "orn": 1062320041530,
+            "phone": "86222622705",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.725325,
+                43.582919
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Пирогова, д. 6, к. Б",
+            "email": "tszhpirogova6@mail.ru",
+            "inn": 2320131542,
+            "name_employee": "Ольга Васильевна Назарова",
+            "name_short": "ТСЖ «Пирогова 6»",
+            "orn": 1052311707766,
+            "phone": "89631645212",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.717717,
+                43.605242
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Пластунская, д. 2",
+            "email": "plastunskaya2@mail.ru",
+            "inn": 2320135184,
+            "name_employee": "Александр Ильич Оплачко",
+            "name_short": "ТСЖ «Пластунская 2»",
+            "orn": 1052311747652,
+            "phone": "(862)261-38-04",
+            "site": "gisgkh-sochi.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.732916,
+                43.596749
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, р-н. Лазаревский, ул. Победы, д. 111",
+            "email": "111-pobeda@mail.ru",
+            "inn": 2318033925,
+            "name_employee": "Инна Ивановна Яценко",
+            "name_short": "ТСЖ «Победа 111»",
+            "orn": 1072300003038,
+            "phone": "89189184910",
+            "site": "pobeda111.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.323752,
+                43.914837
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Победы, д. 160",
+            "email": "galo444ka75@gmail.com",
+            "inn": 2318031389,
+            "name_employee": "Галина Николаевна Марченко",
+            "name_short": "ТСЖ  «Победы № 160»",
+            "orn": 1052310496776,
+            "phone": "89183041180",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.31952,
+                43.919947
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Полтавская, д. 50",
+            "email": "poltavskaya50@mail.ru",
+            "inn": 2320220993,
+            "name_employee": "Джемали Нодариевич Шония",
+            "name_short": "ТСЖ «Полтавская 50»",
+            "orn": 1142366005209,
+            "phone": "8-918-400-15-77",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.69649,
+                43.629716
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Абрикосовая, д. 17 А",
+            "email": "abrikosovaja17a@yandex.ru",
+            "inn": 2320103471,
+            "name_employee": "Ирина Владимировна Гудкова",
+            "name_short": "ТСЖ «Престиж»",
+            "orn": 1032311673041,
+            "phone": "88622683957",
+            "site": "www.gzhi-kuban.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.742627,
+                43.616547
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Декабристов, д. 167",
+            "email": "litanaj@mail.ru",
+            "inn": 2318032424,
+            "name_employee": "Станислав Владимирович Шастало",
+            "name_short": "ТСЖ  Приморье»",
+            "orn": 1062318006640,
+            "phone": "89189178037",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.601744,
+                43.681437
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Революции, д. 1",
+            "email": "molokovaoly@mail.ru",
+            "inn": 2317043078,
+            "name_employee": "Нонна Борисовна Лотарева",
+            "name_short": "ТСЖ «Революции 1»",
+            "orn": 1062317004485,
+            "phone": "8-918-905-71-79",
+            "site": "reformagkh.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.923745,
+                43.43304
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Виноградная, д. 15/1",
+            "email": "tsgrivera36@mail.ru",
+            "inn": 2317034813,
+            "name_employee": "Ирина Анатольевна Вернигора",
+            "name_short": "ТСЖ «Ривьера»",
+            "orn": 1022302721187,
+            "phone": "(8622) 53-40-89",
+            "site": "tsgrivera.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.715893,
+                43.595253
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Красноармейская, д. 2",
+            "email": "riveraplussochi@mail.ru",
+            "inn": 2320144090,
+            "name_employee": "Владимир Иванович Макушкин",
+            "name_short": "ТСЖ РИВЬЕРА ПЛЮС»",
+            "orn": 1062320043070,
+            "phone": "+7(928)4451219",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.718274,
+                43.594914
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Родниковая, д. 23",
+            "email": "rodnik23.2007@yandex.ru",
+            "inn": 2318034157,
+            "name_employee": "Ольга Алексеевна Лубеникова",
+            "name_short": "ТСЖ «Родник»",
+            "orn": 1072300004963,
+            "phone": "+79184088561",
+            "site": "www.tsg-rodnik.com"
+        },
+        "geometry": {
+            "coordinates": [
+                39.332483,
+                43.915993
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Роз, д. 39",
+            "email": "roz-39@mail.ru",
+            "inn": 2320203726,
+            "name_employee": "Ольга Сергеевна Ситникова",
+            "name_short": "ТСЖ «РОЗ-39 многоквартирного дома»",
+            "orn": 1122366011118,
+            "phone": "+79882318981",
+            "site": "http://roz-39.umi.ru/"
+        },
+        "geometry": {
+            "coordinates": [
+                39.720466,
+                43.590161
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Роз, д. 48",
+            "email": "sochiroz48@mail.ru",
+            "inn": 2320200919,
+            "name_employee": "Ирина Дмитриевна Силантьева",
+            "name_short": "ТСЖ «РОЗ 48»",
+            "orn": 1122366004727,
+            "phone": "+79181009270",
+            "site": "роз-48.vgkh.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.722163,
+                43.591343
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Победы, д. 158, лит. В, п. 4",
+            "email": "tsgromashka@mail.ru",
+            "inn": 2318037454,
+            "name_employee": "Надежда Дмитриевна Лебедева",
+            "name_short": "ТСЖ «Ромашка»",
+            "orn": 1092366009867,
+            "phone": "+7(918)3011219",
+            "site": "www.reformagkh.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.31935,
+                43.919675
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Свердлова, д. 46",
+            "email": "n.piter@mail.ru",
+            "inn": 2320153377,
+            "name_employee": "Людмила Ивановна Калинина",
+            "name_short": "ТСЖ «Свердлова-46»",
+            "orn": 1072300005690,
+            "phone": "+78622408727",
+            "site": "http://tsj46.adlerkurort.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.921688,
+                43.429806
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Молокова, д. 20/73",
+            "email": "faya.soglasie@yandex.ru",
+            "inn": 2317060355,
+            "name_employee": "Петр Евстафьевич Шапранов",
+            "name_short": "ТСЖ «Согласие»",
+            "orn": 1112367002890,
+            "phone": "+78622305117",
+            "site": "http://soglasie-sochi.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.924383,
+                43.431148
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, р-н. Центральный, ул. Войкова, д. 35",
+            "email": "sokolinayagorka@mail.ru",
+            "inn": 2320134180,
+            "name_employee": "Олег Федорович Байрамов",
+            "name_short": "ТСЖ «Соколиная горка»",
+            "orn": 1052311741195,
+            "phone": "88622625931",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.725146,
+                43.584532
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Невская, д. 18",
+            "email": "nevskaia18@mail.ru",
+            "inn": 2320164139,
+            "name_employee": "Александр Андреевич Ермилов",
+            "name_short": "ТСЖ «Солнечный Дом»",
+            "orn": 1082320004095,
+            "phone": "8(862)296-08-01",
+            "site": "http://солнечный-дом.lowot.ru/"
+        },
+        "geometry": {
+            "coordinates": [
+                39.73474,
+                43.5924
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пр-кт. Курортный, д. 94/27",
+            "email": "ndinitrev@bk.ru",
+            "inn": 2319056756,
+            "name_employee": "Николай Иванович Димитрев ",
+            "name_short": "ТСЖ «Сосновый бор»",
+            "orn": 1142367009905,
+            "phone": "8-918-607-88-53",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.767861,
+                43.56085
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Туапсинская, д. 15, п. 1 «А»",
+            "email": "tszh.soyuz@ya.ru",
+            "inn": 2320132994,
+            "name_employee": "Татьяна  Георгиевна Щербакова ",
+            "name_short": "ТСЖ «СОЮЗ»",
+            "orn": 1052311720196,
+            "phone": "8(862)2617460",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.738091,
+                43.595084
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Нахимова, д. 8",
+            "email": "TulpanTSG@yandex.ru",
+            "inn": 2318033153,
+            "name_employee": "Марина Александровна Глебова",
+            "name_short": "ТСЖ «ТЮЛЬПАН»",
+            "orn": 1062318007388,
+            "phone": null,
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.324982,
+                43.909434
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Виноградная, д. 35/7",
+            "email": "kashafutdinov45@mail.ru",
+            "inn": 2320208481,
+            "name_employee": "Михаил Акмалитдинович Кашафутдинов",
+            "name_short": "ТСЖ «Тюрьма имени Дзержинского»",
+            "orn": 1122366018940,
+            "phone": "(918) 611-85-79",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.712048,
+                43.600143
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, р-н. Хостинский, ул. Верхняя Лысая гора, д. 10",
+            "email": "tsgfavorit@mail.ru",
+            "inn": 2319036076,
+            "name_employee": "Людмила Борисовна Калина",
+            "name_short": "ТСЖ «ФАВОРИТ»",
+            "orn": 1052311097277,
+            "phone": "88622628997",
+            "site": "тсж-фаворит.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.743885,
+                43.580346
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Первомайская, д. 19",
+            "email": "pervomayskaya19@mail.ru",
+            "inn": 2319040989,
+            "name_employee": "Дмитрий Викторович Воробьев",
+            "name_short": "ТСЖ «Фальконе»",
+            "orn": 1072300004996,
+            "phone": "8 862 241-80-41",
+            "site": "19dom.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.726116,
+                43.583749
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, с. Ахштырь, ул. Форелевая, д. 45, п. 37",
+            "email": "tsg-45@mail.ru",
+            "inn": 2317054873,
+            "name_employee": "Евгений Владимирович Макаров",
+            "name_short": "ТСЖ Форелевая 45»",
+            "orn": 1092367003772,
+            "phone": "+79184007756",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.994946,
+                43.517359
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, б-р. Цветной, д. 10",
+            "email": "colorboulevard-10@mail.ru",
+            "inn": 2320131006,
+            "name_employee": "Юрий Дмитриевич Прокатов",
+            "name_short": "ТСЖ «Цветной бульвар-10»",
+            "orn": 1052311704213,
+            "phone": "89182010230",
+            "site": "colorboulevard-10@mail.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.72352,
+                43.598126
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, с. Волковка, ул. Надежная, д. 18",
+            "email": "dron300584@mail.ru",
+            "inn": 2318032583,
+            "name_employee": "Кирилл Юрьевич Дронов",
+            "name_short": "ТСЖ «ЧАЙКА»",
+            "orn": 1062318006816,
+            "phone": "89189141969",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.656398,
+                43.684045
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Чайковского, д. 23/1",
+            "email": "ludovtsz@gmail.com",
+            "inn": 2320088752,
+            "name_employee": "Сергей Викторович Грушко",
+            "name_short": "ТСЖ «Чайковского 23/1»",
+            "orn": 1022302949052,
+            "phone": "8(862)254-48-96, 8-918-237-46-28",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.725667,
+                43.599262
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Чайковского, д. 5",
+            "email": "chaikovskogo-5@mail.ru",
+            "inn": 2320111994,
+            "name_employee": "Татьяна Кирилловна Васильева",
+            "name_short": "ТСЖ «Чайковского-5»",
+            "orn": 1032311680224,
+            "phone": "89182010230",
+            "site": "chaikovskogo-5@mail.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.722397,
+                43.596194
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Курская, д. 17",
+            "email": null,
+            "inn": 2318034076,
+            "name_employee": "Евгений Леонидович Шепель",
+            "name_short": "ТСЖ Чемитоквадже»",
+            "orn": 1072300003830,
+            "phone": "88622749975",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.400135,
+                43.862285
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Тормахова Д.Д., д. 2, к. 3, п. 1",
+            "email": null,
+            "inn": 2318048505,
+            "name_employee": "Сергей Александрович Кишинский",
+            "name_short": "ТСЖ «Элитный дом»",
+            "orn": 1142366010995,
+            "phone": "8-918-306-28-55",
+            "site": "http://элитныйдом.тсж.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.723062,
+                43.585525
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пер. Чехова, д. 6, к. 3",
+            "email": "tsj.yantarniy@gmail.com",
+            "inn": 2320219878,
+            "name_employee": "Виталий Геннадьевич Толмачев",
+            "name_short": "ТСЖ «Янтарный»",
+            "orn": 1142366003933,
+            "phone": "+7(918)4051222",
+            "site": "www.tsj-yantarnii-sochi.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.726978,
+                43.619086
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пер. Морской, д. 1/1",
+            "email": "alexandrianmayk@mail.ru",
+            "inn": 2320169539,
+            "name_employee": "Валерий Викторович Арчинов",
+            "name_short": "ТСН «Александрийский маяк»",
+            "orn": 1082366004819,
+            "phone": "(862)296-59-10",
+            "site": "Александрийскиймаяк.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.724221,
+                43.576134
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Виноградная, д. 4, п. 19",
+            "email": "tsj_viktoria@bk.ru",
+            "inn": 2320241601,
+            "name_employee": "Зураб Анатольевич Хорава",
+            "name_short": "ТСН «ВИКТОРИЯ»",
+            "orn": 1162366056236,
+            "phone": "8-988-508-77-75",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.715633,
+                43.59733
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Павлова, д. 101",
+            "email": "novichs60@mail.ru",
+            "inn": 2318040954,
+            "name_employee": "Светлана Анатольевна Новичихина",
+            "name_short": "ТСН «Дом 101»",
+            "orn": 1152366004735,
+            "phone": "8-918-917-76-44",
+            "site": "http://tsn-dom-101.kvado.ru/"
+        },
+        "geometry": {
+            "coordinates": [
+                39.337496,
+                43.914441
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Шоссейная, д. 7 «А», лит. А, п. 44",
+            "email": "tat8550@mail.ru",
+            "inn": 2319062911,
+            "name_employee": "Татьяна Иннокентьевна Лапшина",
+            "name_short": "ТСН (жилья) «Звезда»",
+            "orn": 1172375018760,
+            "phone": "8-918-910-2833",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.857872,
+                43.519615
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Искры, д. 66/5, п. 132",
+            "email": "tsn-iskra665.suroegin@yandex.ru",
+            "inn": 2319060142,
+            "name_employee": "ОЛЕГ ПАРФИРЬЕВИЧ СУРОЕГИН",
+            "name_short": "ТСН «ИСКРА 66/5»",
+            "orn": 1162367050251,
+            "phone": "89180423426",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.899527,
+                43.49297
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Туапсинская, д. 43",
+            "email": "tsn.comfort@yandex.ru",
+            "inn": 2320231924,
+            "name_employee": "Инна Геннадьевна Теплова",
+            "name_short": "ТСН «Комфорт»",
+            "orn": 1152366006650,
+            "phone": "8(918)300-56-94",
+            "site": "ук-комфорт-сочи.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.740031,
+                43.593066
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Гайдара, д. 5, к. А",
+            "email": "tsz_comfort@mail.ru",
+            "inn": 2318044229,
+            "name_employee": "Игорь Александрович Феклистов",
+            "name_short": "ТСН «КОМФОРТ+»",
+            "orn": 1172375057480,
+            "phone": "89183063888",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.659021,
+                43.658915
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пер. Горького, д. 18, п. 69",
+            "email": "tsnkrokus-s@yandex.ru",
+            "inn": 2320243775,
+            "name_employee": "Юрий Николаевич Ярыгин",
+            "name_short": "ТСН «КРОКУС-С»",
+            "orn": 1162366058634,
+            "phone": "9628856424",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.727697,
+                43.585048
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Ландышевая, д. 12/7",
+            "email": "galina-beresneva@mail.ru",
+            "inn": 2320229731,
+            "name_employee": "ГАЛИНА ОЛЕГОВНА БЕРЕСНЕВА",
+            "name_short": "ТСН ЛАНДЫШ»",
+            "orn": 1152366004185,
+            "phone": "89891651860",
+            "site": "ais.reformagkh.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.696256,
+                43.635666
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, с. Эсто-Садок, ул. Эстонская, д. дом 119, п. 8",
+            "email": null,
+            "inn": 2317080760,
+            "name_employee": "Евгений Александрович Лопаткин",
+            "name_short": "ТСН «Лаура»",
+            "orn": 1162367051890,
+            "phone": "8 9182018854",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                40.259356,
+                43.684058
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, р-н. Хостинский, ул. Есауленко, д. 4/5",
+            "email": "tsn-mp@yandex.ru",
+            "inn": 2319058993,
+            "name_employee": "Андрей Валериевич Цыгольник",
+            "name_short": "ТСН «Меркури Парк товарищество собственников жилья»",
+            "orn": 1152367002919,
+            "phone": "8-918-912-67-13",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.784866,
+                43.550566
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Ленина, д. 219, к. 21, п. кв.26",
+            "email": "tsnmb17@mail.ru",
+            "inn": 2317084878,
+            "name_employee": "Александр Алексеевич Плоских",
+            "name_short": "ТСН «Морской Бриз»",
+            "orn": 1172375039506,
+            "phone": "89211623608",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.896311,
+                43.468289
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Искры, д. 66, к. 2, п. 3",
+            "email": "tsnnadexhda@mail.ru",
+            "inn": 2317082895,
+            "name_employee": "Светлана Аркадьевна Мещерякова",
+            "name_short": "ТСН « Надежда»",
+            "orn": 1162367055344,
+            "phone": "89184093819",
+            "site": "http://тсннадежда.уксайт.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.899572,
+                43.492237
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Молодогвардейская, д. 2, к. к, п. 36",
+            "email": "tsnvsochi@yandex.ru",
+            "inn": 2319064789,
+            "name_employee": "Надежда Владимировна Торлина",
+            "name_short": "ТСН «НАДЕЖДА»",
+            "orn": 1172375106122,
+            "phone": "+79284520027",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.745178,
+                43.588228
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Театральная, д. 11",
+            "email": "01032002sim@mail.ru",
+            "inn": 2320232090,
+            "name_employee": "Светлана Владимировна Симонова",
+            "name_short": "ТСН «На Театральной»",
+            "orn": 1152366006836,
+            "phone": "89181036377",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.731335,
+                43.573946
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Плеханова, д. 55, к. А",
+            "email": "Gusevanadi@gmail.com",
+            "inn": 2320237965,
+            "name_employee": "Надежда Александровна Гусева ",
+            "name_short": "ТСН «Норильск»",
+            "orn": 1162366052078,
+            "phone": "89884092249",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.700298,
+                43.624861
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Первомайская, д. 6",
+            "email": "tsnpervomay6@mail.ru",
+            "inn": 2320231723,
+            "name_employee": "Надежда Викторовна Лепилкина",
+            "name_short": "ТСН «Первомайская 6»",
+            "orn": 1152366006418,
+            "phone": "+79189053505",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.725227,
+                43.582051
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Чайковского, д. 2, к. Б",
+            "email": "riveraklub@mail.ru",
+            "inn": 2320195232,
+            "name_employee": "Василий Петрович Гужев",
+            "name_short": "ТСН «Ривьера-Клуб»",
+            "orn": 1112366008941,
+            "phone": "+79628894022",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.71954,
+                43.593752
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Пятигорская, д. 88/27, п. 6",
+            "email": "tsntd2019@gmail.com",
+            "inn": 2367006674,
+            "name_employee": "Александр Петрович Шарков",
+            "name_short": "ТСН «Тихий дом»",
+            "orn": 1182375118056,
+            "phone": "+79882865148",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.746157,
+                43.585629
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Туапсинская, д. 7, к. Г",
+            "email": "sav-del@mail.ru",
+            "inn": 2320245878,
+            "name_employee": "Татьяна Борисовна Черновалова",
+            "name_short": "ТСН «ТСЖ Уютный дом»",
+            "orn": 1172375008948,
+            "phone": "+79881502625",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.737201,
+                43.593425
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Ландышевая, д. 12/8",
+            "email": "sidorenkov2010new@gmail.com",
+            "inn": 2320233858,
+            "name_employee": "Игорь Викторович Сидоренков",
+            "name_short": "ТСН «ТСН Ландышевая 12/8»",
+            "orn": 1152366008673,
+            "phone": "+79054047600",
+            "site": "www.ландышевая12-8.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.696516,
+                43.636019
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Звездная, д. 22",
+            "email": "ms.pelochka@mail.ru",
+            "inn": 2319059813,
+            "name_employee": "Вадим Владимирович Бровцев",
+            "name_short": "ТСН «Усадьба»",
+            "orn": 1152367005174,
+            "phone": "89673285446",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.842969,
+                43.529583
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, пер. Рабочий, д. 26",
+            "email": "XOPC26@yandex.ru",
+            "inn": 2320230462,
+            "name_employee": "Валентина Александровна Жмурова",
+            "name_short": "ТСН «ХОРС»",
+            "orn": 1152366005000,
+            "phone": "+7(988)1632616",
+            "site": null
+        },
+        "geometry": {
+            "coordinates": [
+                39.724418,
+                43.607598
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Гагарина, д. 78, п. 3 этаж",
+            "email": "uknovt@gmail.com",
+            "inn": 2320189084,
+            "name_employee": "Илья Викторович Кофанов",
+            "name_short": "УК «Новые технологии»",
+            "orn": 1112366000834,
+            "phone": "8 (862) 235-63-35",
+            "site": "novt.kvado.ru"
+        },
+        "geometry": {
+            "coordinates": [
+                39.73165,
+                43.611182
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Волжская, д. 32, стр. 1, п. 2",
+            "email": "reo.nashdom@inbox.ru",
+            "inn": 2320241841,
+            "name_employee": "Бобан Спасевски",
+            "name_short": "УК ООО РЭО «Наш дом»",
+            "orn": 1162366056490,
+            "phone": "200-02-10",
+            "site": "рэо-наш-дом.рф"
+        },
+        "geometry": {
+            "coordinates": [
+                39.699355,
+                43.632417
+            ]
+        }
+    },
+    {
+        "properties": {
+            "actual_address": "г. Сочи, ул. Островского, д. 67",
+            "email": "1234uss@mail.ru",
+            "inn": 2320145873,
+            "name_employee": "Андрей Борисович Формагин",
+            "name_short": "«Югстройсервис»",
+            "orn": 1062320045050,
+            "phone": "8-988-2378550",
+            "site": "http://www.auokk.ru/uk/ugstroyservice"
+        },
+        "geometry": {
+            "coordinates": [
+                39.724715,
+                43.590905
+            ]
+        }
+    }
+]

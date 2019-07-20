@@ -1,0 +1,314 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                39.9403554,
+                43.40863
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bicycle_parking",
+            "uid": "830106"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9331382,
+                43.4152654
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bicycle_parking",
+            "uid": "1737245"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9398977,
+                43.4215414
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bicycle_parking",
+            "uid": "2758266"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9317023,
+                43.4338081
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "post_box",
+            "uid": "143266"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9359616,
+                43.4169292
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "1737245"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9347167,
+                43.4164182
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "1737245"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9359767,
+                43.41694
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "1737245"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9341466,
+                43.4163601
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "1737245"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9330765,
+                43.4154377
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "1737245"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9338692,
+                43.4160747
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "1737245"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9334365,
+                43.4157934
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "1737245"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9339903,
+                43.4190437
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "1737245"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9340546,
+                43.4190007
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "1737245"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9215552,
+                43.4227316
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "2356855"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.921426,
+                43.4225961
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "2356855"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9213319,
+                43.4225069
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "2356855"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9219172,
+                43.4217459
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "2356855"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9220464,
+                43.4217737
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "2356855"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9221054,
+                43.4217713
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "2356855"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.921922,
+                43.4216578
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "2356855"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9220161,
+                43.421703
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "2356855"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.922115,
+                43.4216845
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "2356855"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9332495,
+                43.4173556
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "6580356"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9360142,
+                43.4122108
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "amenity": "bench",
+            "uid": "491706"
+        }
+    }
+]

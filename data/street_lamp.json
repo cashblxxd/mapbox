@@ -1,0 +1,28 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                39.9384972,
+                43.4143965
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "street_lamp",
+            "uid": "127606"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9384074,
+                43.4147637
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "street_lamp",
+            "uid": "127606"
+        }
+    }
+]

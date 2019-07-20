@@ -1,0 +1,426 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                39.917435,
+                43.4308823
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "uid": "233125"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9163675,
+                43.4314549
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "name": "Южное взморье",
+            "uid": "2647893"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9264837,
+                43.4268782
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "uid": "395697"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9284494,
+                43.4260919
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "bench": "yes",
+            "highway": "bus_stop",
+            "name": "Новый век",
+            "uid": "127606"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9215118,
+                43.4278877
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "name": "Комсомолец",
+            "uid": "3795911"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9179424,
+                43.434102
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "uid": "233125"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9167952,
+                43.4400444
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "uid": "143266"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9217995,
+                43.4409148
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "uid": "143266"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9236803,
+                43.4309603
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "uid": "233125"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9209891,
+                43.4340746
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "uid": "233125"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9256315,
+                43.429837
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "uid": "233125"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9123956,
+                43.4365616
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "name": "Взлетная",
+            "uid": "3820150"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9337118,
+                43.4297548
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "bench": "no",
+            "highway": "bus_stop",
+            "uid": "143266"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9103006,
+                43.4400324
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "name": "Апельсин",
+            "uid": "3914341"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9222468,
+                43.4330343
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "name": "Квартирное бюро",
+            "uid": "233125"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9105029,
+                43.4400513
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "bench": "yes",
+            "highway": "bus_stop",
+            "name": "Апельсин",
+            "uid": "3914341"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9266322,
+                43.42565
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "name": "Рынок \"Новый век\"",
+            "uid": "3914341"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9249368,
+                43.4260756
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "uid": "4428363"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9221391,
+                43.4272657
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "name": "Кинотеатр \"Комсомолец\"",
+            "uid": "4428363"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9134189,
+                43.4354266
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "name": "Космос",
+            "uid": "4428363"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9345886,
+                43.4229701
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "name": "Птицефабрика",
+            "uid": "127606"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9391758,
+                43.421283
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "name": "Южные культуры",
+            "uid": "127606"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.941968,
+                43.4194323
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "uid": "127606"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.925502,
+                43.4258761
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "name": "Рынок",
+            "uid": "127606"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9337559,
+                43.4233975
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "name": "Птицефабрика",
+            "uid": "127606"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9492232,
+                43.408458
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "uid": "1793609"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9473776,
+                43.4112582
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "name": "главный медиацентр",
+            "uid": "1793609"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9412369,
+                43.4123302
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "name": "Жилые дома",
+            "uid": "1793609"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9473868,
+                43.411063
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "name": "Главный медиацентр",
+            "uid": "1793609"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9484988,
+                43.4081118
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "bus_stop",
+            "name": "Керлинговый центр «Ледяной куб»",
+            "uid": "1793609"
+        }
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                39.9454954,
+                43.4245287
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "highway": "stop",
+            "uid": "143266"
+        }
+    }
+]

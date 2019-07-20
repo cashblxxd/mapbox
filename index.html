@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title></title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js'></script>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.css' rel='stylesheet' />
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+
+      #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+      }
+
+      .default {
+        background-image: url('default.png');
+        background-size: cover;
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        cursor: pointer;
+      }
+
+      .atm {
+        background-image: url('atm.png');
+        background-size: cover;
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        cursor: pointer;
+      }
+
+      .problem {
+        background-image: url('problem.png');
+        background-size: cover;
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        cursor: pointer;
+      }
+
+      .mapboxgl-popup {
+        min-width: 1000px;
+        min-height: 1000px;
+      }
+
+      .mapboxgl-popup-content {
+        text-align: center;
+        font-family: 'Open Sans', sans-serif;
+      }
+    </style>
+</head>
+<body>
+
+<div id='map'></div>
+
+<script>
+
+mapboxgl.accessToken = 'pk.eyJ1IjoiY2hyb290IiwiYSI6ImNqeHZzcWtjNjA3dTIzZ2s5OG5sb25xOWwifQ.MIcpNykvUL0-KI-wVzh0XQ';
+
+// <almost copy-pasted part>
+var map = new mapboxgl.Map({
+  container: 'map',
+  style: 'mapbox://styles/mapbox/dark-v10',
+  center: [39.9239, 43.429],
+  zoom: 15
+});
+
+function readTextFile(file, callback) {
+    var rawFile = new XMLHttpRequest();
+    rawFile.overrideMimeType("application/json");
+    rawFile.open("GET", file, true);
+    rawFile.onreadystatechange = function() {
+        if (rawFile.readyState === 4 && rawFile.status == "200") {
+            callback(rawFile.responseText);
+        }
+    }
+    rawFile.send(null);
+}
+
+map.on('load', function () {
+    readTextFile("dist_data/problems.json", function(text){
+      data = JSON.parse(text);
+      map.addSource("point", {
+          "type": "geojson",
+          "data": data
+      });
+      map.addLayer({
+          "id": "problems",
+          "type": "heatmap",
+          "source": "point",
+      });
+    });
+
+var toggleableLayerIds = [ 'problems' ];
+
+for (var i = 0; i < toggleableLayerIds.length; i++) {
+    var id = toggleableLayerIds[i];
+
+    var link = document.createElement('a');
+    link.href = '#';
+    link.className = 'active';
+    link.textContent = id;
+
+    link.onclick = function (e) {
+        var clickedLayer = this.textContent;
+        e.preventDefault();
+        e.stopPropagation();
+
+        var visibility = map.getLayoutProperty(clickedLayer, 'visibility');
+
+        if (visibility === 'visible') {
+            map.setLayoutProperty(clickedLayer, 'visibility', 'none');
+            this.className = '';
+        } else {
+            this.className = 'active';
+            map.setLayoutProperty(clickedLayer, 'visibility', 'visible');
+        }
+    };
+
+    var layers = document.getElementById('menu');
+    layers.appendChild(link);
+}
+
+
+map.on('load', function() {
+    var layers = map.getStyle().layers;
+
+    var labelLayerId;
+    for (var i = 0; i < layers.length; i++) {
+        if (layers[i].type === 'symbol' && layers[i].layout['text-field']) {
+            labelLayerId = layers[i].id;
+            break;
+        }
+    }
+
+    map.addLayer({
+        'id': '3d-buildings',
+        'source': 'composite',
+        'source-layer': 'building',
+        'filter': ['==', 'extrude', 'true'],
+        'type': 'fill-extrusion',
+        'minzoom': 15,
+        'paint': {
+            'fill-extrusion-color': '#aaa',
+            'fill-extrusion-height': [
+                "interpolate", ["linear"], ["zoom"],
+                15, 0,
+                15.05, ["get", "height"]
+            ],
+            'fill-extrusion-base': [
+                "interpolate", ["linear"], ["zoom"],
+                15, 0,
+                15.05, ["get", "min_height"]
+            ],
+            'fill-extrusion-opacity': .6
+        }
+    }, labelLayerId);
+});
+
+// </almost copy-pasted part>
+
+readTextFile("houses1.json", function(text){
+    geojson = JSON.parse(text);
+    console.log(geojson);
+    geojson.forEach(function(marker) {
+
+      var el = document.createElement('div');
+      el.className = 'uk';
+
+      // var header = marker.name_full; // || marker.properties.amenity || marker.properties.operator;
+      // var desc = marker.legal_address; // || marker.properties.cuisine;
+
+      var table = document.createElement("table");
+
+      var tr = table.insertRow(-1);
+
+      var col = [];
+      for (var key in marker.properties) {
+          // if (banned.indexOf(key) !== -1) {continue;}
+          var tr = table.insertRow(-1);
+          var tabCell = tr.insertCell(-1);
+          tabCell.innerHTML = key;
+          var tabCell2 = tr.insertCell(-1);
+          tabCell2.innerHTML = marker.properties[key];
+      }
+
+      console.log(table.innerHTML);
+
+      new mapboxgl.Marker(el)
+        .setLngLat(marker.geometry.coordinates)
+        .setPopup(new mapboxgl.Popup({ offset: 25 })
+        .setHTML('<table>' + table.innerHTML + '</table>'))
+        .addTo(map);
+    });
+});
+
+readTextFile("problems.json", function(text){
+    geojson = JSON.parse(text);
+    console.log(geojson);
+    geojson.features.forEach(function(marker) {
+
+      var el = document.createElement('div');
+      el.className = 'problem';
+
+      // var header = marker.name_full; // || marker.properties.amenity || marker.properties.operator;
+      // var desc = marker.legal_address; // || marker.properties.cuisine;
+
+      var table = document.createElement("table");
+
+      var tr = table.insertRow(-1);
+
+      var col = [];
+      for (var key in marker.properties) {
+          // if (banned.indexOf(key) !== -1) {continue;}
+          var tr = table.insertRow(-1);
+          var tabCell = tr.insertCell(-1);
+          tabCell.innerHTML = key;
+          var tabCell2 = tr.insertCell(-1);
+          tabCell2.innerHTML = marker.properties[key];
+      }
+
+      console.log(table.innerHTML);
+
+      new mapboxgl.Marker(el)
+        .setLngLat(marker.geometry.coordinates)
+        .setPopup(new mapboxgl.Popup({ offset: 25 })
+        .setHTML('<table>' + table.innerHTML + '</table>'))
+        .addTo(map);
+    });
+});
+
+/*readTextFile("config.json", function(text){
+    config = JSON.parse(text);
+    config.forEach(function (elem){
+      readTextFile(elem["path"], function(text){
+          geojson = JSON.parse(text);
+          console.log(geojson);
+          geojson.features.forEach(function(marker) {
+            var el = document.createElement('div');
+            el.className = elem["class_name"];
+            console.log(elem);
+            // var data = get_data(el["class_name"], marker);
+            var header = marker.properties.name || marker.properties.amenity || marker.properties.operator;
+            var desc = marker.properties.amenity || marker.properties.cuisine;
+            new mapboxgl.Marker(el)
+              .setLngLat(marker.geometry.coordinates)
+              .setPopup(new mapboxgl.Popup({ offset: 25 })
+              .setHTML('<h3>' + header + '</h3><p>' + desc + '</p><a>' + '</a>'))
+              .addTo(map);
+          });
+      });
+    });
+});*/
+
+</script>
+
+</body>
+</html>
