@@ -44,7 +44,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5067,
             "leisure": "park",
             "name": "Парк Победы",
             "type": "multipolygon"
@@ -99,7 +98,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5068,
             "leisure": "park"
         }
     },
@@ -144,7 +142,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5069,
             "leisure": "park",
             "name": "Пансионат \"Солнечный Луч\""
         }
@@ -186,7 +183,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5070,
             "leisure": "park"
         }
     },
@@ -219,7 +215,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5071,
             "leisure": "park",
             "name": "Парк им. Бестужева"
         }
@@ -273,7 +268,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5072,
             "leisure": "park"
         }
     },
@@ -306,7 +300,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5073,
             "leisure": "park"
         }
     },
@@ -499,7 +492,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5074,
             "leisure": "park",
             "name": "Парк \"Южные культуры\""
         }
@@ -821,7 +813,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5075,
             "leisure": "park",
             "name": "Олимпийский парк"
         }
@@ -899,7 +890,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5076,
             "leisure": "park"
         }
     },
@@ -1124,7 +1114,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5077,
             "leisure": "park"
         }
     },
@@ -1185,7 +1174,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5078,
             "leisure": "park"
         }
     },
@@ -1395,7 +1383,6 @@
         },
         "properties": {
             "address": "Сочи, Нагорный тупик, 13",
-            "id": 5079,
             "leisure": "park",
             "name": "\"Парк \"Южные культуры\""
         }

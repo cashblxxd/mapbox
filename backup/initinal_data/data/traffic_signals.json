@@ -9,7 +9,7 @@
         },
         "properties": {
             "highway": "traffic_signals",
-            "id": 5049
+            "uid": "127606"
         }
     },
     {
@@ -22,7 +22,7 @@
         },
         "properties": {
             "highway": "traffic_signals",
-            "id": 5050
+            "uid": "233125"
         }
     },
     {
@@ -35,7 +35,7 @@
         },
         "properties": {
             "highway": "traffic_signals",
-            "id": 5051
+            "uid": "7774118"
         }
     },
     {
@@ -48,7 +48,7 @@
         },
         "properties": {
             "highway": "traffic_signals",
-            "id": 5052
+            "uid": "206282"
         }
     },
     {
@@ -61,7 +61,7 @@
         },
         "properties": {
             "highway": "traffic_signals",
-            "id": 5053
+            "uid": "1737245"
         }
     },
     {
@@ -74,7 +74,7 @@
         },
         "properties": {
             "highway": "traffic_signals",
-            "id": 5054
+            "uid": "491706"
         }
     },
     {
@@ -87,7 +87,7 @@
         },
         "properties": {
             "highway": "traffic_signals",
-            "id": 5055
+            "uid": "1737245"
         }
     },
     {
@@ -101,7 +101,7 @@
         "properties": {
             "crossing": "traffic_signals",
             "highway": "traffic_signals",
-            "id": 5056
+            "uid": "233125"
         }
     },
     {
@@ -115,7 +115,7 @@
         "properties": {
             "crossing": "traffic_signals",
             "highway": "traffic_signals",
-            "id": 5057
+            "uid": "491706"
         }
     },
     {
@@ -129,7 +129,7 @@
         "properties": {
             "crossing": "traffic_signals",
             "highway": "traffic_signals",
-            "id": 5058
+            "uid": "491706"
         }
     },
     {
@@ -142,7 +142,7 @@
         },
         "properties": {
             "highway": "traffic_signals",
-            "id": 5059
+            "uid": "2853561"
         }
     },
     {
@@ -156,7 +156,7 @@
         "properties": {
             "crossing": "traffic_signals",
             "highway": "traffic_signals",
-            "id": 5060
+            "uid": "491706"
         }
     },
     {
@@ -170,7 +170,7 @@
         "properties": {
             "crossing": "traffic_signals",
             "highway": "traffic_signals",
-            "id": 5061
+            "uid": "491706"
         }
     },
     {
@@ -184,7 +184,7 @@
         "properties": {
             "crossing": "traffic_signals",
             "highway": "traffic_signals",
-            "id": 5062
+            "uid": "7774118"
         }
     },
     {
@@ -198,7 +198,7 @@
         "properties": {
             "crossing": "traffic_signals",
             "highway": "traffic_signals",
-            "id": 5063
+            "uid": "491706"
         }
     },
     {
@@ -212,7 +212,7 @@
         "properties": {
             "crossing": "traffic_signals",
             "highway": "traffic_signals",
-            "id": 5064
+            "uid": "491706"
         }
     },
     {
@@ -226,7 +226,7 @@
         "properties": {
             "crossing": "traffic_signals",
             "highway": "traffic_signals",
-            "id": 5065
+            "uid": "7774118"
         }
     }
 ]

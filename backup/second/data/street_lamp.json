@@ -8,8 +8,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "street_lamp",
-            "id": 5080
+            "highway": "street_lamp"
         }
     },
     {
@@ -21,8 +20,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "street_lamp",
-            "id": 5081
+            "highway": "street_lamp"
         }
     }
 ]

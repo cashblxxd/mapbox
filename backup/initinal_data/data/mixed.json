@@ -150,9 +150,9 @@
         "properties": {
             "building": "yes",
             "fire_operator": "RU-KDA-10-19",
-            "id": 5082,
             "leisure": "stadium",
-            "name": "Ледовый дворец \"Большой\""
+            "name": "Ледовый дворец \"Большой\"",
+            "uid": "1724658"
         }
     },
     {
@@ -294,9 +294,9 @@
         "properties": {
             "building": "yes",
             "fire_operator": "RU-KDA-10-19",
-            "id": 5083,
             "leisure": "stadium",
-            "name": "Ледяной куб"
+            "name": "Ледяной куб",
+            "uid": "2080395"
         }
     },
     {
@@ -338,8 +338,8 @@
         "properties": {
             "amenity": "kindergarten",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5084,
-            "name": "Детский сад №46"
+            "name": "Детский сад №46",
+            "uid": "1357136"
         }
     },
     {
@@ -373,8 +373,8 @@
         "properties": {
             "amenity": "kindergarten",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5085,
-            "name": "Детский сад №49"
+            "name": "Детский сад №49",
+            "uid": "1357136"
         }
     },
     {
@@ -436,8 +436,8 @@
         "properties": {
             "amenity": "kindergarten",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5086,
-            "name": "Детский сад №114 \"Ручеек\""
+            "name": "Детский сад №114 \"Ручеек\"",
+            "uid": "1724658"
         }
     },
     {
@@ -470,8 +470,8 @@
         },
         "properties": {
             "amenity": "kindergarten",
-            "id": 5087,
-            "name": "Детский сад №93"
+            "name": "Детский сад №93",
+            "uid": "233125"
         }
     },
     {
@@ -509,8 +509,8 @@
         "properties": {
             "amenity": "kindergarten",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5088,
-            "name": "Детский сад №55"
+            "name": "Детский сад №55",
+            "uid": "1357136"
         }
     },
     {
@@ -543,8 +543,8 @@
         },
         "properties": {
             "amenity": "kindergarten",
-            "id": 5089,
-            "name": "Детский сад №92"
+            "name": "Детский сад №92",
+            "uid": "233125"
         }
     },
     {
@@ -582,8 +582,8 @@
         "properties": {
             "amenity": "kindergarten",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5090,
-            "name": "Детский сад №109"
+            "name": "Детский сад №109",
+            "uid": "1357136"
         }
     },
     {
@@ -633,8 +633,8 @@
         "properties": {
             "amenity": "arts_centre",
             "building": "yes",
-            "id": 5091,
-            "name": "Детская художественная школа №2"
+            "name": "Детская художественная школа №2",
+            "uid": "233125"
         }
     },
     {
@@ -647,8 +647,8 @@
         },
         "properties": {
             "amenity": "arts_centre",
-            "id": 5092,
-            "name": "Детская музыкальная школа №3"
+            "name": "Детская музыкальная школа №3",
+            "uid": "233125"
         }
     },
     {
@@ -661,8 +661,8 @@
         },
         "properties": {
             "amenity": "arts_centre",
-            "id": 5093,
-            "name": "Концертный зал \"Мандарин Холл\""
+            "name": "Концертный зал \"Мандарин Холл\"",
+            "uid": "1724658"
         }
     },
     {
@@ -725,8 +725,8 @@
             "amenity": "townhall",
             "building": "yes",
             "building:levels": "1",
-            "id": 5094,
-            "name": "Администрация Адлерского внутригородского района"
+            "name": "Администрация Адлерского внутригородского района",
+            "uid": "706587"
         }
     },
     {
@@ -766,9 +766,9 @@
             "amenity": "fire_station",
             "building": "yes",
             "building:levels": "2",
-            "id": 5095,
             "name": "Пожарно-спасательная часть №13",
-            "operator": "RU-KDA-10"
+            "operator": "RU-KDA-10",
+            "uid": "1357136"
         }
     },
     {
@@ -803,9 +803,9 @@
             "amenity": "fire_station",
             "building": "yes",
             "building:levels": "1",
-            "id": 5096,
             "name": "Пожарная команда РосНефть",
-            "operator": "RU-KDA-10"
+            "operator": "RU-KDA-10",
+            "uid": "1357136"
         }
     },
     {
@@ -838,7 +838,7 @@
         },
         "properties": {
             "building": "warehouse",
-            "id": 5097
+            "uid": "491706"
         }
     },
     {
@@ -871,7 +871,7 @@
         },
         "properties": {
             "building": "warehouse",
-            "id": 5098
+            "uid": "491706"
         }
     },
     {
@@ -904,7 +904,7 @@
         },
         "properties": {
             "building": "church",
-            "id": 5099
+            "uid": "233125"
         }
     },
     {
@@ -917,8 +917,8 @@
         },
         "properties": {
             "amenity": "marketplace",
-            "id": 5100,
-            "name": "Центральный рынок"
+            "name": "Центральный рынок",
+            "uid": "233125"
         }
     },
     {
@@ -961,8 +961,8 @@
             "amenity": "theatre",
             "building": "yes",
             "building:levels": "1",
-            "id": 5101,
-            "name": "РДК \"Адлер\""
+            "name": "РДК \"Адлер\"",
+            "uid": "1357136"
         }
     },
     {
@@ -1000,8 +1000,8 @@
         "properties": {
             "amenity": "hospital",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5102,
-            "name": "Городская больница №6"
+            "name": "Городская больница №6",
+            "uid": "1357136"
         }
     },
     {
@@ -1033,8 +1033,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5103,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "395697"
         }
     },
     {
@@ -1066,8 +1066,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5104,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "395697"
         }
     },
     {
@@ -1099,8 +1099,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5105,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "395697"
         }
     },
     {
@@ -1132,8 +1132,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5106,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "395697"
         }
     },
     {
@@ -1169,8 +1169,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5107,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "523904"
         }
     },
     {
@@ -1202,8 +1202,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5108,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "491706"
         }
     },
     {
@@ -1235,8 +1235,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5109,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "1737245"
         }
     },
     {
@@ -1268,8 +1268,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5110,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "1724891"
         }
     },
     {
@@ -1301,8 +1301,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5111,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "127606"
         }
     },
     {
@@ -1314,8 +1314,8 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5112,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "233125"
         }
     },
     {
@@ -1327,8 +1327,8 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5113,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "233125"
         }
     },
     {
@@ -1340,8 +1340,8 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5114,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "233125"
         }
     },
     {
@@ -1353,8 +1353,8 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5115,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "233125"
         }
     },
     {
@@ -1366,8 +1366,8 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5116,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "233125"
         }
     },
     {
@@ -1379,8 +1379,8 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5117,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "233125"
         }
     },
     {
@@ -1392,8 +1392,8 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5118,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "233125"
         }
     },
     {
@@ -1405,8 +1405,8 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5119,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "233125"
         }
     },
     {
@@ -1418,8 +1418,8 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5120,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "233125"
         }
     },
     {
@@ -1431,8 +1431,8 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5121,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "233125"
         }
     },
     {
@@ -1444,8 +1444,8 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5122,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "233125"
         }
     },
     {
@@ -1457,8 +1457,8 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5123,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "491706"
         }
     },
     {
@@ -1470,8 +1470,8 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5124,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "1737245"
         }
     },
     {
@@ -1483,8 +1483,8 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5125,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "4406079"
         }
     },
     {
@@ -1496,8 +1496,8 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5126,
-            "leisure": "playground"
+            "leisure": "playground",
+            "uid": "10028597"
         }
     },
     {
@@ -1532,8 +1532,8 @@
             "amenity": "university",
             "building": "yes",
             "building:levels": "1",
-            "id": 5127,
-            "name": "ЧГА корпус №3"
+            "name": "ЧГА корпус №3",
+            "uid": "233125"
         }
     },
     {
@@ -1578,7 +1578,7 @@
         },
         "properties": {
             "amenity": "university",
-            "id": 5128
+            "uid": "70696"
         }
     },
     {
@@ -1612,8 +1612,8 @@
         "properties": {
             "amenity": "university",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5129,
-            "name": "РУДН"
+            "name": "РУДН",
+            "uid": "2695190"
         }
     },
     {
@@ -1663,8 +1663,8 @@
         "properties": {
             "amenity": "school",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5130,
-            "name": "Лицей №59"
+            "name": "Лицей №59",
+            "uid": "1357136"
         }
     },
     {
@@ -1698,8 +1698,8 @@
         "properties": {
             "amenity": "school",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5131,
-            "name": "Школа №25"
+            "name": "Школа №25",
+            "uid": "1724658"
         }
     },
     {
@@ -1733,7 +1733,7 @@
         "properties": {
             "amenity": "school",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5132
+            "uid": "1357136"
         }
     },
     {
@@ -1775,8 +1775,8 @@
         "properties": {
             "amenity": "school",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5133,
-            "name": "Школа №49"
+            "name": "Школа №49",
+            "uid": "1724658"
         }
     },
     {
@@ -1789,8 +1789,8 @@
         },
         "properties": {
             "amenity": "school",
-            "id": 5134,
-            "name": "Средняя школа № 31"
+            "name": "Средняя школа № 31",
+            "uid": "481934"
         }
     },
     {
@@ -1823,7 +1823,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5135
+            "uid": "127606"
         }
     },
     {
@@ -1858,7 +1858,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5136
+            "uid": "2696314"
         }
     },
     {
@@ -1897,8 +1897,8 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5137,
-            "name": "Насыпная улица"
+            "name": "Насыпная улица",
+            "uid": "309427"
         }
     },
     {
@@ -1961,7 +1961,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5138
+            "uid": "491706"
         }
     },
     {
@@ -2016,7 +2016,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5139
+            "uid": "127606"
         }
     },
     {
@@ -2035,7 +2035,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5140
+            "uid": "523904"
         }
     },
     {
@@ -2058,7 +2058,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5141
+            "uid": "233125"
         }
     },
     {
@@ -2105,7 +2105,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5142
+            "uid": "233125"
         }
     },
     {
@@ -2136,8 +2136,8 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5143,
-            "name": "улица Революции"
+            "name": "улица Революции",
+            "uid": "491706"
         }
     },
     {
@@ -2172,7 +2172,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5144
+            "uid": "233125"
         }
     },
     {
@@ -2191,7 +2191,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5145
+            "uid": "233125"
         }
     },
     {
@@ -2210,7 +2210,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5146
+            "uid": "233125"
         }
     },
     {
@@ -2269,7 +2269,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5147
+            "uid": "2696314"
         }
     },
     {
@@ -2288,7 +2288,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5148
+            "uid": "233125"
         }
     },
     {
@@ -2331,7 +2331,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5149
+            "uid": "2356855"
         }
     },
     {
@@ -2358,7 +2358,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5150
+            "uid": "233125"
         }
     },
     {
@@ -2389,7 +2389,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5151
+            "uid": "233125"
         }
     },
     {
@@ -2408,8 +2408,8 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5152,
-            "name": "Черниговская улица"
+            "name": "Черниговская улица",
+            "uid": "491706"
         }
     },
     {
@@ -2432,7 +2432,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5153
+            "uid": "233125"
         }
     },
     {
@@ -2451,7 +2451,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5154
+            "uid": "233241"
         }
     },
     {
@@ -2474,7 +2474,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5155
+            "uid": "233241"
         }
     },
     {
@@ -2493,7 +2493,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5156
+            "uid": "233125"
         }
     },
     {
@@ -2516,7 +2516,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5157
+            "uid": "2696314"
         }
     },
     {
@@ -2547,7 +2547,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5158
+            "uid": "233125"
         }
     },
     {
@@ -2618,7 +2618,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5159
+            "uid": "233125"
         }
     },
     {
@@ -2641,7 +2641,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5160
+            "uid": "143266"
         }
     },
     {
@@ -2676,7 +2676,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5161
+            "uid": "143266"
         }
     },
     {
@@ -2695,7 +2695,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5162
+            "uid": "233125"
         }
     },
     {
@@ -2714,7 +2714,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5163
+            "uid": "233125"
         }
     },
     {
@@ -2749,7 +2749,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5164
+            "uid": "143266"
         }
     },
     {
@@ -2768,7 +2768,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5165
+            "uid": "233125"
         }
     },
     {
@@ -2799,7 +2799,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5166
+            "uid": "233125"
         }
     },
     {
@@ -2822,7 +2822,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5167
+            "uid": "233125"
         }
     },
     {
@@ -2849,7 +2849,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5168
+            "uid": "233125"
         }
     },
     {
@@ -2876,7 +2876,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5169
+            "uid": "233125"
         }
     },
     {
@@ -2907,7 +2907,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5170
+            "uid": "143266"
         }
     },
     {
@@ -2930,7 +2930,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5171
+            "uid": "143266"
         }
     },
     {
@@ -2953,7 +2953,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5172
+            "uid": "233125"
         }
     },
     {
@@ -2988,7 +2988,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5173
+            "uid": "233125"
         }
     },
     {
@@ -3047,7 +3047,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5174
+            "uid": "143266"
         }
     },
     {
@@ -3066,7 +3066,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5175
+            "uid": "233125"
         }
     },
     {
@@ -3085,7 +3085,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5176
+            "uid": "233125"
         }
     },
     {
@@ -3104,7 +3104,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5177
+            "uid": "233125"
         }
     },
     {
@@ -3127,7 +3127,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5178
+            "uid": "233125"
         }
     },
     {
@@ -3146,7 +3146,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5179
+            "uid": "143266"
         }
     },
     {
@@ -3169,7 +3169,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5180
+            "uid": "143266"
         }
     },
     {
@@ -3208,7 +3208,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5181
+            "uid": "233125"
         }
     },
     {
@@ -3235,7 +3235,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5182
+            "uid": "233125"
         }
     },
     {
@@ -3282,7 +3282,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5183
+            "uid": "1101912"
         }
     },
     {
@@ -3333,7 +3333,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5184
+            "uid": "143266"
         }
     },
     {
@@ -3352,7 +3352,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5185
+            "uid": "233125"
         }
     },
     {
@@ -3387,7 +3387,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5186
+            "uid": "143266"
         }
     },
     {
@@ -3406,7 +3406,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5187
+            "uid": "206282"
         }
     },
     {
@@ -3445,7 +3445,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5188
+            "uid": "143266"
         }
     },
     {
@@ -3504,7 +3504,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5189
+            "uid": "143266"
         }
     },
     {
@@ -3523,7 +3523,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5190
+            "uid": "241531"
         }
     },
     {
@@ -3546,7 +3546,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5191
+            "uid": "523904"
         }
     },
     {
@@ -3757,7 +3757,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5192
+            "uid": "206282"
         }
     },
     {
@@ -3780,7 +3780,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5193
+            "uid": "233125"
         }
     },
     {
@@ -3851,7 +3851,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5194
+            "uid": "127606"
         }
     },
     {
@@ -3878,7 +3878,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5195
+            "uid": "233125"
         }
     },
     {
@@ -3905,7 +3905,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5196
+            "uid": "233125"
         }
     },
     {
@@ -3928,7 +3928,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5197
+            "uid": "2356855"
         }
     },
     {
@@ -3951,7 +3951,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5198
+            "uid": "233125"
         }
     },
     {
@@ -3990,7 +3990,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5199
+            "uid": "599708"
         }
     },
     {
@@ -4010,7 +4010,7 @@
         "properties": {
             "bridge": "yes",
             "highway": "service",
-            "id": 5200
+            "uid": "706587"
         }
     },
     {
@@ -4045,7 +4045,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5201
+            "uid": "233125"
         }
     },
     {
@@ -4068,7 +4068,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5202
+            "uid": "233125"
         }
     },
     {
@@ -4087,7 +4087,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5203
+            "uid": "233125"
         }
     },
     {
@@ -4106,7 +4106,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5204
+            "uid": "233125"
         }
     },
     {
@@ -4125,7 +4125,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5205
+            "uid": "233125"
         }
     },
     {
@@ -4148,7 +4148,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5206
+            "uid": "706587"
         }
     },
     {
@@ -4195,7 +4195,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5207
+            "uid": "127606"
         }
     },
     {
@@ -4234,7 +4234,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5208
+            "uid": "233125"
         }
     },
     {
@@ -4289,7 +4289,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5209
+            "uid": "499195"
         }
     },
     {
@@ -4320,7 +4320,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5210
+            "uid": "233125"
         }
     },
     {
@@ -4367,8 +4367,8 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5211,
-            "name": "Жемчужная улица"
+            "name": "Жемчужная улица",
+            "uid": "233125"
         }
     },
     {
@@ -4399,7 +4399,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5212
+            "uid": "233125"
         }
     },
     {
@@ -4430,7 +4430,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5213
+            "uid": "2696314"
         }
     },
     {
@@ -4469,7 +4469,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5214
+            "uid": "395697"
         }
     },
     {
@@ -4488,7 +4488,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5215
+            "uid": "233125"
         }
     },
     {
@@ -4527,7 +4527,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5216
+            "uid": "395697"
         }
     },
     {
@@ -4546,7 +4546,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5217
+            "uid": "233125"
         }
     },
     {
@@ -4577,7 +4577,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5218
+            "uid": "233125"
         }
     },
     {
@@ -4600,7 +4600,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5219
+            "uid": "233125"
         }
     },
     {
@@ -4619,7 +4619,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5220
+            "uid": "233125"
         }
     },
     {
@@ -4666,7 +4666,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5221
+            "uid": "233125"
         }
     },
     {
@@ -4685,7 +4685,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5222
+            "uid": "233125"
         }
     },
     {
@@ -4708,7 +4708,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5223
+            "uid": "404094"
         }
     },
     {
@@ -4735,7 +4735,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5224
+            "uid": "127606"
         }
     },
     {
@@ -4754,7 +4754,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5225
+            "uid": "404094"
         }
     },
     {
@@ -4773,7 +4773,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5226
+            "uid": "404094"
         }
     },
     {
@@ -4796,7 +4796,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5227
+            "uid": "127606"
         }
     },
     {
@@ -4819,7 +4819,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5228
+            "uid": "127606"
         }
     },
     {
@@ -4842,7 +4842,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5229
+            "uid": "206282"
         }
     },
     {
@@ -4865,7 +4865,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5230
+            "uid": "206282"
         }
     },
     {
@@ -4884,7 +4884,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5231
+            "uid": "206282"
         }
     },
     {
@@ -4927,7 +4927,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5232
+            "uid": "127606"
         }
     },
     {
@@ -4990,7 +4990,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5233
+            "uid": "206282"
         }
     },
     {
@@ -5045,7 +5045,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5234
+            "uid": "127606"
         }
     },
     {
@@ -5080,7 +5080,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5235
+            "uid": "233125"
         }
     },
     {
@@ -5119,7 +5119,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5236
+            "uid": "143266"
         }
     },
     {
@@ -5170,7 +5170,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5237
+            "uid": "233125"
         }
     },
     {
@@ -5189,7 +5189,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5238
+            "uid": "5176747"
         }
     },
     {
@@ -5212,7 +5212,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5239
+            "uid": "233125"
         }
     },
     {
@@ -5243,7 +5243,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5240
+            "uid": "233125"
         }
     },
     {
@@ -5298,7 +5298,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5241
+            "uid": "233125"
         }
     },
     {
@@ -5337,7 +5337,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5242
+            "uid": "233125"
         }
     },
     {
@@ -5368,7 +5368,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5243
+            "uid": "233125"
         }
     },
     {
@@ -5395,7 +5395,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5244
+            "uid": "233125"
         }
     },
     {
@@ -5426,7 +5426,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5245
+            "uid": "2356855"
         }
     },
     {
@@ -5449,7 +5449,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5246
+            "uid": "2356855"
         }
     },
     {
@@ -5472,7 +5472,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5247
+            "uid": "2356855"
         }
     },
     {
@@ -5515,7 +5515,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5248
+            "uid": "2356855"
         }
     },
     {
@@ -5550,8 +5550,8 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5249,
-            "name": "переулок Богдана Хмельницкого"
+            "name": "переулок Богдана Хмельницкого",
+            "uid": "233125"
         }
     },
     {
@@ -5574,7 +5574,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5250
+            "uid": "233125"
         }
     },
     {
@@ -5701,7 +5701,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5251
+            "uid": "491706"
         }
     },
     {
@@ -5744,7 +5744,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5252
+            "uid": "143266"
         }
     },
     {
@@ -5807,7 +5807,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5253
+            "uid": "233125"
         }
     },
     {
@@ -5826,7 +5826,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5254
+            "uid": "233125"
         }
     },
     {
@@ -5865,7 +5865,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5255
+            "uid": "1724658"
         }
     },
     {
@@ -5900,7 +5900,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5256
+            "uid": "233125"
         }
     },
     {
@@ -5935,7 +5935,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5257
+            "uid": "143266"
         }
     },
     {
@@ -6026,7 +6026,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5258
+            "uid": "143266"
         }
     },
     {
@@ -6045,7 +6045,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5259
+            "uid": "233125"
         }
     },
     {
@@ -6076,7 +6076,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5260
+            "uid": "233125"
         }
     },
     {
@@ -6095,7 +6095,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5261
+            "uid": "706587"
         }
     },
     {
@@ -6126,7 +6126,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5262
+            "uid": "233125"
         }
     },
     {
@@ -6157,7 +6157,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5263
+            "uid": "233125"
         }
     },
     {
@@ -6188,7 +6188,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5264
+            "uid": "127606"
         }
     },
     {
@@ -6227,7 +6227,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5265
+            "uid": "233125"
         }
     },
     {
@@ -6246,7 +6246,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5266
+            "uid": "523904"
         }
     },
     {
@@ -6269,7 +6269,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5267
+            "uid": "523904"
         }
     },
     {
@@ -6288,7 +6288,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5268
+            "uid": "4792552"
         }
     },
     {
@@ -6307,7 +6307,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5269
+            "uid": "395697"
         }
     },
     {
@@ -6338,7 +6338,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5270
+            "uid": "233125"
         }
     },
     {
@@ -6357,7 +6357,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5271
+            "uid": "233125"
         }
     },
     {
@@ -6392,7 +6392,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5272
+            "uid": "233125"
         }
     },
     {
@@ -6435,7 +6435,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5273
+            "uid": "233125"
         }
     },
     {
@@ -6470,7 +6470,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5274
+            "uid": "233125"
         }
     },
     {
@@ -6497,7 +6497,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5275
+            "uid": "523904"
         }
     },
     {
@@ -6520,7 +6520,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5276
+            "uid": "523904"
         }
     },
     {
@@ -6539,7 +6539,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5277
+            "uid": "523904"
         }
     },
     {
@@ -6590,7 +6590,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5278
+            "uid": "523904"
         }
     },
     {
@@ -6613,7 +6613,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5279
+            "uid": "523904"
         }
     },
     {
@@ -6632,7 +6632,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5280
+            "uid": "523904"
         }
     },
     {
@@ -6663,7 +6663,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5281
+            "uid": "706587"
         }
     },
     {
@@ -6682,7 +6682,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5282
+            "uid": "523904"
         }
     },
     {
@@ -6701,7 +6701,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5283
+            "uid": "523904"
         }
     },
     {
@@ -6724,7 +6724,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5284
+            "uid": "523904"
         }
     },
     {
@@ -6751,7 +6751,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5285
+            "uid": "523904"
         }
     },
     {
@@ -6790,7 +6790,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5286
+            "uid": "206282"
         }
     },
     {
@@ -6813,7 +6813,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5287
+            "uid": "523904"
         }
     },
     {
@@ -6832,7 +6832,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5288
+            "uid": "523904"
         }
     },
     {
@@ -6851,7 +6851,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5289
+            "uid": "523904"
         }
     },
     {
@@ -6870,7 +6870,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5290
+            "uid": "523904"
         }
     },
     {
@@ -6889,7 +6889,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5291
+            "uid": "523904"
         }
     },
     {
@@ -6916,7 +6916,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5292
+            "uid": "2696314"
         }
     },
     {
@@ -6943,7 +6943,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5293
+            "uid": "523904"
         }
     },
     {
@@ -6966,7 +6966,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5294
+            "uid": "523904"
         }
     },
     {
@@ -7001,7 +7001,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5295
+            "uid": "523904"
         }
     },
     {
@@ -7020,7 +7020,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5296
+            "uid": "523904"
         }
     },
     {
@@ -7047,7 +7047,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5297
+            "uid": "523904"
         }
     },
     {
@@ -7066,7 +7066,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5298
+            "uid": "233125"
         }
     },
     {
@@ -7097,7 +7097,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5299
+            "uid": "143266"
         }
     },
     {
@@ -7152,7 +7152,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5300
+            "uid": "1101912"
         }
     },
     {
@@ -7199,7 +7199,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5301
+            "uid": "233125"
         }
     },
     {
@@ -7226,7 +7226,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5302
+            "uid": "1357136"
         }
     },
     {
@@ -7245,7 +7245,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5303
+            "uid": "233125"
         }
     },
     {
@@ -7268,7 +7268,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5304
+            "uid": "1357136"
         }
     },
     {
@@ -7299,7 +7299,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5305
+            "uid": "233125"
         }
     },
     {
@@ -7322,7 +7322,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5306
+            "uid": "143266"
         }
     },
     {
@@ -7441,7 +7441,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5307
+            "uid": "533140"
         }
     },
     {
@@ -7480,7 +7480,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5308
+            "uid": "233125"
         }
     },
     {
@@ -7503,7 +7503,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5309
+            "uid": "127606"
         }
     },
     {
@@ -7558,7 +7558,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5310
+            "uid": "143266"
         }
     },
     {
@@ -7581,7 +7581,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5311
+            "uid": "143266"
         }
     },
     {
@@ -7612,7 +7612,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5312
+            "uid": "143266"
         }
     },
     {
@@ -7659,7 +7659,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5313
+            "uid": "143266"
         }
     },
     {
@@ -7682,7 +7682,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5314
+            "uid": "233125"
         }
     },
     {
@@ -7733,7 +7733,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5315
+            "uid": "143266"
         }
     },
     {
@@ -7804,7 +7804,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5316
+            "uid": "143266"
         }
     },
     {
@@ -7823,7 +7823,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5317
+            "uid": "143266"
         }
     },
     {
@@ -7842,7 +7842,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5318
+            "uid": "143266"
         }
     },
     {
@@ -7861,7 +7861,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5319
+            "uid": "143266"
         }
     },
     {
@@ -7880,7 +7880,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5320
+            "uid": "143266"
         }
     },
     {
@@ -7903,7 +7903,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5321
+            "uid": "143266"
         }
     },
     {
@@ -7926,7 +7926,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5322
+            "uid": "143266"
         }
     },
     {
@@ -7949,7 +7949,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5323
+            "uid": "143266"
         }
     },
     {
@@ -7972,7 +7972,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5324
+            "uid": "143266"
         }
     },
     {
@@ -7995,7 +7995,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5325
+            "uid": "143266"
         }
     },
     {
@@ -8018,7 +8018,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5326
+            "uid": "143266"
         }
     },
     {
@@ -8041,7 +8041,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5327
+            "uid": "143266"
         }
     },
     {
@@ -8064,7 +8064,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5328
+            "uid": "143266"
         }
     },
     {
@@ -8087,7 +8087,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5329
+            "uid": "143266"
         }
     },
     {
@@ -8110,7 +8110,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5330
+            "uid": "143266"
         }
     },
     {
@@ -8137,7 +8137,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5331
+            "uid": "143266"
         }
     },
     {
@@ -8164,7 +8164,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5332
+            "uid": "143266"
         }
     },
     {
@@ -8191,7 +8191,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5333
+            "uid": "143266"
         }
     },
     {
@@ -8218,7 +8218,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5334
+            "uid": "143266"
         }
     },
     {
@@ -8249,7 +8249,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5335
+            "uid": "143266"
         }
     },
     {
@@ -8280,7 +8280,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5336
+            "uid": "143266"
         }
     },
     {
@@ -8311,7 +8311,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5337
+            "uid": "143266"
         }
     },
     {
@@ -8346,7 +8346,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5338
+            "uid": "143266"
         }
     },
     {
@@ -8381,7 +8381,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5339
+            "uid": "143266"
         }
     },
     {
@@ -8420,7 +8420,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5340
+            "uid": "143266"
         }
     },
     {
@@ -8459,7 +8459,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5341
+            "uid": "143266"
         }
     },
     {
@@ -8502,7 +8502,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5342
+            "uid": "143266"
         }
     },
     {
@@ -8521,7 +8521,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5343
+            "uid": "143266"
         }
     },
     {
@@ -8540,7 +8540,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5344
+            "uid": "143266"
         }
     },
     {
@@ -8559,7 +8559,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5345
+            "uid": "143266"
         }
     },
     {
@@ -8586,7 +8586,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5346
+            "uid": "143266"
         }
     },
     {
@@ -8609,7 +8609,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5347
+            "uid": "143266"
         }
     },
     {
@@ -8644,7 +8644,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5348
+            "uid": "143266"
         }
     },
     {
@@ -8687,7 +8687,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5349
+            "uid": "206282"
         }
     },
     {
@@ -8714,7 +8714,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5350
+            "uid": "233125"
         }
     },
     {
@@ -8737,7 +8737,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5351
+            "uid": "143266"
         }
     },
     {
@@ -8796,7 +8796,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5352
+            "uid": "143266"
         }
     },
     {
@@ -8871,7 +8871,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5353
+            "uid": "4792552"
         }
     },
     {
@@ -8890,7 +8890,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5354
+            "uid": "143266"
         }
     },
     {
@@ -8909,7 +8909,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5355
+            "uid": "143266"
         }
     },
     {
@@ -8928,7 +8928,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5356
+            "uid": "143266"
         }
     },
     {
@@ -8947,7 +8947,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5357
+            "uid": "143266"
         }
     },
     {
@@ -8974,7 +8974,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5358
+            "uid": "143266"
         }
     },
     {
@@ -9009,7 +9009,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5359
+            "uid": "143266"
         }
     },
     {
@@ -9040,7 +9040,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5360
+            "uid": "143266"
         }
     },
     {
@@ -9071,7 +9071,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5361
+            "uid": "143266"
         }
     },
     {
@@ -9106,7 +9106,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5362
+            "uid": "143266"
         }
     },
     {
@@ -9125,7 +9125,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5363
+            "uid": "143266"
         }
     },
     {
@@ -9148,7 +9148,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5364
+            "uid": "143266"
         }
     },
     {
@@ -9175,7 +9175,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5365
+            "uid": "143266"
         }
     },
     {
@@ -9202,7 +9202,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5366
+            "uid": "143266"
         }
     },
     {
@@ -9221,7 +9221,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5367
+            "uid": "143266"
         }
     },
     {
@@ -9240,7 +9240,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5368
+            "uid": "143266"
         }
     },
     {
@@ -9263,7 +9263,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5369
+            "uid": "143266"
         }
     },
     {
@@ -9286,7 +9286,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5370
+            "uid": "143266"
         }
     },
     {
@@ -9313,7 +9313,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5371
+            "uid": "143266"
         }
     },
     {
@@ -9340,7 +9340,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5372
+            "uid": "143266"
         }
     },
     {
@@ -9375,7 +9375,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5373
+            "uid": "143266"
         }
     },
     {
@@ -9422,7 +9422,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5374
+            "uid": "143266"
         }
     },
     {
@@ -9449,7 +9449,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5375
+            "uid": "127606"
         }
     },
     {
@@ -9468,7 +9468,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5376
+            "uid": "233125"
         }
     },
     {
@@ -9495,7 +9495,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5377
+            "uid": "233125"
         }
     },
     {
@@ -9514,7 +9514,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5378
+            "uid": "233125"
         }
     },
     {
@@ -9533,7 +9533,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5379
+            "uid": "233125"
         }
     },
     {
@@ -9556,7 +9556,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5380
+            "uid": "233125"
         }
     },
     {
@@ -9579,7 +9579,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5381
+            "uid": "233125"
         }
     },
     {
@@ -9610,7 +9610,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5382
+            "uid": "233125"
         }
     },
     {
@@ -9629,7 +9629,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5383
+            "uid": "233125"
         }
     },
     {
@@ -9692,7 +9692,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5384
+            "uid": "233125"
         }
     },
     {
@@ -9711,7 +9711,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5385
+            "uid": "1724658"
         }
     },
     {
@@ -9746,7 +9746,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5386
+            "uid": "233125"
         }
     },
     {
@@ -9789,7 +9789,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5387
+            "uid": "233125"
         }
     },
     {
@@ -9852,7 +9852,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5388
+            "uid": "127606"
         }
     },
     {
@@ -9871,7 +9871,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5389
+            "uid": "233125"
         }
     },
     {
@@ -9890,7 +9890,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5390
+            "uid": "233125"
         }
     },
     {
@@ -9909,7 +9909,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5391
+            "uid": "233125"
         }
     },
     {
@@ -9936,7 +9936,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5392
+            "uid": "233125"
         }
     },
     {
@@ -9963,7 +9963,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5393
+            "uid": "233125"
         }
     },
     {
@@ -10010,7 +10010,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5394
+            "uid": "309427"
         }
     },
     {
@@ -10029,7 +10029,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5395
+            "uid": "233125"
         }
     },
     {
@@ -10052,7 +10052,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5396
+            "uid": "233125"
         }
     },
     {
@@ -10075,7 +10075,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5397
+            "uid": "233125"
         }
     },
     {
@@ -10114,7 +10114,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5398
+            "uid": "233125"
         }
     },
     {
@@ -10165,7 +10165,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5399
+            "uid": "491706"
         }
     },
     {
@@ -10184,7 +10184,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5400
+            "uid": "233125"
         }
     },
     {
@@ -10207,7 +10207,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5401
+            "uid": "706587"
         }
     },
     {
@@ -10226,7 +10226,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5402
+            "uid": "491706"
         }
     },
     {
@@ -10257,7 +10257,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5403
+            "uid": "2758266"
         }
     },
     {
@@ -10316,7 +10316,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5404
+            "uid": "491706"
         }
     },
     {
@@ -10335,7 +10335,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5405
+            "uid": "206282"
         }
     },
     {
@@ -10362,7 +10362,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5406
+            "uid": "206282"
         }
     },
     {
@@ -10385,7 +10385,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5407
+            "uid": "491706"
         }
     },
     {
@@ -10468,7 +10468,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5408
+            "uid": "491706"
         }
     },
     {
@@ -10547,7 +10547,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5409
+            "uid": "491706"
         }
     },
     {
@@ -10586,7 +10586,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5410
+            "uid": "491706"
         }
     },
     {
@@ -10605,7 +10605,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5411
+            "uid": "491706"
         }
     },
     {
@@ -10632,7 +10632,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5412
+            "uid": "491706"
         }
     },
     {
@@ -10659,7 +10659,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5413
+            "uid": "491706"
         }
     },
     {
@@ -10722,7 +10722,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5414
+            "uid": "2758266"
         }
     },
     {
@@ -10753,7 +10753,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5415
+            "uid": "491706"
         }
     },
     {
@@ -10788,7 +10788,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5416
+            "uid": "491706"
         }
     },
     {
@@ -10807,7 +10807,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5417
+            "uid": "491706"
         }
     },
     {
@@ -10838,7 +10838,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5418
+            "uid": "491706"
         }
     },
     {
@@ -10909,7 +10909,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5419
+            "uid": "491706"
         }
     },
     {
@@ -10932,7 +10932,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5420
+            "uid": "233125"
         }
     },
     {
@@ -10987,7 +10987,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5421
+            "uid": "491706"
         }
     },
     {
@@ -11014,7 +11014,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5422
+            "uid": "233125"
         }
     },
     {
@@ -11049,7 +11049,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5423
+            "uid": "233125"
         }
     },
     {
@@ -11068,7 +11068,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5424
+            "uid": "127606"
         }
     },
     {
@@ -11095,7 +11095,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5425
+            "uid": "127606"
         }
     },
     {
@@ -11130,7 +11130,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5426
+            "uid": "233125"
         }
     },
     {
@@ -11153,7 +11153,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5427
+            "uid": "206282"
         }
     },
     {
@@ -11196,7 +11196,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5428
+            "uid": "233125"
         }
     },
     {
@@ -11215,7 +11215,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5429
+            "uid": "233125"
         }
     },
     {
@@ -11238,7 +11238,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5430
+            "uid": "233125"
         }
     },
     {
@@ -11277,7 +11277,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5431
+            "uid": "233125"
         }
     },
     {
@@ -11312,7 +11312,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5432
+            "uid": "2696314"
         }
     },
     {
@@ -11335,7 +11335,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5433
+            "uid": "1724658"
         }
     },
     {
@@ -11354,7 +11354,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5434
+            "uid": "233125"
         }
     },
     {
@@ -11373,7 +11373,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5435
+            "uid": "233125"
         }
     },
     {
@@ -11392,7 +11392,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5436
+            "uid": "233125"
         }
     },
     {
@@ -11411,7 +11411,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5437
+            "uid": "233125"
         }
     },
     {
@@ -11430,7 +11430,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5438
+            "uid": "233125"
         }
     },
     {
@@ -11449,7 +11449,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5439
+            "uid": "233125"
         }
     },
     {
@@ -11468,7 +11468,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5440
+            "uid": "233125"
         }
     },
     {
@@ -11487,7 +11487,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5441
+            "uid": "233125"
         }
     },
     {
@@ -11506,7 +11506,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5442
+            "uid": "233125"
         }
     },
     {
@@ -11525,7 +11525,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5443
+            "uid": "233125"
         }
     },
     {
@@ -11544,7 +11544,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5444
+            "uid": "233125"
         }
     },
     {
@@ -11563,7 +11563,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5445
+            "uid": "233125"
         }
     },
     {
@@ -12038,7 +12038,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5446
+            "uid": "1724658"
         }
     },
     {
@@ -12065,7 +12065,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5447
+            "uid": "233125"
         }
     },
     {
@@ -12096,8 +12096,8 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5448,
-            "name": "Интернациональная улица"
+            "name": "Интернациональная улица",
+            "uid": "4792552"
         }
     },
     {
@@ -12120,7 +12120,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5449
+            "uid": "233125"
         }
     },
     {
@@ -12363,7 +12363,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5450
+            "uid": "96194"
         }
     },
     {
@@ -12386,7 +12386,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5451
+            "uid": "706587"
         }
     },
     {
@@ -12409,7 +12409,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5452
+            "uid": "385027"
         }
     },
     {
@@ -12440,7 +12440,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5453
+            "uid": "2356855"
         }
     },
     {
@@ -12475,7 +12475,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5454
+            "uid": "233125"
         }
     },
     {
@@ -12510,7 +12510,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5455
+            "uid": "233125"
         }
     },
     {
@@ -12537,7 +12537,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5456
+            "uid": "233125"
         }
     },
     {
@@ -12556,7 +12556,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5457
+            "uid": "233125"
         }
     },
     {
@@ -12579,7 +12579,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5458
+            "uid": "233125"
         }
     },
     {
@@ -12650,7 +12650,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5459
+            "uid": "1724658"
         }
     },
     {
@@ -12669,7 +12669,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5460
+            "uid": "233125"
         }
     },
     {
@@ -12688,7 +12688,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5461
+            "uid": "233125"
         }
     },
     {
@@ -12707,7 +12707,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5462
+            "uid": "233125"
         }
     },
     {
@@ -12726,7 +12726,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5463
+            "uid": "233125"
         }
     },
     {
@@ -12745,7 +12745,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5464
+            "uid": "233125"
         }
     },
     {
@@ -12772,7 +12772,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5465
+            "uid": "206282"
         }
     },
     {
@@ -12791,7 +12791,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5466
+            "uid": "233125"
         }
     },
     {
@@ -12810,7 +12810,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5467
+            "uid": "233125"
         }
     },
     {
@@ -12829,7 +12829,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5468
+            "uid": "233125"
         }
     },
     {
@@ -12848,7 +12848,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5469
+            "uid": "206282"
         }
     },
     {
@@ -12867,7 +12867,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5470
+            "uid": "233125"
         }
     },
     {
@@ -12886,7 +12886,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5471
+            "uid": "206282"
         }
     },
     {
@@ -12913,7 +12913,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5472
+            "uid": "206282"
         }
     },
     {
@@ -12940,7 +12940,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5473
+            "uid": "206282"
         }
     },
     {
@@ -12959,7 +12959,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5474
+            "uid": "233125"
         }
     },
     {
@@ -12978,7 +12978,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5475
+            "uid": "233125"
         }
     },
     {
@@ -13013,7 +13013,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5476
+            "uid": "206282"
         }
     },
     {
@@ -13036,7 +13036,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5477
+            "uid": "233125"
         }
     },
     {
@@ -13059,7 +13059,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5478
+            "uid": "233125"
         }
     },
     {
@@ -13082,7 +13082,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5479
+            "uid": "233125"
         }
     },
     {
@@ -13113,7 +13113,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5480
+            "uid": "233125"
         }
     },
     {
@@ -13152,7 +13152,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5481
+            "uid": "233125"
         }
     },
     {
@@ -13199,7 +13199,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5482
+            "uid": "233125"
         }
     },
     {
@@ -13266,7 +13266,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5483
+            "uid": "706587"
         }
     },
     {
@@ -13409,7 +13409,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5484
+            "uid": "233125"
         }
     },
     {
@@ -13428,7 +13428,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5485
+            "uid": "706587"
         }
     },
     {
@@ -13455,7 +13455,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5486
+            "uid": "385027"
         }
     },
     {
@@ -13474,7 +13474,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5487
+            "uid": "385027"
         }
     },
     {
@@ -13533,7 +13533,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5488
+            "uid": "385027"
         }
     },
     {
@@ -13556,7 +13556,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5489
+            "uid": "385027"
         }
     },
     {
@@ -13583,7 +13583,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5490
+            "uid": "385027"
         }
     },
     {
@@ -13602,7 +13602,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5491
+            "uid": "385027"
         }
     },
     {
@@ -13629,7 +13629,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5492
+            "uid": "1724658"
         }
     },
     {
@@ -13680,7 +13680,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5493
+            "uid": "233125"
         }
     },
     {
@@ -13739,7 +13739,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5494
+            "uid": "233125"
         }
     },
     {
@@ -13818,7 +13818,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5495
+            "uid": "491706"
         }
     },
     {
@@ -13893,7 +13893,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5496
+            "uid": "233125"
         }
     },
     {
@@ -13912,7 +13912,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5497
+            "uid": "491706"
         }
     },
     {
@@ -13931,7 +13931,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5498
+            "uid": "491706"
         }
     },
     {
@@ -13954,7 +13954,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5499
+            "uid": "1737245"
         }
     },
     {
@@ -13973,7 +13973,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5500
+            "uid": "491706"
         }
     },
     {
@@ -14004,7 +14004,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5501
+            "uid": "1737245"
         }
     },
     {
@@ -14023,7 +14023,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5502
+            "uid": "491706"
         }
     },
     {
@@ -14042,7 +14042,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5503
+            "uid": "233125"
         }
     },
     {
@@ -14061,7 +14061,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5504
+            "uid": "491706"
         }
     },
     {
@@ -14080,7 +14080,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5505
+            "uid": "491706"
         }
     },
     {
@@ -14099,7 +14099,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5506
+            "uid": "491706"
         }
     },
     {
@@ -14118,7 +14118,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5507
+            "uid": "233125"
         }
     },
     {
@@ -14141,7 +14141,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5508
+            "uid": "233125"
         }
     },
     {
@@ -14168,7 +14168,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5509
+            "uid": "233125"
         }
     },
     {
@@ -14195,7 +14195,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5510
+            "uid": "1737245"
         }
     },
     {
@@ -14234,7 +14234,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5511
+            "uid": "1737245"
         }
     },
     {
@@ -14261,7 +14261,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5512
+            "uid": "233125"
         }
     },
     {
@@ -14288,7 +14288,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5513
+            "uid": "206282"
         }
     },
     {
@@ -14323,7 +14323,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5514
+            "uid": "1737245"
         }
     },
     {
@@ -14354,7 +14354,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5515
+            "uid": "206282"
         }
     },
     {
@@ -14389,7 +14389,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5516
+            "uid": "233125"
         }
     },
     {
@@ -14428,7 +14428,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5517
+            "uid": "233125"
         }
     },
     {
@@ -14471,7 +14471,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5518
+            "uid": "233125"
         }
     },
     {
@@ -14514,7 +14514,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5519
+            "uid": "206282"
         }
     },
     {
@@ -14557,7 +14557,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5520
+            "uid": "491706"
         }
     },
     {
@@ -14620,7 +14620,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5521
+            "uid": "1737245"
         }
     },
     {
@@ -14643,7 +14643,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5522
+            "uid": "206282"
         }
     },
     {
@@ -14666,7 +14666,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5523
+            "uid": "206282"
         }
     },
     {
@@ -14705,7 +14705,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5524
+            "uid": "206282"
         }
     },
     {
@@ -14744,7 +14744,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5525
+            "uid": "206282"
         }
     },
     {
@@ -14775,7 +14775,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5526
+            "uid": "206282"
         }
     },
     {
@@ -14806,7 +14806,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5527
+            "uid": "206282"
         }
     },
     {
@@ -14845,7 +14845,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5528
+            "uid": "206282"
         }
     },
     {
@@ -14876,7 +14876,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5529
+            "uid": "491706"
         }
     },
     {
@@ -14895,7 +14895,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5530
+            "uid": "2580205"
         }
     },
     {
@@ -14926,7 +14926,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5531
+            "uid": "206282"
         }
     },
     {
@@ -14945,7 +14945,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5532
+            "uid": "206282"
         }
     },
     {
@@ -14964,7 +14964,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5533
+            "uid": "206282"
         }
     },
     {
@@ -14991,7 +14991,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5534
+            "uid": "206282"
         }
     },
     {
@@ -15014,7 +15014,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5535
+            "uid": "206282"
         }
     },
     {
@@ -15037,7 +15037,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5536
+            "uid": "206282"
         }
     },
     {
@@ -15060,7 +15060,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5537
+            "uid": "206282"
         }
     },
     {
@@ -15079,7 +15079,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5538
+            "uid": "206282"
         }
     },
     {
@@ -15178,7 +15178,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5539
+            "uid": "206282"
         }
     },
     {
@@ -15205,7 +15205,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5540
+            "uid": "309427"
         }
     },
     {
@@ -15224,7 +15224,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5541
+            "uid": "233125"
         }
     },
     {
@@ -15243,7 +15243,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5542
+            "uid": "233125"
         }
     },
     {
@@ -15262,7 +15262,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5543
+            "uid": "233125"
         }
     },
     {
@@ -15281,7 +15281,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5544
+            "uid": "233125"
         }
     },
     {
@@ -15300,7 +15300,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5545
+            "uid": "233125"
         }
     },
     {
@@ -15319,7 +15319,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5546
+            "uid": "233125"
         }
     },
     {
@@ -15338,7 +15338,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5547
+            "uid": "233125"
         }
     },
     {
@@ -15357,7 +15357,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5548
+            "uid": "233125"
         }
     },
     {
@@ -15376,7 +15376,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5549
+            "uid": "233125"
         }
     },
     {
@@ -15395,7 +15395,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5550
+            "uid": "233125"
         }
     },
     {
@@ -15414,7 +15414,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5551
+            "uid": "233125"
         }
     },
     {
@@ -15433,7 +15433,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5552
+            "uid": "233125"
         }
     },
     {
@@ -15544,7 +15544,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5553
+            "uid": "1724658"
         }
     },
     {
@@ -15575,7 +15575,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5554
+            "uid": "233125"
         }
     },
     {
@@ -15598,7 +15598,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5555
+            "uid": "491706"
         }
     },
     {
@@ -15657,7 +15657,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5556
+            "uid": "233125"
         }
     },
     {
@@ -15676,7 +15676,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5557
+            "uid": "491706"
         }
     },
     {
@@ -15695,7 +15695,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5558
+            "uid": "233125"
         }
     },
     {
@@ -15714,7 +15714,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5559
+            "uid": "233125"
         }
     },
     {
@@ -15733,7 +15733,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5560
+            "uid": "491706"
         }
     },
     {
@@ -15760,7 +15760,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5561
+            "uid": "491706"
         }
     },
     {
@@ -15787,7 +15787,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5562
+            "uid": "233125"
         }
     },
     {
@@ -15814,7 +15814,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5563
+            "uid": "233125"
         }
     },
     {
@@ -15845,7 +15845,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5564
+            "uid": "233125"
         }
     },
     {
@@ -15912,7 +15912,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5565
+            "uid": "491706"
         }
     },
     {
@@ -15959,7 +15959,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5566
+            "uid": "233125"
         }
     },
     {
@@ -15982,7 +15982,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5567
+            "uid": "2441997"
         }
     },
     {
@@ -16013,7 +16013,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5568
+            "uid": "491706"
         }
     },
     {
@@ -16040,7 +16040,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5569
+            "uid": "491706"
         }
     },
     {
@@ -16075,7 +16075,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5570
+            "uid": "491706"
         }
     },
     {
@@ -16106,7 +16106,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5571
+            "uid": "1724658"
         }
     },
     {
@@ -16125,7 +16125,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5572
+            "uid": "127606"
         }
     },
     {
@@ -16152,7 +16152,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5573
+            "uid": "491706"
         }
     },
     {
@@ -16179,7 +16179,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5574
+            "uid": "491706"
         }
     },
     {
@@ -16198,7 +16198,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5575
+            "uid": "491706"
         }
     },
     {
@@ -16229,7 +16229,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5576
+            "uid": "491706"
         }
     },
     {
@@ -16256,7 +16256,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5577
+            "uid": "491706"
         }
     },
     {
@@ -16275,7 +16275,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5578
+            "uid": "491706"
         }
     },
     {
@@ -16374,7 +16374,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5579
+            "uid": "491706"
         }
     },
     {
@@ -16397,7 +16397,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5580
+            "uid": "491706"
         }
     },
     {
@@ -16417,7 +16417,7 @@
         "properties": {
             "bridge": "yes",
             "highway": "service",
-            "id": 5581
+            "uid": "491706"
         }
     },
     {
@@ -16456,7 +16456,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5582
+            "uid": "491706"
         }
     },
     {
@@ -16495,7 +16495,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5583
+            "uid": "491706"
         }
     },
     {
@@ -16526,7 +16526,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5584
+            "uid": "4792552"
         }
     },
     {
@@ -16569,7 +16569,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5585
+            "uid": "491706"
         }
     },
     {
@@ -16620,7 +16620,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5586
+            "uid": "1737245"
         }
     },
     {
@@ -16639,7 +16639,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5587
+            "uid": "491706"
         }
     },
     {
@@ -16666,7 +16666,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5588
+            "uid": "309427"
         }
     },
     {
@@ -16761,7 +16761,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5589
+            "uid": "491706"
         }
     },
     {
@@ -16804,7 +16804,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5590
+            "uid": "491706"
         }
     },
     {
@@ -16867,7 +16867,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5591
+            "uid": "1737245"
         }
     },
     {
@@ -16898,7 +16898,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5592
+            "uid": "491706"
         }
     },
     {
@@ -16929,7 +16929,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5593
+            "uid": "491706"
         }
     },
     {
@@ -16948,7 +16948,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5594
+            "uid": "1737245"
         }
     },
     {
@@ -16967,7 +16967,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5595
+            "uid": "491706"
         }
     },
     {
@@ -16994,7 +16994,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5596
+            "uid": "491706"
         }
     },
     {
@@ -17017,7 +17017,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5597
+            "uid": "2356855"
         }
     },
     {
@@ -17040,7 +17040,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5598
+            "uid": "127606"
         }
     },
     {
@@ -17063,7 +17063,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5599
+            "uid": "127606"
         }
     },
     {
@@ -17086,7 +17086,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5600
+            "uid": "127606"
         }
     },
     {
@@ -17121,7 +17121,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5601
+            "uid": "127606"
         }
     },
     {
@@ -17152,7 +17152,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5602
+            "uid": "127606"
         }
     },
     {
@@ -17171,7 +17171,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5603
+            "uid": "1724658"
         }
     },
     {
@@ -17190,7 +17190,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5604
+            "uid": "1724658"
         }
     },
     {
@@ -17209,7 +17209,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5605
+            "uid": "1724658"
         }
     },
     {
@@ -17228,7 +17228,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5606
+            "uid": "1724658"
         }
     },
     {
@@ -17287,7 +17287,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5607
+            "uid": "1724658"
         }
     },
     {
@@ -17342,7 +17342,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5608
+            "uid": "4792552"
         }
     },
     {
@@ -17373,7 +17373,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5609
+            "uid": "1724658"
         }
     },
     {
@@ -17412,7 +17412,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5610
+            "uid": "1101912"
         }
     },
     {
@@ -17431,7 +17431,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5611
+            "uid": "1101912"
         }
     },
     {
@@ -17454,7 +17454,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5612
+            "uid": "1101912"
         }
     },
     {
@@ -17473,7 +17473,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5613
+            "uid": "1101912"
         }
     },
     {
@@ -17504,7 +17504,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5614
+            "uid": "1101912"
         }
     },
     {
@@ -17523,7 +17523,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5615
+            "uid": "1101912"
         }
     },
     {
@@ -17542,7 +17542,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5616
+            "uid": "1101912"
         }
     },
     {
@@ -17561,7 +17561,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5617
+            "uid": "1101912"
         }
     },
     {
@@ -17588,7 +17588,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5618
+            "uid": "2580205"
         }
     },
     {
@@ -17611,7 +17611,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5619
+            "uid": "2580205"
         }
     },
     {
@@ -17634,7 +17634,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5620
+            "uid": "2580205"
         }
     },
     {
@@ -17657,7 +17657,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5621
+            "uid": "2580205"
         }
     },
     {
@@ -17684,7 +17684,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5622
+            "uid": "2580205"
         }
     },
     {
@@ -17719,7 +17719,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5623
+            "uid": "4792552"
         }
     },
     {
@@ -17742,7 +17742,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5624
+            "uid": "491706"
         }
     },
     {
@@ -17797,7 +17797,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5625
+            "uid": "491706"
         }
     },
     {
@@ -17816,7 +17816,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5626
+            "uid": "491706"
         }
     },
     {
@@ -17843,7 +17843,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5627
+            "uid": "491706"
         }
     },
     {
@@ -17862,7 +17862,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5628
+            "uid": "491706"
         }
     },
     {
@@ -17881,7 +17881,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5629
+            "uid": "491706"
         }
     },
     {
@@ -17900,7 +17900,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5630
+            "uid": "491706"
         }
     },
     {
@@ -17927,7 +17927,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5631
+            "uid": "309427"
         }
     },
     {
@@ -17962,7 +17962,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5632
+            "uid": "491706"
         }
     },
     {
@@ -18037,7 +18037,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5633
+            "uid": "491706"
         }
     },
     {
@@ -18076,7 +18076,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5634
+            "uid": "127606"
         }
     },
     {
@@ -18095,7 +18095,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5635
+            "uid": "127606"
         }
     },
     {
@@ -18115,7 +18115,7 @@
         "properties": {
             "bridge": "yes",
             "highway": "service",
-            "id": 5636
+            "uid": "127606"
         }
     },
     {
@@ -18134,7 +18134,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5637
+            "uid": "127606"
         }
     },
     {
@@ -18185,7 +18185,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5638
+            "uid": "1724658"
         }
     },
     {
@@ -18220,7 +18220,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5639
+            "uid": "1724658"
         }
     },
     {
@@ -18243,7 +18243,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5640
+            "uid": "1724658"
         }
     },
     {
@@ -18270,7 +18270,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5641
+            "uid": "1724658"
         }
     },
     {
@@ -18289,7 +18289,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5642
+            "uid": "127606"
         }
     },
     {
@@ -18320,7 +18320,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5643
+            "uid": "1724658"
         }
     },
     {
@@ -18343,7 +18343,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5644
+            "uid": "1724658"
         }
     },
     {
@@ -18378,7 +18378,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5645
+            "uid": "1724658"
         }
     },
     {
@@ -18409,7 +18409,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5646
+            "uid": "127606"
         }
     },
     {
@@ -18440,7 +18440,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5647
+            "uid": "127606"
         }
     },
     {
@@ -18463,7 +18463,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5648
+            "uid": "127606"
         }
     },
     {
@@ -18486,7 +18486,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5649
+            "uid": "309427"
         }
     },
     {
@@ -18509,7 +18509,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5650
+            "uid": "127606"
         }
     },
     {
@@ -18528,7 +18528,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5651
+            "uid": "1724658"
         }
     },
     {
@@ -18547,7 +18547,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5652
+            "uid": "1724658"
         }
     },
     {
@@ -18566,7 +18566,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5653
+            "uid": "1724658"
         }
     },
     {
@@ -18585,7 +18585,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5654
+            "uid": "1724658"
         }
     },
     {
@@ -18604,7 +18604,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5655
+            "uid": "1724658"
         }
     },
     {
@@ -18639,7 +18639,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5656
+            "uid": "2356855"
         }
     },
     {
@@ -18658,7 +18658,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5657
+            "uid": "2356855"
         }
     },
     {
@@ -18681,7 +18681,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5658
+            "uid": "2356855"
         }
     },
     {
@@ -18716,7 +18716,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5659
+            "uid": "491706"
         }
     },
     {
@@ -18735,7 +18735,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5660
+            "uid": "491706"
         }
     },
     {
@@ -18754,7 +18754,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5661
+            "uid": "491706"
         }
     },
     {
@@ -18785,7 +18785,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5662
+            "uid": "309427"
         }
     },
     {
@@ -18808,7 +18808,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5663
+            "uid": "491706"
         }
     },
     {
@@ -18827,7 +18827,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5664
+            "uid": "127606"
         }
     },
     {
@@ -18846,7 +18846,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5665
+            "uid": "4792552"
         }
     },
     {
@@ -18869,7 +18869,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5666
+            "uid": "1724658"
         }
     },
     {
@@ -18904,7 +18904,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5667
+            "uid": "1724658"
         }
     },
     {
@@ -18923,7 +18923,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5668
+            "uid": "127606"
         }
     },
     {
@@ -19038,7 +19038,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5669
+            "uid": "1724658"
         }
     },
     {
@@ -19057,7 +19057,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5670
+            "uid": "1724658"
         }
     },
     {
@@ -19092,7 +19092,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5671
+            "uid": "90528"
         }
     },
     {
@@ -19139,7 +19139,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5672
+            "uid": "90528"
         }
     },
     {
@@ -19158,7 +19158,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5673
+            "uid": "1724658"
         }
     },
     {
@@ -19189,7 +19189,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5674
+            "uid": "1724658"
         }
     },
     {
@@ -19212,7 +19212,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5675
+            "uid": "127606"
         }
     },
     {
@@ -19239,7 +19239,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5676
+            "uid": "127606"
         }
     },
     {
@@ -19262,7 +19262,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5677
+            "uid": "127606"
         }
     },
     {
@@ -19325,7 +19325,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5678
+            "uid": "127606"
         }
     },
     {
@@ -19356,7 +19356,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5679
+            "uid": "127606"
         }
     },
     {
@@ -19375,7 +19375,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5680
+            "uid": "1724658"
         }
     },
     {
@@ -19398,7 +19398,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5681
+            "uid": "1724658"
         }
     },
     {
@@ -19421,7 +19421,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5682
+            "uid": "1724658"
         }
     },
     {
@@ -19440,7 +19440,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5683
+            "uid": "1724658"
         }
     },
     {
@@ -19479,7 +19479,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5684
+            "uid": "1724658"
         }
     },
     {
@@ -19558,7 +19558,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5685
+            "uid": "1724658"
         }
     },
     {
@@ -19581,7 +19581,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5686
+            "uid": "1724658"
         }
     },
     {
@@ -19604,7 +19604,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5687
+            "uid": "1724658"
         }
     },
     {
@@ -19627,7 +19627,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5688
+            "uid": "1724658"
         }
     },
     {
@@ -19646,7 +19646,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5689
+            "uid": "1724658"
         }
     },
     {
@@ -19669,7 +19669,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5690
+            "uid": "1724658"
         }
     },
     {
@@ -19692,7 +19692,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5691
+            "uid": "1724658"
         }
     },
     {
@@ -19715,7 +19715,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5692
+            "uid": "1724658"
         }
     },
     {
@@ -19738,7 +19738,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5693
+            "uid": "1724658"
         }
     },
     {
@@ -19765,7 +19765,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5694
+            "uid": "1724658"
         }
     },
     {
@@ -19824,7 +19824,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5695
+            "uid": "1724658"
         }
     },
     {
@@ -19891,7 +19891,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5696
+            "uid": "1724658"
         }
     },
     {
@@ -19938,7 +19938,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5697
+            "uid": "1724658"
         }
     },
     {
@@ -19957,7 +19957,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5698
+            "uid": "1724658"
         }
     },
     {
@@ -19976,7 +19976,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5699
+            "uid": "1724658"
         }
     },
     {
@@ -19995,7 +19995,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5700
+            "uid": "1724658"
         }
     },
     {
@@ -20014,7 +20014,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5701
+            "uid": "1724658"
         }
     },
     {
@@ -20033,7 +20033,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5702
+            "uid": "1724658"
         }
     },
     {
@@ -20052,7 +20052,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5703
+            "uid": "1724658"
         }
     },
     {
@@ -20071,7 +20071,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5704
+            "uid": "1724658"
         }
     },
     {
@@ -20090,7 +20090,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5705
+            "uid": "1724658"
         }
     },
     {
@@ -20109,7 +20109,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5706
+            "uid": "1724658"
         }
     },
     {
@@ -20136,7 +20136,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5707
+            "uid": "127606"
         }
     },
     {
@@ -20163,7 +20163,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5708
+            "uid": "127606"
         }
     },
     {
@@ -20190,7 +20190,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5709
+            "uid": "4792552"
         }
     },
     {
@@ -20245,7 +20245,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5710
+            "uid": "4792552"
         }
     },
     {
@@ -20264,7 +20264,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5711
+            "uid": "491706"
         }
     },
     {
@@ -20291,7 +20291,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5712
+            "uid": "491706"
         }
     },
     {
@@ -20326,7 +20326,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5713
+            "uid": "127606"
         }
     },
     {
@@ -20345,7 +20345,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5714
+            "uid": "4792552"
         }
     },
     {
@@ -20364,7 +20364,7 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5715
+            "uid": "127606"
         }
     },
     {
@@ -20425,8 +20425,8 @@
         },
         "properties": {
             "amenity": "police",
-            "id": 5716,
-            "name": "ГИБДД г.Адлер"
+            "name": "ГИБДД г.Адлер",
+            "uid": "206282"
         }
     },
     {
@@ -20460,9 +20460,9 @@
         "properties": {
             "amenity": "nightclub",
             "building": "yes",
-            "id": 5717,
             "leisure": "sports_centre",
-            "name": "АЙС - КЛУБ"
+            "name": "АЙС - КЛУБ",
+            "uid": "395697"
         }
     },
     {
@@ -20498,8 +20498,8 @@
             "building": "yes",
             "building:levels": "1",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5718,
-            "name": "Церковь евангельских христиан"
+            "name": "Церковь евангельских христиан",
+            "uid": "127606"
         }
     },
     {
@@ -20538,8 +20538,8 @@
             "amenity": "place_of_worship",
             "building": "yes",
             "building:levels": "1",
-            "id": 5719,
-            "name": "Церковь Сошествия Святого Духа"
+            "name": "Церковь Сошествия Святого Духа",
+            "uid": "2356855"
         }
     },
     {
@@ -20573,8 +20573,8 @@
         "properties": {
             "amenity": "place_of_worship",
             "building": "yes",
-            "id": 5720,
-            "name": "Собор Святого Саркиса"
+            "name": "Собор Святого Саркиса",
+            "uid": "1724658"
         }
     },
     {
@@ -20608,7 +20608,7 @@
         "properties": {
             "amenity": "toilets",
             "building": "yes",
-            "id": 5721
+            "uid": "330030"
         }
     },
     {
@@ -20642,7 +20642,7 @@
         "properties": {
             "amenity": "toilets",
             "building": "yes",
-            "id": 5722
+            "uid": "6580356"
         }
     },
     {
@@ -20655,7 +20655,7 @@
         },
         "properties": {
             "amenity": "toilets",
-            "id": 5723
+            "uid": "519501"
         }
     },
     {
@@ -20668,7 +20668,7 @@
         },
         "properties": {
             "amenity": "toilets",
-            "id": 5724
+            "uid": "233125"
         }
     },
     {
@@ -20681,7 +20681,7 @@
         },
         "properties": {
             "amenity": "toilets",
-            "id": 5725
+            "uid": "233125"
         }
     },
     {
@@ -20694,7 +20694,7 @@
         },
         "properties": {
             "amenity": "toilets",
-            "id": 5726
+            "uid": "233125"
         }
     },
     {
@@ -20707,7 +20707,7 @@
         },
         "properties": {
             "amenity": "toilets",
-            "id": 5727
+            "uid": "491706"
         }
     },
     {
@@ -20720,7 +20720,7 @@
         },
         "properties": {
             "amenity": "toilets",
-            "id": 5728
+            "uid": "567336"
         }
     },
     {
@@ -20733,7 +20733,7 @@
         },
         "properties": {
             "amenity": "toilets",
-            "id": 5729
+            "uid": "206282"
         }
     },
     {
@@ -20746,7 +20746,7 @@
         },
         "properties": {
             "amenity": "toilets",
-            "id": 5730
+            "uid": "2522164"
         }
     },
     {
@@ -20759,7 +20759,7 @@
         },
         "properties": {
             "amenity": "toilets",
-            "id": 5731
+            "uid": "3384665"
         }
     },
     {
@@ -20857,9 +20857,9 @@
         "properties": {
             "amenity": "sanatorium",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5732,
             "leisure": "resort",
-            "name": "Санаторий \"Южное взморье\""
+            "name": "Санаторий \"Южное взморье\"",
+            "uid": "1724658"
         }
     },
     {
@@ -20914,8 +20914,8 @@
             "amenity": "register_office",
             "building": "public",
             "building:levels": "1",
-            "id": 5733,
-            "name": "ЗАГС"
+            "name": "ЗАГС",
+            "uid": "621253"
         }
     },
     {
@@ -20949,8 +20949,8 @@
         "properties": {
             "amenity": "pharmacy",
             "building": "yes",
-            "id": 5734,
-            "name": "24 часа"
+            "name": "24 часа",
+            "uid": "621253"
         }
     },
     {
@@ -20963,7 +20963,7 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5735
+            "uid": "233125"
         }
     },
     {
@@ -20976,7 +20976,7 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5736
+            "uid": "233125"
         }
     },
     {
@@ -20989,7 +20989,7 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5737
+            "uid": "233125"
         }
     },
     {
@@ -21002,7 +21002,7 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5738
+            "uid": "233125"
         }
     },
     {
@@ -21015,7 +21015,7 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5739
+            "uid": "233125"
         }
     },
     {
@@ -21028,7 +21028,7 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5740
+            "uid": "233125"
         }
     },
     {
@@ -21041,7 +21041,7 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5741
+            "uid": "233125"
         }
     },
     {
@@ -21054,7 +21054,7 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5742
+            "uid": "233125"
         }
     },
     {
@@ -21067,7 +21067,7 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5743
+            "uid": "233125"
         }
     },
     {
@@ -21080,7 +21080,7 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5744
+            "uid": "233125"
         }
     },
     {
@@ -21093,8 +21093,8 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5745,
-            "name": "Аптека"
+            "name": "Аптека",
+            "uid": "3101316"
         }
     },
     {
@@ -21107,8 +21107,8 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5746,
-            "name": "Мелодия Здоровья"
+            "name": "Мелодия Здоровья",
+            "uid": "127606"
         }
     },
     {
@@ -21121,8 +21121,8 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5747,
-            "name": "Аптека \"Новые Черёмушки\""
+            "name": "Аптека \"Новые Черёмушки\"",
+            "uid": "127606"
         }
     },
     {
@@ -21135,8 +21135,8 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5748,
-            "name": "Аптека"
+            "name": "Аптека",
+            "uid": "1737245"
         }
     },
     {
@@ -21149,8 +21149,8 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5749,
-            "name": "Мелодия здоровья"
+            "name": "Мелодия здоровья",
+            "uid": "206282"
         }
     },
     {
@@ -21163,8 +21163,8 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5750,
-            "name": "Аптека"
+            "name": "Аптека",
+            "uid": "491706"
         }
     },
     {
@@ -21177,7 +21177,7 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5751
+            "uid": "3101316"
         }
     },
     {
@@ -21190,8 +21190,8 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5752,
-            "name": "Аптека"
+            "name": "Аптека",
+            "uid": "10130819"
         }
     },
     {
@@ -21204,8 +21204,8 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5753,
-            "name": "Социальная аптека"
+            "name": "Социальная аптека",
+            "uid": "1737245"
         }
     },
     {
@@ -21218,8 +21218,8 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5754,
-            "name": "Аптека"
+            "name": "Аптека",
+            "uid": "491706"
         }
     },
     {
@@ -21232,8 +21232,8 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5755,
-            "name": "Энергия трав+"
+            "name": "Энергия трав+",
+            "uid": "491706"
         }
     },
     {
@@ -21246,7 +21246,7 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5756
+            "uid": "127606"
         }
     },
     {
@@ -21259,7 +21259,7 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5757
+            "uid": "127606"
         }
     },
     {
@@ -21272,7 +21272,7 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5758
+            "uid": "127606"
         }
     },
     {
@@ -21285,8 +21285,8 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5759,
-            "name": "Дент-Эксперт"
+            "name": "Дент-Эксперт",
+            "uid": "491706"
         }
     },
     {
@@ -21299,7 +21299,7 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5760
+            "uid": "309427"
         }
     },
     {
@@ -21331,8 +21331,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5761,
-            "leisure": "fitness_station"
+            "leisure": "fitness_station",
+            "uid": "2758266"
         }
     },
     {
@@ -21364,8 +21364,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5762,
-            "leisure": "fitness_station"
+            "leisure": "fitness_station",
+            "uid": "491706"
         }
     },
     {
@@ -21399,7 +21399,7 @@
         "properties": {
             "amenity": "public_building",
             "building": "yes",
-            "id": 5763
+            "uid": "1260713"
         }
     },
     {
@@ -21412,8 +21412,8 @@
         },
         "properties": {
             "amenity": "public_building",
-            "id": 5764,
-            "name": "Санитарно-эпидемиологическая служба Адлерского района"
+            "name": "Санитарно-эпидемиологическая служба Адлерского района",
+            "uid": "233125"
         }
     },
     {
@@ -21447,9 +21447,9 @@
         "properties": {
             "amenity": "rescue_station",
             "building": "yes",
-            "id": 5765,
             "name": "ЮРПСО МЧС России",
-            "operator": "RU-URPSO"
+            "operator": "RU-URPSO",
+            "uid": "1724658"
         }
     },
     {
@@ -21462,8 +21462,8 @@
         },
         "properties": {
             "amenity": "library",
-            "id": 5766,
-            "name": "Центральная библиотека Адлерского района"
+            "name": "Центральная библиотека Адлерского района",
+            "uid": "233125"
         }
     },
     {
@@ -21477,9 +21477,9 @@
         "properties": {
             "amenity": "post_office",
             "brand": "Почта России",
-            "id": 5767,
             "name": "Сочи 354340",
-            "operator": "Почта России"
+            "operator": "Почта России",
+            "uid": "8160839"
         }
     },
     {
@@ -21493,9 +21493,9 @@
         "properties": {
             "amenity": "post_office",
             "brand": "Почта России",
-            "id": 5768,
             "name": "Сочи 354348",
-            "operator": "Почта России"
+            "operator": "Почта России",
+            "uid": "8160839"
         }
     }
 ]

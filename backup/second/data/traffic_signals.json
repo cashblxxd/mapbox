@@ -8,8 +8,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "traffic_signals",
-            "id": 5049
+            "highway": "traffic_signals"
         }
     },
     {
@@ -21,8 +20,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "traffic_signals",
-            "id": 5050
+            "highway": "traffic_signals"
         }
     },
     {
@@ -34,8 +32,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "traffic_signals",
-            "id": 5051
+            "highway": "traffic_signals"
         }
     },
     {
@@ -47,8 +44,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "traffic_signals",
-            "id": 5052
+            "highway": "traffic_signals"
         }
     },
     {
@@ -60,8 +56,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "traffic_signals",
-            "id": 5053
+            "highway": "traffic_signals"
         }
     },
     {
@@ -73,8 +68,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "traffic_signals",
-            "id": 5054
+            "highway": "traffic_signals"
         }
     },
     {
@@ -86,8 +80,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "traffic_signals",
-            "id": 5055
+            "highway": "traffic_signals"
         }
     },
     {
@@ -100,8 +93,7 @@
         },
         "properties": {
             "crossing": "traffic_signals",
-            "highway": "traffic_signals",
-            "id": 5056
+            "highway": "traffic_signals"
         }
     },
     {
@@ -114,8 +106,7 @@
         },
         "properties": {
             "crossing": "traffic_signals",
-            "highway": "traffic_signals",
-            "id": 5057
+            "highway": "traffic_signals"
         }
     },
     {
@@ -128,8 +119,7 @@
         },
         "properties": {
             "crossing": "traffic_signals",
-            "highway": "traffic_signals",
-            "id": 5058
+            "highway": "traffic_signals"
         }
     },
     {
@@ -141,8 +131,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "traffic_signals",
-            "id": 5059
+            "highway": "traffic_signals"
         }
     },
     {
@@ -155,8 +144,7 @@
         },
         "properties": {
             "crossing": "traffic_signals",
-            "highway": "traffic_signals",
-            "id": 5060
+            "highway": "traffic_signals"
         }
     },
     {
@@ -169,8 +157,7 @@
         },
         "properties": {
             "crossing": "traffic_signals",
-            "highway": "traffic_signals",
-            "id": 5061
+            "highway": "traffic_signals"
         }
     },
     {
@@ -183,8 +170,7 @@
         },
         "properties": {
             "crossing": "traffic_signals",
-            "highway": "traffic_signals",
-            "id": 5062
+            "highway": "traffic_signals"
         }
     },
     {
@@ -197,8 +183,7 @@
         },
         "properties": {
             "crossing": "traffic_signals",
-            "highway": "traffic_signals",
-            "id": 5063
+            "highway": "traffic_signals"
         }
     },
     {
@@ -211,8 +196,7 @@
         },
         "properties": {
             "crossing": "traffic_signals",
-            "highway": "traffic_signals",
-            "id": 5064
+            "highway": "traffic_signals"
         }
     },
     {
@@ -225,8 +209,7 @@
         },
         "properties": {
             "crossing": "traffic_signals",
-            "highway": "traffic_signals",
-            "id": 5065
+            "highway": "traffic_signals"
         }
     }
 ]

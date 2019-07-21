@@ -150,7 +150,6 @@
         "properties": {
             "building": "yes",
             "fire_operator": "RU-KDA-10-19",
-            "id": 5082,
             "leisure": "stadium",
             "name": "Ледовый дворец \"Большой\""
         }
@@ -294,7 +293,6 @@
         "properties": {
             "building": "yes",
             "fire_operator": "RU-KDA-10-19",
-            "id": 5083,
             "leisure": "stadium",
             "name": "Ледяной куб"
         }
@@ -338,7 +336,6 @@
         "properties": {
             "amenity": "kindergarten",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5084,
             "name": "Детский сад №46"
         }
     },
@@ -373,7 +370,6 @@
         "properties": {
             "amenity": "kindergarten",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5085,
             "name": "Детский сад №49"
         }
     },
@@ -436,7 +432,6 @@
         "properties": {
             "amenity": "kindergarten",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5086,
             "name": "Детский сад №114 \"Ручеек\""
         }
     },
@@ -470,7 +465,6 @@
         },
         "properties": {
             "amenity": "kindergarten",
-            "id": 5087,
             "name": "Детский сад №93"
         }
     },
@@ -509,7 +503,6 @@
         "properties": {
             "amenity": "kindergarten",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5088,
             "name": "Детский сад №55"
         }
     },
@@ -543,7 +536,6 @@
         },
         "properties": {
             "amenity": "kindergarten",
-            "id": 5089,
             "name": "Детский сад №92"
         }
     },
@@ -582,7 +574,6 @@
         "properties": {
             "amenity": "kindergarten",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5090,
             "name": "Детский сад №109"
         }
     },
@@ -633,7 +624,6 @@
         "properties": {
             "amenity": "arts_centre",
             "building": "yes",
-            "id": 5091,
             "name": "Детская художественная школа №2"
         }
     },
@@ -647,7 +637,6 @@
         },
         "properties": {
             "amenity": "arts_centre",
-            "id": 5092,
             "name": "Детская музыкальная школа №3"
         }
     },
@@ -661,7 +650,6 @@
         },
         "properties": {
             "amenity": "arts_centre",
-            "id": 5093,
             "name": "Концертный зал \"Мандарин Холл\""
         }
     },
@@ -725,7 +713,6 @@
             "amenity": "townhall",
             "building": "yes",
             "building:levels": "1",
-            "id": 5094,
             "name": "Администрация Адлерского внутригородского района"
         }
     },
@@ -766,7 +753,6 @@
             "amenity": "fire_station",
             "building": "yes",
             "building:levels": "2",
-            "id": 5095,
             "name": "Пожарно-спасательная часть №13",
             "operator": "RU-KDA-10"
         }
@@ -803,7 +789,6 @@
             "amenity": "fire_station",
             "building": "yes",
             "building:levels": "1",
-            "id": 5096,
             "name": "Пожарная команда РосНефть",
             "operator": "RU-KDA-10"
         }
@@ -837,8 +822,7 @@
             "type": "Polygon"
         },
         "properties": {
-            "building": "warehouse",
-            "id": 5097
+            "building": "warehouse"
         }
     },
     {
@@ -870,8 +854,7 @@
             "type": "Polygon"
         },
         "properties": {
-            "building": "warehouse",
-            "id": 5098
+            "building": "warehouse"
         }
     },
     {
@@ -903,8 +886,7 @@
             "type": "Polygon"
         },
         "properties": {
-            "building": "church",
-            "id": 5099
+            "building": "church"
         }
     },
     {
@@ -917,7 +899,6 @@
         },
         "properties": {
             "amenity": "marketplace",
-            "id": 5100,
             "name": "Центральный рынок"
         }
     },
@@ -961,7 +942,6 @@
             "amenity": "theatre",
             "building": "yes",
             "building:levels": "1",
-            "id": 5101,
             "name": "РДК \"Адлер\""
         }
     },
@@ -1000,7 +980,6 @@
         "properties": {
             "amenity": "hospital",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5102,
             "name": "Городская больница №6"
         }
     },
@@ -1033,7 +1012,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5103,
             "leisure": "playground"
         }
     },
@@ -1066,7 +1044,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5104,
             "leisure": "playground"
         }
     },
@@ -1099,7 +1076,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5105,
             "leisure": "playground"
         }
     },
@@ -1132,7 +1108,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5106,
             "leisure": "playground"
         }
     },
@@ -1169,7 +1144,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5107,
             "leisure": "playground"
         }
     },
@@ -1202,7 +1176,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5108,
             "leisure": "playground"
         }
     },
@@ -1235,7 +1208,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5109,
             "leisure": "playground"
         }
     },
@@ -1268,7 +1240,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5110,
             "leisure": "playground"
         }
     },
@@ -1301,7 +1272,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5111,
             "leisure": "playground"
         }
     },
@@ -1314,7 +1284,6 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5112,
             "leisure": "playground"
         }
     },
@@ -1327,7 +1296,6 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5113,
             "leisure": "playground"
         }
     },
@@ -1340,7 +1308,6 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5114,
             "leisure": "playground"
         }
     },
@@ -1353,7 +1320,6 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5115,
             "leisure": "playground"
         }
     },
@@ -1366,7 +1332,6 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5116,
             "leisure": "playground"
         }
     },
@@ -1379,7 +1344,6 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5117,
             "leisure": "playground"
         }
     },
@@ -1392,7 +1356,6 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5118,
             "leisure": "playground"
         }
     },
@@ -1405,7 +1368,6 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5119,
             "leisure": "playground"
         }
     },
@@ -1418,7 +1380,6 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5120,
             "leisure": "playground"
         }
     },
@@ -1431,7 +1392,6 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5121,
             "leisure": "playground"
         }
     },
@@ -1444,7 +1404,6 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5122,
             "leisure": "playground"
         }
     },
@@ -1457,7 +1416,6 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5123,
             "leisure": "playground"
         }
     },
@@ -1470,7 +1428,6 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5124,
             "leisure": "playground"
         }
     },
@@ -1483,7 +1440,6 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5125,
             "leisure": "playground"
         }
     },
@@ -1496,7 +1452,6 @@
             "type": "Point"
         },
         "properties": {
-            "id": 5126,
             "leisure": "playground"
         }
     },
@@ -1532,7 +1487,6 @@
             "amenity": "university",
             "building": "yes",
             "building:levels": "1",
-            "id": 5127,
             "name": "ЧГА корпус №3"
         }
     },
@@ -1577,8 +1531,7 @@
             "type": "Polygon"
         },
         "properties": {
-            "amenity": "university",
-            "id": 5128
+            "amenity": "university"
         }
     },
     {
@@ -1612,7 +1565,6 @@
         "properties": {
             "amenity": "university",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5129,
             "name": "РУДН"
         }
     },
@@ -1663,7 +1615,6 @@
         "properties": {
             "amenity": "school",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5130,
             "name": "Лицей №59"
         }
     },
@@ -1698,7 +1649,6 @@
         "properties": {
             "amenity": "school",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5131,
             "name": "Школа №25"
         }
     },
@@ -1732,8 +1682,7 @@
         },
         "properties": {
             "amenity": "school",
-            "fire_operator": "RU-KDA-10-13",
-            "id": 5132
+            "fire_operator": "RU-KDA-10-13"
         }
     },
     {
@@ -1775,7 +1724,6 @@
         "properties": {
             "amenity": "school",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5133,
             "name": "Школа №49"
         }
     },
@@ -1789,7 +1737,6 @@
         },
         "properties": {
             "amenity": "school",
-            "id": 5134,
             "name": "Средняя школа № 31"
         }
     },
@@ -1822,8 +1769,7 @@
             "type": "Polygon"
         },
         "properties": {
-            "highway": "service",
-            "id": 5135
+            "highway": "service"
         }
     },
     {
@@ -1857,8 +1803,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5136
+            "highway": "service"
         }
     },
     {
@@ -1897,7 +1842,6 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5137,
             "name": "Насыпная улица"
         }
     },
@@ -1960,8 +1904,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5138
+            "highway": "service"
         }
     },
     {
@@ -2015,8 +1958,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5139
+            "highway": "service"
         }
     },
     {
@@ -2034,8 +1976,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5140
+            "highway": "service"
         }
     },
     {
@@ -2057,8 +1998,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5141
+            "highway": "service"
         }
     },
     {
@@ -2104,8 +2044,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5142
+            "highway": "service"
         }
     },
     {
@@ -2136,7 +2075,6 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5143,
             "name": "улица Революции"
         }
     },
@@ -2171,8 +2109,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5144
+            "highway": "service"
         }
     },
     {
@@ -2190,8 +2127,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5145
+            "highway": "service"
         }
     },
     {
@@ -2209,8 +2145,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5146
+            "highway": "service"
         }
     },
     {
@@ -2268,8 +2203,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5147
+            "highway": "service"
         }
     },
     {
@@ -2287,8 +2221,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5148
+            "highway": "service"
         }
     },
     {
@@ -2330,8 +2263,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5149
+            "highway": "service"
         }
     },
     {
@@ -2357,8 +2289,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5150
+            "highway": "service"
         }
     },
     {
@@ -2388,8 +2319,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5151
+            "highway": "service"
         }
     },
     {
@@ -2408,7 +2338,6 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5152,
             "name": "Черниговская улица"
         }
     },
@@ -2431,8 +2360,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5153
+            "highway": "service"
         }
     },
     {
@@ -2450,8 +2378,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5154
+            "highway": "service"
         }
     },
     {
@@ -2473,8 +2400,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5155
+            "highway": "service"
         }
     },
     {
@@ -2492,8 +2418,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5156
+            "highway": "service"
         }
     },
     {
@@ -2515,8 +2440,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5157
+            "highway": "service"
         }
     },
     {
@@ -2546,8 +2470,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5158
+            "highway": "service"
         }
     },
     {
@@ -2617,8 +2540,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5159
+            "highway": "service"
         }
     },
     {
@@ -2640,8 +2562,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5160
+            "highway": "service"
         }
     },
     {
@@ -2675,8 +2596,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5161
+            "highway": "service"
         }
     },
     {
@@ -2694,8 +2614,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5162
+            "highway": "service"
         }
     },
     {
@@ -2713,8 +2632,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5163
+            "highway": "service"
         }
     },
     {
@@ -2748,8 +2666,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5164
+            "highway": "service"
         }
     },
     {
@@ -2767,8 +2684,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5165
+            "highway": "service"
         }
     },
     {
@@ -2798,8 +2714,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5166
+            "highway": "service"
         }
     },
     {
@@ -2821,8 +2736,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5167
+            "highway": "service"
         }
     },
     {
@@ -2848,8 +2762,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5168
+            "highway": "service"
         }
     },
     {
@@ -2875,8 +2788,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5169
+            "highway": "service"
         }
     },
     {
@@ -2906,8 +2818,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5170
+            "highway": "service"
         }
     },
     {
@@ -2929,8 +2840,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5171
+            "highway": "service"
         }
     },
     {
@@ -2952,8 +2862,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5172
+            "highway": "service"
         }
     },
     {
@@ -2987,8 +2896,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5173
+            "highway": "service"
         }
     },
     {
@@ -3046,8 +2954,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5174
+            "highway": "service"
         }
     },
     {
@@ -3065,8 +2972,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5175
+            "highway": "service"
         }
     },
     {
@@ -3084,8 +2990,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5176
+            "highway": "service"
         }
     },
     {
@@ -3103,8 +3008,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5177
+            "highway": "service"
         }
     },
     {
@@ -3126,8 +3030,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5178
+            "highway": "service"
         }
     },
     {
@@ -3145,8 +3048,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5179
+            "highway": "service"
         }
     },
     {
@@ -3168,8 +3070,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5180
+            "highway": "service"
         }
     },
     {
@@ -3207,8 +3108,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5181
+            "highway": "service"
         }
     },
     {
@@ -3234,8 +3134,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5182
+            "highway": "service"
         }
     },
     {
@@ -3281,8 +3180,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5183
+            "highway": "service"
         }
     },
     {
@@ -3332,8 +3230,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5184
+            "highway": "service"
         }
     },
     {
@@ -3351,8 +3248,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5185
+            "highway": "service"
         }
     },
     {
@@ -3386,8 +3282,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5186
+            "highway": "service"
         }
     },
     {
@@ -3405,8 +3300,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5187
+            "highway": "service"
         }
     },
     {
@@ -3444,8 +3338,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5188
+            "highway": "service"
         }
     },
     {
@@ -3503,8 +3396,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5189
+            "highway": "service"
         }
     },
     {
@@ -3522,8 +3414,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5190
+            "highway": "service"
         }
     },
     {
@@ -3545,8 +3436,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5191
+            "highway": "service"
         }
     },
     {
@@ -3756,8 +3646,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5192
+            "highway": "service"
         }
     },
     {
@@ -3779,8 +3668,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5193
+            "highway": "service"
         }
     },
     {
@@ -3850,8 +3738,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5194
+            "highway": "service"
         }
     },
     {
@@ -3877,8 +3764,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5195
+            "highway": "service"
         }
     },
     {
@@ -3904,8 +3790,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5196
+            "highway": "service"
         }
     },
     {
@@ -3927,8 +3812,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5197
+            "highway": "service"
         }
     },
     {
@@ -3950,8 +3834,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5198
+            "highway": "service"
         }
     },
     {
@@ -3989,8 +3872,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5199
+            "highway": "service"
         }
     },
     {
@@ -4009,8 +3891,7 @@
         },
         "properties": {
             "bridge": "yes",
-            "highway": "service",
-            "id": 5200
+            "highway": "service"
         }
     },
     {
@@ -4044,8 +3925,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5201
+            "highway": "service"
         }
     },
     {
@@ -4067,8 +3947,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5202
+            "highway": "service"
         }
     },
     {
@@ -4086,8 +3965,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5203
+            "highway": "service"
         }
     },
     {
@@ -4105,8 +3983,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5204
+            "highway": "service"
         }
     },
     {
@@ -4124,8 +4001,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5205
+            "highway": "service"
         }
     },
     {
@@ -4147,8 +4023,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5206
+            "highway": "service"
         }
     },
     {
@@ -4194,8 +4069,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5207
+            "highway": "service"
         }
     },
     {
@@ -4233,8 +4107,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5208
+            "highway": "service"
         }
     },
     {
@@ -4288,8 +4161,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5209
+            "highway": "service"
         }
     },
     {
@@ -4319,8 +4191,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5210
+            "highway": "service"
         }
     },
     {
@@ -4367,7 +4238,6 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5211,
             "name": "Жемчужная улица"
         }
     },
@@ -4398,8 +4268,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5212
+            "highway": "service"
         }
     },
     {
@@ -4429,8 +4298,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5213
+            "highway": "service"
         }
     },
     {
@@ -4468,8 +4336,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5214
+            "highway": "service"
         }
     },
     {
@@ -4487,8 +4354,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5215
+            "highway": "service"
         }
     },
     {
@@ -4526,8 +4392,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5216
+            "highway": "service"
         }
     },
     {
@@ -4545,8 +4410,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5217
+            "highway": "service"
         }
     },
     {
@@ -4576,8 +4440,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5218
+            "highway": "service"
         }
     },
     {
@@ -4599,8 +4462,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5219
+            "highway": "service"
         }
     },
     {
@@ -4618,8 +4480,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5220
+            "highway": "service"
         }
     },
     {
@@ -4665,8 +4526,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5221
+            "highway": "service"
         }
     },
     {
@@ -4684,8 +4544,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5222
+            "highway": "service"
         }
     },
     {
@@ -4707,8 +4566,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5223
+            "highway": "service"
         }
     },
     {
@@ -4734,8 +4592,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5224
+            "highway": "service"
         }
     },
     {
@@ -4753,8 +4610,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5225
+            "highway": "service"
         }
     },
     {
@@ -4772,8 +4628,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5226
+            "highway": "service"
         }
     },
     {
@@ -4795,8 +4650,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5227
+            "highway": "service"
         }
     },
     {
@@ -4818,8 +4672,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5228
+            "highway": "service"
         }
     },
     {
@@ -4841,8 +4694,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5229
+            "highway": "service"
         }
     },
     {
@@ -4864,8 +4716,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5230
+            "highway": "service"
         }
     },
     {
@@ -4883,8 +4734,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5231
+            "highway": "service"
         }
     },
     {
@@ -4926,8 +4776,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5232
+            "highway": "service"
         }
     },
     {
@@ -4989,8 +4838,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5233
+            "highway": "service"
         }
     },
     {
@@ -5044,8 +4892,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5234
+            "highway": "service"
         }
     },
     {
@@ -5079,8 +4926,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5235
+            "highway": "service"
         }
     },
     {
@@ -5118,8 +4964,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5236
+            "highway": "service"
         }
     },
     {
@@ -5169,8 +5014,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5237
+            "highway": "service"
         }
     },
     {
@@ -5188,8 +5032,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5238
+            "highway": "service"
         }
     },
     {
@@ -5211,8 +5054,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5239
+            "highway": "service"
         }
     },
     {
@@ -5242,8 +5084,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5240
+            "highway": "service"
         }
     },
     {
@@ -5297,8 +5138,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5241
+            "highway": "service"
         }
     },
     {
@@ -5336,8 +5176,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5242
+            "highway": "service"
         }
     },
     {
@@ -5367,8 +5206,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5243
+            "highway": "service"
         }
     },
     {
@@ -5394,8 +5232,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5244
+            "highway": "service"
         }
     },
     {
@@ -5425,8 +5262,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5245
+            "highway": "service"
         }
     },
     {
@@ -5448,8 +5284,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5246
+            "highway": "service"
         }
     },
     {
@@ -5471,8 +5306,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5247
+            "highway": "service"
         }
     },
     {
@@ -5514,8 +5348,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5248
+            "highway": "service"
         }
     },
     {
@@ -5550,7 +5383,6 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5249,
             "name": "переулок Богдана Хмельницкого"
         }
     },
@@ -5573,8 +5405,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5250
+            "highway": "service"
         }
     },
     {
@@ -5700,8 +5531,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5251
+            "highway": "service"
         }
     },
     {
@@ -5743,8 +5573,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5252
+            "highway": "service"
         }
     },
     {
@@ -5806,8 +5635,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5253
+            "highway": "service"
         }
     },
     {
@@ -5825,8 +5653,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5254
+            "highway": "service"
         }
     },
     {
@@ -5864,8 +5691,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5255
+            "highway": "service"
         }
     },
     {
@@ -5899,8 +5725,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5256
+            "highway": "service"
         }
     },
     {
@@ -5934,8 +5759,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5257
+            "highway": "service"
         }
     },
     {
@@ -6025,8 +5849,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5258
+            "highway": "service"
         }
     },
     {
@@ -6044,8 +5867,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5259
+            "highway": "service"
         }
     },
     {
@@ -6075,8 +5897,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5260
+            "highway": "service"
         }
     },
     {
@@ -6094,8 +5915,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5261
+            "highway": "service"
         }
     },
     {
@@ -6125,8 +5945,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5262
+            "highway": "service"
         }
     },
     {
@@ -6156,8 +5975,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5263
+            "highway": "service"
         }
     },
     {
@@ -6187,8 +6005,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5264
+            "highway": "service"
         }
     },
     {
@@ -6226,8 +6043,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5265
+            "highway": "service"
         }
     },
     {
@@ -6245,8 +6061,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5266
+            "highway": "service"
         }
     },
     {
@@ -6268,8 +6083,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5267
+            "highway": "service"
         }
     },
     {
@@ -6287,8 +6101,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5268
+            "highway": "service"
         }
     },
     {
@@ -6306,8 +6119,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5269
+            "highway": "service"
         }
     },
     {
@@ -6337,8 +6149,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5270
+            "highway": "service"
         }
     },
     {
@@ -6356,8 +6167,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5271
+            "highway": "service"
         }
     },
     {
@@ -6391,8 +6201,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5272
+            "highway": "service"
         }
     },
     {
@@ -6434,8 +6243,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5273
+            "highway": "service"
         }
     },
     {
@@ -6469,8 +6277,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5274
+            "highway": "service"
         }
     },
     {
@@ -6496,8 +6303,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5275
+            "highway": "service"
         }
     },
     {
@@ -6519,8 +6325,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5276
+            "highway": "service"
         }
     },
     {
@@ -6538,8 +6343,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5277
+            "highway": "service"
         }
     },
     {
@@ -6589,8 +6393,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5278
+            "highway": "service"
         }
     },
     {
@@ -6612,8 +6415,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5279
+            "highway": "service"
         }
     },
     {
@@ -6631,8 +6433,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5280
+            "highway": "service"
         }
     },
     {
@@ -6662,8 +6463,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5281
+            "highway": "service"
         }
     },
     {
@@ -6681,8 +6481,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5282
+            "highway": "service"
         }
     },
     {
@@ -6700,8 +6499,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5283
+            "highway": "service"
         }
     },
     {
@@ -6723,8 +6521,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5284
+            "highway": "service"
         }
     },
     {
@@ -6750,8 +6547,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5285
+            "highway": "service"
         }
     },
     {
@@ -6789,8 +6585,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5286
+            "highway": "service"
         }
     },
     {
@@ -6812,8 +6607,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5287
+            "highway": "service"
         }
     },
     {
@@ -6831,8 +6625,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5288
+            "highway": "service"
         }
     },
     {
@@ -6850,8 +6643,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5289
+            "highway": "service"
         }
     },
     {
@@ -6869,8 +6661,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5290
+            "highway": "service"
         }
     },
     {
@@ -6888,8 +6679,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5291
+            "highway": "service"
         }
     },
     {
@@ -6915,8 +6705,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5292
+            "highway": "service"
         }
     },
     {
@@ -6942,8 +6731,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5293
+            "highway": "service"
         }
     },
     {
@@ -6965,8 +6753,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5294
+            "highway": "service"
         }
     },
     {
@@ -7000,8 +6787,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5295
+            "highway": "service"
         }
     },
     {
@@ -7019,8 +6805,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5296
+            "highway": "service"
         }
     },
     {
@@ -7046,8 +6831,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5297
+            "highway": "service"
         }
     },
     {
@@ -7065,8 +6849,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5298
+            "highway": "service"
         }
     },
     {
@@ -7096,8 +6879,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5299
+            "highway": "service"
         }
     },
     {
@@ -7151,8 +6933,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5300
+            "highway": "service"
         }
     },
     {
@@ -7198,8 +6979,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5301
+            "highway": "service"
         }
     },
     {
@@ -7225,8 +7005,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5302
+            "highway": "service"
         }
     },
     {
@@ -7244,8 +7023,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5303
+            "highway": "service"
         }
     },
     {
@@ -7267,8 +7045,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5304
+            "highway": "service"
         }
     },
     {
@@ -7298,8 +7075,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5305
+            "highway": "service"
         }
     },
     {
@@ -7321,8 +7097,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5306
+            "highway": "service"
         }
     },
     {
@@ -7440,8 +7215,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5307
+            "highway": "service"
         }
     },
     {
@@ -7479,8 +7253,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5308
+            "highway": "service"
         }
     },
     {
@@ -7502,8 +7275,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5309
+            "highway": "service"
         }
     },
     {
@@ -7557,8 +7329,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5310
+            "highway": "service"
         }
     },
     {
@@ -7580,8 +7351,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5311
+            "highway": "service"
         }
     },
     {
@@ -7611,8 +7381,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5312
+            "highway": "service"
         }
     },
     {
@@ -7658,8 +7427,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5313
+            "highway": "service"
         }
     },
     {
@@ -7681,8 +7449,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5314
+            "highway": "service"
         }
     },
     {
@@ -7732,8 +7499,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5315
+            "highway": "service"
         }
     },
     {
@@ -7803,8 +7569,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5316
+            "highway": "service"
         }
     },
     {
@@ -7822,8 +7587,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5317
+            "highway": "service"
         }
     },
     {
@@ -7841,8 +7605,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5318
+            "highway": "service"
         }
     },
     {
@@ -7860,8 +7623,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5319
+            "highway": "service"
         }
     },
     {
@@ -7879,8 +7641,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5320
+            "highway": "service"
         }
     },
     {
@@ -7902,8 +7663,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5321
+            "highway": "service"
         }
     },
     {
@@ -7925,8 +7685,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5322
+            "highway": "service"
         }
     },
     {
@@ -7948,8 +7707,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5323
+            "highway": "service"
         }
     },
     {
@@ -7971,8 +7729,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5324
+            "highway": "service"
         }
     },
     {
@@ -7994,8 +7751,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5325
+            "highway": "service"
         }
     },
     {
@@ -8017,8 +7773,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5326
+            "highway": "service"
         }
     },
     {
@@ -8040,8 +7795,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5327
+            "highway": "service"
         }
     },
     {
@@ -8063,8 +7817,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5328
+            "highway": "service"
         }
     },
     {
@@ -8086,8 +7839,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5329
+            "highway": "service"
         }
     },
     {
@@ -8109,8 +7861,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5330
+            "highway": "service"
         }
     },
     {
@@ -8136,8 +7887,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5331
+            "highway": "service"
         }
     },
     {
@@ -8163,8 +7913,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5332
+            "highway": "service"
         }
     },
     {
@@ -8190,8 +7939,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5333
+            "highway": "service"
         }
     },
     {
@@ -8217,8 +7965,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5334
+            "highway": "service"
         }
     },
     {
@@ -8248,8 +7995,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5335
+            "highway": "service"
         }
     },
     {
@@ -8279,8 +8025,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5336
+            "highway": "service"
         }
     },
     {
@@ -8310,8 +8055,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5337
+            "highway": "service"
         }
     },
     {
@@ -8345,8 +8089,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5338
+            "highway": "service"
         }
     },
     {
@@ -8380,8 +8123,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5339
+            "highway": "service"
         }
     },
     {
@@ -8419,8 +8161,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5340
+            "highway": "service"
         }
     },
     {
@@ -8458,8 +8199,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5341
+            "highway": "service"
         }
     },
     {
@@ -8501,8 +8241,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5342
+            "highway": "service"
         }
     },
     {
@@ -8520,8 +8259,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5343
+            "highway": "service"
         }
     },
     {
@@ -8539,8 +8277,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5344
+            "highway": "service"
         }
     },
     {
@@ -8558,8 +8295,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5345
+            "highway": "service"
         }
     },
     {
@@ -8585,8 +8321,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5346
+            "highway": "service"
         }
     },
     {
@@ -8608,8 +8343,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5347
+            "highway": "service"
         }
     },
     {
@@ -8643,8 +8377,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5348
+            "highway": "service"
         }
     },
     {
@@ -8686,8 +8419,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5349
+            "highway": "service"
         }
     },
     {
@@ -8713,8 +8445,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5350
+            "highway": "service"
         }
     },
     {
@@ -8736,8 +8467,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5351
+            "highway": "service"
         }
     },
     {
@@ -8795,8 +8525,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5352
+            "highway": "service"
         }
     },
     {
@@ -8870,8 +8599,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5353
+            "highway": "service"
         }
     },
     {
@@ -8889,8 +8617,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5354
+            "highway": "service"
         }
     },
     {
@@ -8908,8 +8635,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5355
+            "highway": "service"
         }
     },
     {
@@ -8927,8 +8653,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5356
+            "highway": "service"
         }
     },
     {
@@ -8946,8 +8671,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5357
+            "highway": "service"
         }
     },
     {
@@ -8973,8 +8697,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5358
+            "highway": "service"
         }
     },
     {
@@ -9008,8 +8731,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5359
+            "highway": "service"
         }
     },
     {
@@ -9039,8 +8761,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5360
+            "highway": "service"
         }
     },
     {
@@ -9070,8 +8791,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5361
+            "highway": "service"
         }
     },
     {
@@ -9105,8 +8825,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5362
+            "highway": "service"
         }
     },
     {
@@ -9124,8 +8843,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5363
+            "highway": "service"
         }
     },
     {
@@ -9147,8 +8865,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5364
+            "highway": "service"
         }
     },
     {
@@ -9174,8 +8891,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5365
+            "highway": "service"
         }
     },
     {
@@ -9201,8 +8917,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5366
+            "highway": "service"
         }
     },
     {
@@ -9220,8 +8935,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5367
+            "highway": "service"
         }
     },
     {
@@ -9239,8 +8953,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5368
+            "highway": "service"
         }
     },
     {
@@ -9262,8 +8975,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5369
+            "highway": "service"
         }
     },
     {
@@ -9285,8 +8997,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5370
+            "highway": "service"
         }
     },
     {
@@ -9312,8 +9023,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5371
+            "highway": "service"
         }
     },
     {
@@ -9339,8 +9049,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5372
+            "highway": "service"
         }
     },
     {
@@ -9374,8 +9083,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5373
+            "highway": "service"
         }
     },
     {
@@ -9421,8 +9129,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5374
+            "highway": "service"
         }
     },
     {
@@ -9448,8 +9155,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5375
+            "highway": "service"
         }
     },
     {
@@ -9467,8 +9173,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5376
+            "highway": "service"
         }
     },
     {
@@ -9494,8 +9199,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5377
+            "highway": "service"
         }
     },
     {
@@ -9513,8 +9217,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5378
+            "highway": "service"
         }
     },
     {
@@ -9532,8 +9235,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5379
+            "highway": "service"
         }
     },
     {
@@ -9555,8 +9257,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5380
+            "highway": "service"
         }
     },
     {
@@ -9578,8 +9279,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5381
+            "highway": "service"
         }
     },
     {
@@ -9609,8 +9309,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5382
+            "highway": "service"
         }
     },
     {
@@ -9628,8 +9327,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5383
+            "highway": "service"
         }
     },
     {
@@ -9691,8 +9389,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5384
+            "highway": "service"
         }
     },
     {
@@ -9710,8 +9407,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5385
+            "highway": "service"
         }
     },
     {
@@ -9745,8 +9441,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5386
+            "highway": "service"
         }
     },
     {
@@ -9788,8 +9483,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5387
+            "highway": "service"
         }
     },
     {
@@ -9851,8 +9545,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5388
+            "highway": "service"
         }
     },
     {
@@ -9870,8 +9563,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5389
+            "highway": "service"
         }
     },
     {
@@ -9889,8 +9581,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5390
+            "highway": "service"
         }
     },
     {
@@ -9908,8 +9599,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5391
+            "highway": "service"
         }
     },
     {
@@ -9935,8 +9625,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5392
+            "highway": "service"
         }
     },
     {
@@ -9962,8 +9651,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5393
+            "highway": "service"
         }
     },
     {
@@ -10009,8 +9697,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5394
+            "highway": "service"
         }
     },
     {
@@ -10028,8 +9715,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5395
+            "highway": "service"
         }
     },
     {
@@ -10051,8 +9737,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5396
+            "highway": "service"
         }
     },
     {
@@ -10074,8 +9759,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5397
+            "highway": "service"
         }
     },
     {
@@ -10113,8 +9797,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5398
+            "highway": "service"
         }
     },
     {
@@ -10164,8 +9847,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5399
+            "highway": "service"
         }
     },
     {
@@ -10183,8 +9865,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5400
+            "highway": "service"
         }
     },
     {
@@ -10206,8 +9887,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5401
+            "highway": "service"
         }
     },
     {
@@ -10225,8 +9905,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5402
+            "highway": "service"
         }
     },
     {
@@ -10256,8 +9935,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5403
+            "highway": "service"
         }
     },
     {
@@ -10315,8 +9993,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5404
+            "highway": "service"
         }
     },
     {
@@ -10334,8 +10011,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5405
+            "highway": "service"
         }
     },
     {
@@ -10361,8 +10037,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5406
+            "highway": "service"
         }
     },
     {
@@ -10384,8 +10059,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5407
+            "highway": "service"
         }
     },
     {
@@ -10467,8 +10141,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5408
+            "highway": "service"
         }
     },
     {
@@ -10546,8 +10219,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5409
+            "highway": "service"
         }
     },
     {
@@ -10585,8 +10257,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5410
+            "highway": "service"
         }
     },
     {
@@ -10604,8 +10275,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5411
+            "highway": "service"
         }
     },
     {
@@ -10631,8 +10301,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5412
+            "highway": "service"
         }
     },
     {
@@ -10658,8 +10327,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5413
+            "highway": "service"
         }
     },
     {
@@ -10721,8 +10389,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5414
+            "highway": "service"
         }
     },
     {
@@ -10752,8 +10419,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5415
+            "highway": "service"
         }
     },
     {
@@ -10787,8 +10453,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5416
+            "highway": "service"
         }
     },
     {
@@ -10806,8 +10471,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5417
+            "highway": "service"
         }
     },
     {
@@ -10837,8 +10501,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5418
+            "highway": "service"
         }
     },
     {
@@ -10908,8 +10571,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5419
+            "highway": "service"
         }
     },
     {
@@ -10931,8 +10593,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5420
+            "highway": "service"
         }
     },
     {
@@ -10986,8 +10647,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5421
+            "highway": "service"
         }
     },
     {
@@ -11013,8 +10673,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5422
+            "highway": "service"
         }
     },
     {
@@ -11048,8 +10707,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5423
+            "highway": "service"
         }
     },
     {
@@ -11067,8 +10725,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5424
+            "highway": "service"
         }
     },
     {
@@ -11094,8 +10751,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5425
+            "highway": "service"
         }
     },
     {
@@ -11129,8 +10785,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5426
+            "highway": "service"
         }
     },
     {
@@ -11152,8 +10807,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5427
+            "highway": "service"
         }
     },
     {
@@ -11195,8 +10849,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5428
+            "highway": "service"
         }
     },
     {
@@ -11214,8 +10867,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5429
+            "highway": "service"
         }
     },
     {
@@ -11237,8 +10889,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5430
+            "highway": "service"
         }
     },
     {
@@ -11276,8 +10927,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5431
+            "highway": "service"
         }
     },
     {
@@ -11311,8 +10961,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5432
+            "highway": "service"
         }
     },
     {
@@ -11334,8 +10983,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5433
+            "highway": "service"
         }
     },
     {
@@ -11353,8 +11001,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5434
+            "highway": "service"
         }
     },
     {
@@ -11372,8 +11019,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5435
+            "highway": "service"
         }
     },
     {
@@ -11391,8 +11037,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5436
+            "highway": "service"
         }
     },
     {
@@ -11410,8 +11055,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5437
+            "highway": "service"
         }
     },
     {
@@ -11429,8 +11073,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5438
+            "highway": "service"
         }
     },
     {
@@ -11448,8 +11091,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5439
+            "highway": "service"
         }
     },
     {
@@ -11467,8 +11109,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5440
+            "highway": "service"
         }
     },
     {
@@ -11486,8 +11127,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5441
+            "highway": "service"
         }
     },
     {
@@ -11505,8 +11145,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5442
+            "highway": "service"
         }
     },
     {
@@ -11524,8 +11163,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5443
+            "highway": "service"
         }
     },
     {
@@ -11543,8 +11181,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5444
+            "highway": "service"
         }
     },
     {
@@ -11562,8 +11199,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5445
+            "highway": "service"
         }
     },
     {
@@ -12037,8 +11673,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5446
+            "highway": "service"
         }
     },
     {
@@ -12064,8 +11699,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5447
+            "highway": "service"
         }
     },
     {
@@ -12096,7 +11730,6 @@
         },
         "properties": {
             "highway": "service",
-            "id": 5448,
             "name": "Интернациональная улица"
         }
     },
@@ -12119,8 +11752,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5449
+            "highway": "service"
         }
     },
     {
@@ -12362,8 +11994,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5450
+            "highway": "service"
         }
     },
     {
@@ -12385,8 +12016,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5451
+            "highway": "service"
         }
     },
     {
@@ -12408,8 +12038,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5452
+            "highway": "service"
         }
     },
     {
@@ -12439,8 +12068,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5453
+            "highway": "service"
         }
     },
     {
@@ -12474,8 +12102,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5454
+            "highway": "service"
         }
     },
     {
@@ -12509,8 +12136,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5455
+            "highway": "service"
         }
     },
     {
@@ -12536,8 +12162,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5456
+            "highway": "service"
         }
     },
     {
@@ -12555,8 +12180,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5457
+            "highway": "service"
         }
     },
     {
@@ -12578,8 +12202,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5458
+            "highway": "service"
         }
     },
     {
@@ -12649,8 +12272,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5459
+            "highway": "service"
         }
     },
     {
@@ -12668,8 +12290,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5460
+            "highway": "service"
         }
     },
     {
@@ -12687,8 +12308,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5461
+            "highway": "service"
         }
     },
     {
@@ -12706,8 +12326,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5462
+            "highway": "service"
         }
     },
     {
@@ -12725,8 +12344,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5463
+            "highway": "service"
         }
     },
     {
@@ -12744,8 +12362,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5464
+            "highway": "service"
         }
     },
     {
@@ -12771,8 +12388,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5465
+            "highway": "service"
         }
     },
     {
@@ -12790,8 +12406,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5466
+            "highway": "service"
         }
     },
     {
@@ -12809,8 +12424,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5467
+            "highway": "service"
         }
     },
     {
@@ -12828,8 +12442,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5468
+            "highway": "service"
         }
     },
     {
@@ -12847,8 +12460,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5469
+            "highway": "service"
         }
     },
     {
@@ -12866,8 +12478,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5470
+            "highway": "service"
         }
     },
     {
@@ -12885,8 +12496,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5471
+            "highway": "service"
         }
     },
     {
@@ -12912,8 +12522,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5472
+            "highway": "service"
         }
     },
     {
@@ -12939,8 +12548,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5473
+            "highway": "service"
         }
     },
     {
@@ -12958,8 +12566,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5474
+            "highway": "service"
         }
     },
     {
@@ -12977,8 +12584,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5475
+            "highway": "service"
         }
     },
     {
@@ -13012,8 +12618,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5476
+            "highway": "service"
         }
     },
     {
@@ -13035,8 +12640,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5477
+            "highway": "service"
         }
     },
     {
@@ -13058,8 +12662,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5478
+            "highway": "service"
         }
     },
     {
@@ -13081,8 +12684,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5479
+            "highway": "service"
         }
     },
     {
@@ -13112,8 +12714,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5480
+            "highway": "service"
         }
     },
     {
@@ -13151,8 +12752,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5481
+            "highway": "service"
         }
     },
     {
@@ -13198,8 +12798,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5482
+            "highway": "service"
         }
     },
     {
@@ -13265,8 +12864,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5483
+            "highway": "service"
         }
     },
     {
@@ -13408,8 +13006,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5484
+            "highway": "service"
         }
     },
     {
@@ -13427,8 +13024,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5485
+            "highway": "service"
         }
     },
     {
@@ -13454,8 +13050,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5486
+            "highway": "service"
         }
     },
     {
@@ -13473,8 +13068,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5487
+            "highway": "service"
         }
     },
     {
@@ -13532,8 +13126,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5488
+            "highway": "service"
         }
     },
     {
@@ -13555,8 +13148,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5489
+            "highway": "service"
         }
     },
     {
@@ -13582,8 +13174,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5490
+            "highway": "service"
         }
     },
     {
@@ -13601,8 +13192,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5491
+            "highway": "service"
         }
     },
     {
@@ -13628,8 +13218,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5492
+            "highway": "service"
         }
     },
     {
@@ -13679,8 +13268,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5493
+            "highway": "service"
         }
     },
     {
@@ -13738,8 +13326,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5494
+            "highway": "service"
         }
     },
     {
@@ -13817,8 +13404,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5495
+            "highway": "service"
         }
     },
     {
@@ -13892,8 +13478,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5496
+            "highway": "service"
         }
     },
     {
@@ -13911,8 +13496,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5497
+            "highway": "service"
         }
     },
     {
@@ -13930,8 +13514,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5498
+            "highway": "service"
         }
     },
     {
@@ -13953,8 +13536,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5499
+            "highway": "service"
         }
     },
     {
@@ -13972,8 +13554,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5500
+            "highway": "service"
         }
     },
     {
@@ -14003,8 +13584,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5501
+            "highway": "service"
         }
     },
     {
@@ -14022,8 +13602,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5502
+            "highway": "service"
         }
     },
     {
@@ -14041,8 +13620,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5503
+            "highway": "service"
         }
     },
     {
@@ -14060,8 +13638,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5504
+            "highway": "service"
         }
     },
     {
@@ -14079,8 +13656,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5505
+            "highway": "service"
         }
     },
     {
@@ -14098,8 +13674,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5506
+            "highway": "service"
         }
     },
     {
@@ -14117,8 +13692,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5507
+            "highway": "service"
         }
     },
     {
@@ -14140,8 +13714,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5508
+            "highway": "service"
         }
     },
     {
@@ -14167,8 +13740,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5509
+            "highway": "service"
         }
     },
     {
@@ -14194,8 +13766,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5510
+            "highway": "service"
         }
     },
     {
@@ -14233,8 +13804,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5511
+            "highway": "service"
         }
     },
     {
@@ -14260,8 +13830,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5512
+            "highway": "service"
         }
     },
     {
@@ -14287,8 +13856,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5513
+            "highway": "service"
         }
     },
     {
@@ -14322,8 +13890,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5514
+            "highway": "service"
         }
     },
     {
@@ -14353,8 +13920,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5515
+            "highway": "service"
         }
     },
     {
@@ -14388,8 +13954,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5516
+            "highway": "service"
         }
     },
     {
@@ -14427,8 +13992,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5517
+            "highway": "service"
         }
     },
     {
@@ -14470,8 +14034,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5518
+            "highway": "service"
         }
     },
     {
@@ -14513,8 +14076,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5519
+            "highway": "service"
         }
     },
     {
@@ -14556,8 +14118,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5520
+            "highway": "service"
         }
     },
     {
@@ -14619,8 +14180,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5521
+            "highway": "service"
         }
     },
     {
@@ -14642,8 +14202,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5522
+            "highway": "service"
         }
     },
     {
@@ -14665,8 +14224,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5523
+            "highway": "service"
         }
     },
     {
@@ -14704,8 +14262,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5524
+            "highway": "service"
         }
     },
     {
@@ -14743,8 +14300,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5525
+            "highway": "service"
         }
     },
     {
@@ -14774,8 +14330,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5526
+            "highway": "service"
         }
     },
     {
@@ -14805,8 +14360,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5527
+            "highway": "service"
         }
     },
     {
@@ -14844,8 +14398,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5528
+            "highway": "service"
         }
     },
     {
@@ -14875,8 +14428,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5529
+            "highway": "service"
         }
     },
     {
@@ -14894,8 +14446,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5530
+            "highway": "service"
         }
     },
     {
@@ -14925,8 +14476,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5531
+            "highway": "service"
         }
     },
     {
@@ -14944,8 +14494,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5532
+            "highway": "service"
         }
     },
     {
@@ -14963,8 +14512,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5533
+            "highway": "service"
         }
     },
     {
@@ -14990,8 +14538,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5534
+            "highway": "service"
         }
     },
     {
@@ -15013,8 +14560,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5535
+            "highway": "service"
         }
     },
     {
@@ -15036,8 +14582,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5536
+            "highway": "service"
         }
     },
     {
@@ -15059,8 +14604,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5537
+            "highway": "service"
         }
     },
     {
@@ -15078,8 +14622,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5538
+            "highway": "service"
         }
     },
     {
@@ -15177,8 +14720,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5539
+            "highway": "service"
         }
     },
     {
@@ -15204,8 +14746,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5540
+            "highway": "service"
         }
     },
     {
@@ -15223,8 +14764,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5541
+            "highway": "service"
         }
     },
     {
@@ -15242,8 +14782,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5542
+            "highway": "service"
         }
     },
     {
@@ -15261,8 +14800,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5543
+            "highway": "service"
         }
     },
     {
@@ -15280,8 +14818,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5544
+            "highway": "service"
         }
     },
     {
@@ -15299,8 +14836,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5545
+            "highway": "service"
         }
     },
     {
@@ -15318,8 +14854,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5546
+            "highway": "service"
         }
     },
     {
@@ -15337,8 +14872,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5547
+            "highway": "service"
         }
     },
     {
@@ -15356,8 +14890,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5548
+            "highway": "service"
         }
     },
     {
@@ -15375,8 +14908,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5549
+            "highway": "service"
         }
     },
     {
@@ -15394,8 +14926,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5550
+            "highway": "service"
         }
     },
     {
@@ -15413,8 +14944,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5551
+            "highway": "service"
         }
     },
     {
@@ -15432,8 +14962,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5552
+            "highway": "service"
         }
     },
     {
@@ -15543,8 +15072,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5553
+            "highway": "service"
         }
     },
     {
@@ -15574,8 +15102,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5554
+            "highway": "service"
         }
     },
     {
@@ -15597,8 +15124,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5555
+            "highway": "service"
         }
     },
     {
@@ -15656,8 +15182,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5556
+            "highway": "service"
         }
     },
     {
@@ -15675,8 +15200,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5557
+            "highway": "service"
         }
     },
     {
@@ -15694,8 +15218,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5558
+            "highway": "service"
         }
     },
     {
@@ -15713,8 +15236,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5559
+            "highway": "service"
         }
     },
     {
@@ -15732,8 +15254,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5560
+            "highway": "service"
         }
     },
     {
@@ -15759,8 +15280,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5561
+            "highway": "service"
         }
     },
     {
@@ -15786,8 +15306,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5562
+            "highway": "service"
         }
     },
     {
@@ -15813,8 +15332,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5563
+            "highway": "service"
         }
     },
     {
@@ -15844,8 +15362,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5564
+            "highway": "service"
         }
     },
     {
@@ -15911,8 +15428,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5565
+            "highway": "service"
         }
     },
     {
@@ -15958,8 +15474,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5566
+            "highway": "service"
         }
     },
     {
@@ -15981,8 +15496,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5567
+            "highway": "service"
         }
     },
     {
@@ -16012,8 +15526,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5568
+            "highway": "service"
         }
     },
     {
@@ -16039,8 +15552,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5569
+            "highway": "service"
         }
     },
     {
@@ -16074,8 +15586,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5570
+            "highway": "service"
         }
     },
     {
@@ -16105,8 +15616,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5571
+            "highway": "service"
         }
     },
     {
@@ -16124,8 +15634,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5572
+            "highway": "service"
         }
     },
     {
@@ -16151,8 +15660,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5573
+            "highway": "service"
         }
     },
     {
@@ -16178,8 +15686,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5574
+            "highway": "service"
         }
     },
     {
@@ -16197,8 +15704,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5575
+            "highway": "service"
         }
     },
     {
@@ -16228,8 +15734,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5576
+            "highway": "service"
         }
     },
     {
@@ -16255,8 +15760,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5577
+            "highway": "service"
         }
     },
     {
@@ -16274,8 +15778,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5578
+            "highway": "service"
         }
     },
     {
@@ -16373,8 +15876,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5579
+            "highway": "service"
         }
     },
     {
@@ -16396,8 +15898,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5580
+            "highway": "service"
         }
     },
     {
@@ -16416,8 +15917,7 @@
         },
         "properties": {
             "bridge": "yes",
-            "highway": "service",
-            "id": 5581
+            "highway": "service"
         }
     },
     {
@@ -16455,8 +15955,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5582
+            "highway": "service"
         }
     },
     {
@@ -16494,8 +15993,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5583
+            "highway": "service"
         }
     },
     {
@@ -16525,8 +16023,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5584
+            "highway": "service"
         }
     },
     {
@@ -16568,8 +16065,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5585
+            "highway": "service"
         }
     },
     {
@@ -16619,8 +16115,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5586
+            "highway": "service"
         }
     },
     {
@@ -16638,8 +16133,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5587
+            "highway": "service"
         }
     },
     {
@@ -16665,8 +16159,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5588
+            "highway": "service"
         }
     },
     {
@@ -16760,8 +16253,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5589
+            "highway": "service"
         }
     },
     {
@@ -16803,8 +16295,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5590
+            "highway": "service"
         }
     },
     {
@@ -16866,8 +16357,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5591
+            "highway": "service"
         }
     },
     {
@@ -16897,8 +16387,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5592
+            "highway": "service"
         }
     },
     {
@@ -16928,8 +16417,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5593
+            "highway": "service"
         }
     },
     {
@@ -16947,8 +16435,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5594
+            "highway": "service"
         }
     },
     {
@@ -16966,8 +16453,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5595
+            "highway": "service"
         }
     },
     {
@@ -16993,8 +16479,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5596
+            "highway": "service"
         }
     },
     {
@@ -17016,8 +16501,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5597
+            "highway": "service"
         }
     },
     {
@@ -17039,8 +16523,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5598
+            "highway": "service"
         }
     },
     {
@@ -17062,8 +16545,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5599
+            "highway": "service"
         }
     },
     {
@@ -17085,8 +16567,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5600
+            "highway": "service"
         }
     },
     {
@@ -17120,8 +16601,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5601
+            "highway": "service"
         }
     },
     {
@@ -17151,8 +16631,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5602
+            "highway": "service"
         }
     },
     {
@@ -17170,8 +16649,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5603
+            "highway": "service"
         }
     },
     {
@@ -17189,8 +16667,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5604
+            "highway": "service"
         }
     },
     {
@@ -17208,8 +16685,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5605
+            "highway": "service"
         }
     },
     {
@@ -17227,8 +16703,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5606
+            "highway": "service"
         }
     },
     {
@@ -17286,8 +16761,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5607
+            "highway": "service"
         }
     },
     {
@@ -17341,8 +16815,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5608
+            "highway": "service"
         }
     },
     {
@@ -17372,8 +16845,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5609
+            "highway": "service"
         }
     },
     {
@@ -17411,8 +16883,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5610
+            "highway": "service"
         }
     },
     {
@@ -17430,8 +16901,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5611
+            "highway": "service"
         }
     },
     {
@@ -17453,8 +16923,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5612
+            "highway": "service"
         }
     },
     {
@@ -17472,8 +16941,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5613
+            "highway": "service"
         }
     },
     {
@@ -17503,8 +16971,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5614
+            "highway": "service"
         }
     },
     {
@@ -17522,8 +16989,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5615
+            "highway": "service"
         }
     },
     {
@@ -17541,8 +17007,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5616
+            "highway": "service"
         }
     },
     {
@@ -17560,8 +17025,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5617
+            "highway": "service"
         }
     },
     {
@@ -17587,8 +17051,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5618
+            "highway": "service"
         }
     },
     {
@@ -17610,8 +17073,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5619
+            "highway": "service"
         }
     },
     {
@@ -17633,8 +17095,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5620
+            "highway": "service"
         }
     },
     {
@@ -17656,8 +17117,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5621
+            "highway": "service"
         }
     },
     {
@@ -17683,8 +17143,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5622
+            "highway": "service"
         }
     },
     {
@@ -17718,8 +17177,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5623
+            "highway": "service"
         }
     },
     {
@@ -17741,8 +17199,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5624
+            "highway": "service"
         }
     },
     {
@@ -17796,8 +17253,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5625
+            "highway": "service"
         }
     },
     {
@@ -17815,8 +17271,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5626
+            "highway": "service"
         }
     },
     {
@@ -17842,8 +17297,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5627
+            "highway": "service"
         }
     },
     {
@@ -17861,8 +17315,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5628
+            "highway": "service"
         }
     },
     {
@@ -17880,8 +17333,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5629
+            "highway": "service"
         }
     },
     {
@@ -17899,8 +17351,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5630
+            "highway": "service"
         }
     },
     {
@@ -17926,8 +17377,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5631
+            "highway": "service"
         }
     },
     {
@@ -17961,8 +17411,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5632
+            "highway": "service"
         }
     },
     {
@@ -18036,8 +17485,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5633
+            "highway": "service"
         }
     },
     {
@@ -18075,8 +17523,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5634
+            "highway": "service"
         }
     },
     {
@@ -18094,8 +17541,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5635
+            "highway": "service"
         }
     },
     {
@@ -18114,8 +17560,7 @@
         },
         "properties": {
             "bridge": "yes",
-            "highway": "service",
-            "id": 5636
+            "highway": "service"
         }
     },
     {
@@ -18133,8 +17578,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5637
+            "highway": "service"
         }
     },
     {
@@ -18184,8 +17628,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5638
+            "highway": "service"
         }
     },
     {
@@ -18219,8 +17662,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5639
+            "highway": "service"
         }
     },
     {
@@ -18242,8 +17684,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5640
+            "highway": "service"
         }
     },
     {
@@ -18269,8 +17710,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5641
+            "highway": "service"
         }
     },
     {
@@ -18288,8 +17728,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5642
+            "highway": "service"
         }
     },
     {
@@ -18319,8 +17758,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5643
+            "highway": "service"
         }
     },
     {
@@ -18342,8 +17780,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5644
+            "highway": "service"
         }
     },
     {
@@ -18377,8 +17814,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5645
+            "highway": "service"
         }
     },
     {
@@ -18408,8 +17844,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5646
+            "highway": "service"
         }
     },
     {
@@ -18439,8 +17874,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5647
+            "highway": "service"
         }
     },
     {
@@ -18462,8 +17896,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5648
+            "highway": "service"
         }
     },
     {
@@ -18485,8 +17918,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5649
+            "highway": "service"
         }
     },
     {
@@ -18508,8 +17940,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5650
+            "highway": "service"
         }
     },
     {
@@ -18527,8 +17958,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5651
+            "highway": "service"
         }
     },
     {
@@ -18546,8 +17976,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5652
+            "highway": "service"
         }
     },
     {
@@ -18565,8 +17994,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5653
+            "highway": "service"
         }
     },
     {
@@ -18584,8 +18012,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5654
+            "highway": "service"
         }
     },
     {
@@ -18603,8 +18030,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5655
+            "highway": "service"
         }
     },
     {
@@ -18638,8 +18064,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5656
+            "highway": "service"
         }
     },
     {
@@ -18657,8 +18082,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5657
+            "highway": "service"
         }
     },
     {
@@ -18680,8 +18104,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5658
+            "highway": "service"
         }
     },
     {
@@ -18715,8 +18138,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5659
+            "highway": "service"
         }
     },
     {
@@ -18734,8 +18156,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5660
+            "highway": "service"
         }
     },
     {
@@ -18753,8 +18174,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5661
+            "highway": "service"
         }
     },
     {
@@ -18784,8 +18204,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5662
+            "highway": "service"
         }
     },
     {
@@ -18807,8 +18226,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5663
+            "highway": "service"
         }
     },
     {
@@ -18826,8 +18244,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5664
+            "highway": "service"
         }
     },
     {
@@ -18845,8 +18262,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5665
+            "highway": "service"
         }
     },
     {
@@ -18868,8 +18284,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5666
+            "highway": "service"
         }
     },
     {
@@ -18903,8 +18318,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5667
+            "highway": "service"
         }
     },
     {
@@ -18922,8 +18336,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5668
+            "highway": "service"
         }
     },
     {
@@ -19037,8 +18450,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5669
+            "highway": "service"
         }
     },
     {
@@ -19056,8 +18468,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5670
+            "highway": "service"
         }
     },
     {
@@ -19091,8 +18502,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5671
+            "highway": "service"
         }
     },
     {
@@ -19138,8 +18548,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5672
+            "highway": "service"
         }
     },
     {
@@ -19157,8 +18566,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5673
+            "highway": "service"
         }
     },
     {
@@ -19188,8 +18596,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5674
+            "highway": "service"
         }
     },
     {
@@ -19211,8 +18618,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5675
+            "highway": "service"
         }
     },
     {
@@ -19238,8 +18644,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5676
+            "highway": "service"
         }
     },
     {
@@ -19261,8 +18666,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5677
+            "highway": "service"
         }
     },
     {
@@ -19324,8 +18728,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5678
+            "highway": "service"
         }
     },
     {
@@ -19355,8 +18758,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5679
+            "highway": "service"
         }
     },
     {
@@ -19374,8 +18776,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5680
+            "highway": "service"
         }
     },
     {
@@ -19397,8 +18798,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5681
+            "highway": "service"
         }
     },
     {
@@ -19420,8 +18820,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5682
+            "highway": "service"
         }
     },
     {
@@ -19439,8 +18838,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5683
+            "highway": "service"
         }
     },
     {
@@ -19478,8 +18876,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5684
+            "highway": "service"
         }
     },
     {
@@ -19557,8 +18954,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5685
+            "highway": "service"
         }
     },
     {
@@ -19580,8 +18976,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5686
+            "highway": "service"
         }
     },
     {
@@ -19603,8 +18998,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5687
+            "highway": "service"
         }
     },
     {
@@ -19626,8 +19020,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5688
+            "highway": "service"
         }
     },
     {
@@ -19645,8 +19038,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5689
+            "highway": "service"
         }
     },
     {
@@ -19668,8 +19060,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5690
+            "highway": "service"
         }
     },
     {
@@ -19691,8 +19082,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5691
+            "highway": "service"
         }
     },
     {
@@ -19714,8 +19104,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5692
+            "highway": "service"
         }
     },
     {
@@ -19737,8 +19126,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5693
+            "highway": "service"
         }
     },
     {
@@ -19764,8 +19152,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5694
+            "highway": "service"
         }
     },
     {
@@ -19823,8 +19210,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5695
+            "highway": "service"
         }
     },
     {
@@ -19890,8 +19276,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5696
+            "highway": "service"
         }
     },
     {
@@ -19937,8 +19322,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5697
+            "highway": "service"
         }
     },
     {
@@ -19956,8 +19340,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5698
+            "highway": "service"
         }
     },
     {
@@ -19975,8 +19358,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5699
+            "highway": "service"
         }
     },
     {
@@ -19994,8 +19376,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5700
+            "highway": "service"
         }
     },
     {
@@ -20013,8 +19394,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5701
+            "highway": "service"
         }
     },
     {
@@ -20032,8 +19412,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5702
+            "highway": "service"
         }
     },
     {
@@ -20051,8 +19430,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5703
+            "highway": "service"
         }
     },
     {
@@ -20070,8 +19448,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5704
+            "highway": "service"
         }
     },
     {
@@ -20089,8 +19466,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5705
+            "highway": "service"
         }
     },
     {
@@ -20108,8 +19484,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5706
+            "highway": "service"
         }
     },
     {
@@ -20135,8 +19510,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5707
+            "highway": "service"
         }
     },
     {
@@ -20162,8 +19536,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5708
+            "highway": "service"
         }
     },
     {
@@ -20189,8 +19562,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5709
+            "highway": "service"
         }
     },
     {
@@ -20244,8 +19616,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5710
+            "highway": "service"
         }
     },
     {
@@ -20263,8 +19634,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5711
+            "highway": "service"
         }
     },
     {
@@ -20290,8 +19660,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5712
+            "highway": "service"
         }
     },
     {
@@ -20325,8 +19694,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5713
+            "highway": "service"
         }
     },
     {
@@ -20344,8 +19712,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5714
+            "highway": "service"
         }
     },
     {
@@ -20363,8 +19730,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "service",
-            "id": 5715
+            "highway": "service"
         }
     },
     {
@@ -20425,7 +19791,6 @@
         },
         "properties": {
             "amenity": "police",
-            "id": 5716,
             "name": "ГИБДД г.Адлер"
         }
     },
@@ -20460,7 +19825,6 @@
         "properties": {
             "amenity": "nightclub",
             "building": "yes",
-            "id": 5717,
             "leisure": "sports_centre",
             "name": "АЙС - КЛУБ"
         }
@@ -20498,7 +19862,6 @@
             "building": "yes",
             "building:levels": "1",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5718,
             "name": "Церковь евангельских христиан"
         }
     },
@@ -20538,7 +19901,6 @@
             "amenity": "place_of_worship",
             "building": "yes",
             "building:levels": "1",
-            "id": 5719,
             "name": "Церковь Сошествия Святого Духа"
         }
     },
@@ -20573,7 +19935,6 @@
         "properties": {
             "amenity": "place_of_worship",
             "building": "yes",
-            "id": 5720,
             "name": "Собор Святого Саркиса"
         }
     },
@@ -20607,8 +19968,7 @@
         },
         "properties": {
             "amenity": "toilets",
-            "building": "yes",
-            "id": 5721
+            "building": "yes"
         }
     },
     {
@@ -20641,8 +20001,7 @@
         },
         "properties": {
             "amenity": "toilets",
-            "building": "yes",
-            "id": 5722
+            "building": "yes"
         }
     },
     {
@@ -20654,8 +20013,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "toilets",
-            "id": 5723
+            "amenity": "toilets"
         }
     },
     {
@@ -20667,8 +20025,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "toilets",
-            "id": 5724
+            "amenity": "toilets"
         }
     },
     {
@@ -20680,8 +20037,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "toilets",
-            "id": 5725
+            "amenity": "toilets"
         }
     },
     {
@@ -20693,8 +20049,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "toilets",
-            "id": 5726
+            "amenity": "toilets"
         }
     },
     {
@@ -20706,8 +20061,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "toilets",
-            "id": 5727
+            "amenity": "toilets"
         }
     },
     {
@@ -20719,8 +20073,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "toilets",
-            "id": 5728
+            "amenity": "toilets"
         }
     },
     {
@@ -20732,8 +20085,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "toilets",
-            "id": 5729
+            "amenity": "toilets"
         }
     },
     {
@@ -20745,8 +20097,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "toilets",
-            "id": 5730
+            "amenity": "toilets"
         }
     },
     {
@@ -20758,8 +20109,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "toilets",
-            "id": 5731
+            "amenity": "toilets"
         }
     },
     {
@@ -20857,7 +20207,6 @@
         "properties": {
             "amenity": "sanatorium",
             "fire_operator": "RU-KDA-10-13",
-            "id": 5732,
             "leisure": "resort",
             "name": "Санаторий \"Южное взморье\""
         }
@@ -20914,7 +20263,6 @@
             "amenity": "register_office",
             "building": "public",
             "building:levels": "1",
-            "id": 5733,
             "name": "ЗАГС"
         }
     },
@@ -20949,7 +20297,6 @@
         "properties": {
             "amenity": "pharmacy",
             "building": "yes",
-            "id": 5734,
             "name": "24 часа"
         }
     },
@@ -20962,8 +20309,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "pharmacy",
-            "id": 5735
+            "amenity": "pharmacy"
         }
     },
     {
@@ -20975,8 +20321,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "pharmacy",
-            "id": 5736
+            "amenity": "pharmacy"
         }
     },
     {
@@ -20988,8 +20333,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "pharmacy",
-            "id": 5737
+            "amenity": "pharmacy"
         }
     },
     {
@@ -21001,8 +20345,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "pharmacy",
-            "id": 5738
+            "amenity": "pharmacy"
         }
     },
     {
@@ -21014,8 +20357,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "pharmacy",
-            "id": 5739
+            "amenity": "pharmacy"
         }
     },
     {
@@ -21027,8 +20369,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "pharmacy",
-            "id": 5740
+            "amenity": "pharmacy"
         }
     },
     {
@@ -21040,8 +20381,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "pharmacy",
-            "id": 5741
+            "amenity": "pharmacy"
         }
     },
     {
@@ -21053,8 +20393,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "pharmacy",
-            "id": 5742
+            "amenity": "pharmacy"
         }
     },
     {
@@ -21066,8 +20405,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "pharmacy",
-            "id": 5743
+            "amenity": "pharmacy"
         }
     },
     {
@@ -21079,8 +20417,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "pharmacy",
-            "id": 5744
+            "amenity": "pharmacy"
         }
     },
     {
@@ -21093,7 +20430,6 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5745,
             "name": "Аптека"
         }
     },
@@ -21107,7 +20443,6 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5746,
             "name": "Мелодия Здоровья"
         }
     },
@@ -21121,7 +20456,6 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5747,
             "name": "Аптека \"Новые Черёмушки\""
         }
     },
@@ -21135,7 +20469,6 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5748,
             "name": "Аптека"
         }
     },
@@ -21149,7 +20482,6 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5749,
             "name": "Мелодия здоровья"
         }
     },
@@ -21163,7 +20495,6 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5750,
             "name": "Аптека"
         }
     },
@@ -21176,8 +20507,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "pharmacy",
-            "id": 5751
+            "amenity": "pharmacy"
         }
     },
     {
@@ -21190,7 +20520,6 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5752,
             "name": "Аптека"
         }
     },
@@ -21204,7 +20533,6 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5753,
             "name": "Социальная аптека"
         }
     },
@@ -21218,7 +20546,6 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5754,
             "name": "Аптека"
         }
     },
@@ -21232,7 +20559,6 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5755,
             "name": "Энергия трав+"
         }
     },
@@ -21245,8 +20571,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "pharmacy",
-            "id": 5756
+            "amenity": "pharmacy"
         }
     },
     {
@@ -21258,8 +20583,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "pharmacy",
-            "id": 5757
+            "amenity": "pharmacy"
         }
     },
     {
@@ -21271,8 +20595,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "pharmacy",
-            "id": 5758
+            "amenity": "pharmacy"
         }
     },
     {
@@ -21285,7 +20608,6 @@
         },
         "properties": {
             "amenity": "pharmacy",
-            "id": 5759,
             "name": "Дент-Эксперт"
         }
     },
@@ -21298,8 +20620,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "pharmacy",
-            "id": 5760
+            "amenity": "pharmacy"
         }
     },
     {
@@ -21331,7 +20652,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5761,
             "leisure": "fitness_station"
         }
     },
@@ -21364,7 +20684,6 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5762,
             "leisure": "fitness_station"
         }
     },
@@ -21398,8 +20717,7 @@
         },
         "properties": {
             "amenity": "public_building",
-            "building": "yes",
-            "id": 5763
+            "building": "yes"
         }
     },
     {
@@ -21412,7 +20730,6 @@
         },
         "properties": {
             "amenity": "public_building",
-            "id": 5764,
             "name": "Санитарно-эпидемиологическая служба Адлерского района"
         }
     },
@@ -21447,7 +20764,6 @@
         "properties": {
             "amenity": "rescue_station",
             "building": "yes",
-            "id": 5765,
             "name": "ЮРПСО МЧС России",
             "operator": "RU-URPSO"
         }
@@ -21462,7 +20778,6 @@
         },
         "properties": {
             "amenity": "library",
-            "id": 5766,
             "name": "Центральная библиотека Адлерского района"
         }
     },
@@ -21477,7 +20792,6 @@
         "properties": {
             "amenity": "post_office",
             "brand": "Почта России",
-            "id": 5767,
             "name": "Сочи 354340",
             "operator": "Почта России"
         }
@@ -21493,7 +20807,6 @@
         "properties": {
             "amenity": "post_office",
             "brand": "Почта России",
-            "id": 5768,
             "name": "Сочи 354348",
             "operator": "Почта России"
         }

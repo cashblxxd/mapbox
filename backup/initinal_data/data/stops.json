@@ -9,7 +9,7 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5769
+            "uid": "233125"
         }
     },
     {
@@ -22,8 +22,8 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5770,
-            "name": "Южное взморье"
+            "name": "Южное взморье",
+            "uid": "2647893"
         }
     },
     {
@@ -36,7 +36,7 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5771
+            "uid": "395697"
         }
     },
     {
@@ -50,8 +50,8 @@
         "properties": {
             "bench": "yes",
             "highway": "bus_stop",
-            "id": 5772,
-            "name": "Новый век"
+            "name": "Новый век",
+            "uid": "127606"
         }
     },
     {
@@ -64,8 +64,8 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5773,
-            "name": "Комсомолец"
+            "name": "Комсомолец",
+            "uid": "3795911"
         }
     },
     {
@@ -78,7 +78,7 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5774
+            "uid": "233125"
         }
     },
     {
@@ -91,7 +91,7 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5775
+            "uid": "143266"
         }
     },
     {
@@ -104,7 +104,7 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5776
+            "uid": "143266"
         }
     },
     {
@@ -117,7 +117,7 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5777
+            "uid": "233125"
         }
     },
     {
@@ -130,7 +130,7 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5778
+            "uid": "233125"
         }
     },
     {
@@ -143,7 +143,7 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5779
+            "uid": "233125"
         }
     },
     {
@@ -156,8 +156,8 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5780,
-            "name": "Взлетная"
+            "name": "Взлетная",
+            "uid": "3820150"
         }
     },
     {
@@ -171,7 +171,7 @@
         "properties": {
             "bench": "no",
             "highway": "bus_stop",
-            "id": 5781
+            "uid": "143266"
         }
     },
     {
@@ -184,8 +184,8 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5782,
-            "name": "Апельсин"
+            "name": "Апельсин",
+            "uid": "3914341"
         }
     },
     {
@@ -198,8 +198,8 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5783,
-            "name": "Квартирное бюро"
+            "name": "Квартирное бюро",
+            "uid": "233125"
         }
     },
     {
@@ -213,8 +213,8 @@
         "properties": {
             "bench": "yes",
             "highway": "bus_stop",
-            "id": 5784,
-            "name": "Апельсин"
+            "name": "Апельсин",
+            "uid": "3914341"
         }
     },
     {
@@ -227,8 +227,8 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5785,
-            "name": "Рынок \"Новый век\""
+            "name": "Рынок \"Новый век\"",
+            "uid": "3914341"
         }
     },
     {
@@ -241,7 +241,7 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5786
+            "uid": "4428363"
         }
     },
     {
@@ -254,8 +254,8 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5787,
-            "name": "Кинотеатр \"Комсомолец\""
+            "name": "Кинотеатр \"Комсомолец\"",
+            "uid": "4428363"
         }
     },
     {
@@ -268,8 +268,8 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5788,
-            "name": "Космос"
+            "name": "Космос",
+            "uid": "4428363"
         }
     },
     {
@@ -282,8 +282,8 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5789,
-            "name": "Птицефабрика"
+            "name": "Птицефабрика",
+            "uid": "127606"
         }
     },
     {
@@ -296,8 +296,8 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5790,
-            "name": "Южные культуры"
+            "name": "Южные культуры",
+            "uid": "127606"
         }
     },
     {
@@ -310,7 +310,7 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5791
+            "uid": "127606"
         }
     },
     {
@@ -323,8 +323,8 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5792,
-            "name": "Рынок"
+            "name": "Рынок",
+            "uid": "127606"
         }
     },
     {
@@ -337,8 +337,8 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5793,
-            "name": "Птицефабрика"
+            "name": "Птицефабрика",
+            "uid": "127606"
         }
     },
     {
@@ -351,7 +351,7 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5794
+            "uid": "1793609"
         }
     },
     {
@@ -364,8 +364,8 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5795,
-            "name": "главный медиацентр"
+            "name": "главный медиацентр",
+            "uid": "1793609"
         }
     },
     {
@@ -378,8 +378,8 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5796,
-            "name": "Жилые дома"
+            "name": "Жилые дома",
+            "uid": "1793609"
         }
     },
     {
@@ -392,8 +392,8 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5797,
-            "name": "Главный медиацентр"
+            "name": "Главный медиацентр",
+            "uid": "1793609"
         }
     },
     {
@@ -406,8 +406,8 @@
         },
         "properties": {
             "highway": "bus_stop",
-            "id": 5798,
-            "name": "Керлинговый центр «Ледяной куб»"
+            "name": "Керлинговый центр «Ледяной куб»",
+            "uid": "1793609"
         }
     },
     {
@@ -420,7 +420,7 @@
         },
         "properties": {
             "highway": "stop",
-            "id": 5799
+            "uid": "143266"
         }
     }
 ]

@@ -8,8 +8,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bicycle_parking",
-            "id": 6284
+            "amenity": "bicycle_parking"
         }
     },
     {
@@ -21,8 +20,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bicycle_parking",
-            "id": 6285
+            "amenity": "bicycle_parking"
         }
     },
     {
@@ -34,8 +32,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bicycle_parking",
-            "id": 6286
+            "amenity": "bicycle_parking"
         }
     },
     {
@@ -47,8 +44,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "post_box",
-            "id": 6287
+            "amenity": "post_box"
         }
     },
     {
@@ -60,8 +56,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6288
+            "amenity": "bench"
         }
     },
     {
@@ -73,8 +68,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6289
+            "amenity": "bench"
         }
     },
     {
@@ -86,8 +80,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6290
+            "amenity": "bench"
         }
     },
     {
@@ -99,8 +92,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6291
+            "amenity": "bench"
         }
     },
     {
@@ -112,8 +104,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6292
+            "amenity": "bench"
         }
     },
     {
@@ -125,8 +116,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6293
+            "amenity": "bench"
         }
     },
     {
@@ -138,8 +128,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6294
+            "amenity": "bench"
         }
     },
     {
@@ -151,8 +140,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6295
+            "amenity": "bench"
         }
     },
     {
@@ -164,8 +152,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6296
+            "amenity": "bench"
         }
     },
     {
@@ -177,8 +164,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6297
+            "amenity": "bench"
         }
     },
     {
@@ -190,8 +176,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6298
+            "amenity": "bench"
         }
     },
     {
@@ -203,8 +188,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6299
+            "amenity": "bench"
         }
     },
     {
@@ -216,8 +200,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6300
+            "amenity": "bench"
         }
     },
     {
@@ -229,8 +212,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6301
+            "amenity": "bench"
         }
     },
     {
@@ -242,8 +224,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6302
+            "amenity": "bench"
         }
     },
     {
@@ -255,8 +236,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6303
+            "amenity": "bench"
         }
     },
     {
@@ -268,8 +248,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6304
+            "amenity": "bench"
         }
     },
     {
@@ -281,8 +260,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6305
+            "amenity": "bench"
         }
     },
     {
@@ -294,8 +272,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6306
+            "amenity": "bench"
         }
     },
     {
@@ -307,8 +284,7 @@
             "type": "Point"
         },
         "properties": {
-            "amenity": "bench",
-            "id": 6307
+            "amenity": "bench"
         }
     }
 ]

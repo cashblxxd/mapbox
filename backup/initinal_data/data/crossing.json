@@ -9,7 +9,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 5981
+            "uid": "233125"
         }
     },
     {
@@ -22,7 +22,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 5982
+            "uid": "233125"
         }
     },
     {
@@ -35,7 +35,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 5983
+            "uid": "127606"
         }
     },
     {
@@ -49,7 +49,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 5984
+            "uid": "2853561"
         }
     },
     {
@@ -62,7 +62,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 5985
+            "uid": "233125"
         }
     },
     {
@@ -75,7 +75,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 5986
+            "uid": "233125"
         }
     },
     {
@@ -88,7 +88,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 5987
+            "uid": "2356855"
         }
     },
     {
@@ -101,7 +101,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 5988
+            "uid": "233125"
         }
     },
     {
@@ -114,7 +114,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 5989
+            "uid": "1357136"
         }
     },
     {
@@ -127,7 +127,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 5990
+            "uid": "233125"
         }
     },
     {
@@ -141,7 +141,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 5991
+            "uid": "143266"
         }
     },
     {
@@ -155,7 +155,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 5992
+            "uid": "143266"
         }
     },
     {
@@ -168,7 +168,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 5993
+            "uid": "206282"
         }
     },
     {
@@ -182,8 +182,8 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 5994,
-            "tactile_paving": "yes"
+            "tactile_paving": "yes",
+            "uid": "127606"
         }
     },
     {
@@ -197,7 +197,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 5995
+            "uid": "143266"
         }
     },
     {
@@ -211,7 +211,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 5996
+            "uid": "143266"
         }
     },
     {
@@ -224,7 +224,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 5997
+            "uid": "2853561"
         }
     },
     {
@@ -238,7 +238,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 5998
+            "uid": "143266"
         }
     },
     {
@@ -252,7 +252,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 5999
+            "uid": "143266"
         }
     },
     {
@@ -265,7 +265,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6000
+            "uid": "143266"
         }
     },
     {
@@ -278,7 +278,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6001
+            "uid": "233125"
         }
     },
     {
@@ -291,7 +291,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6002
+            "uid": "233125"
         }
     },
     {
@@ -304,7 +304,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6003
+            "uid": "233125"
         }
     },
     {
@@ -317,7 +317,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6004
+            "uid": "233125"
         }
     },
     {
@@ -330,7 +330,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6005
+            "uid": "233125"
         }
     },
     {
@@ -343,7 +343,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6006
+            "uid": "233125"
         }
     },
     {
@@ -356,7 +356,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6007
+            "uid": "233125"
         }
     },
     {
@@ -369,7 +369,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6008
+            "uid": "233125"
         }
     },
     {
@@ -382,7 +382,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6009
+            "uid": "233125"
         }
     },
     {
@@ -395,7 +395,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6010
+            "uid": "2853561"
         }
     },
     {
@@ -408,7 +408,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6011
+            "uid": "233125"
         }
     },
     {
@@ -421,7 +421,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6012
+            "uid": "233125"
         }
     },
     {
@@ -434,7 +434,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6013
+            "uid": "233125"
         }
     },
     {
@@ -447,7 +447,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6014
+            "uid": "491706"
         }
     },
     {
@@ -461,8 +461,8 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6015,
-            "tactile_paving": "yes"
+            "tactile_paving": "yes",
+            "uid": "2758266"
         }
     },
     {
@@ -476,7 +476,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6016
+            "uid": "127606"
         }
     },
     {
@@ -490,7 +490,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6017
+            "uid": "127606"
         }
     },
     {
@@ -503,7 +503,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6018
+            "uid": "233125"
         }
     },
     {
@@ -516,7 +516,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6019
+            "uid": "206282"
         }
     },
     {
@@ -529,7 +529,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6020
+            "uid": "233125"
         }
     },
     {
@@ -542,7 +542,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6021
+            "uid": "233125"
         }
     },
     {
@@ -556,8 +556,8 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6022,
-            "tactile_paving": "yes"
+            "tactile_paving": "yes",
+            "uid": "2758266"
         }
     },
     {
@@ -571,8 +571,8 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6023,
-            "tactile_paving": "yes"
+            "tactile_paving": "yes",
+            "uid": "2758266"
         }
     },
     {
@@ -585,7 +585,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6024
+            "uid": "233125"
         }
     },
     {
@@ -599,7 +599,7 @@
         "properties": {
             "crossing": "traffic_signals",
             "highway": "crossing",
-            "id": 6025
+            "uid": "206282"
         }
     },
     {
@@ -613,8 +613,8 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6026,
-            "tactile_paving": "yes"
+            "tactile_paving": "yes",
+            "uid": "2758266"
         }
     },
     {
@@ -627,7 +627,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6027
+            "uid": "233125"
         }
     },
     {
@@ -640,7 +640,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6028
+            "uid": "206282"
         }
     },
     {
@@ -653,7 +653,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6029
+            "uid": "233125"
         }
     },
     {
@@ -666,7 +666,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6030
+            "uid": "206282"
         }
     },
     {
@@ -679,7 +679,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6031
+            "uid": "233125"
         }
     },
     {
@@ -692,7 +692,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6032
+            "uid": "233125"
         }
     },
     {
@@ -705,7 +705,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6033
+            "uid": "233125"
         }
     },
     {
@@ -718,7 +718,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6034
+            "uid": "233125"
         }
     },
     {
@@ -731,7 +731,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6035
+            "uid": "233125"
         }
     },
     {
@@ -744,7 +744,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6036
+            "uid": "233125"
         }
     },
     {
@@ -757,7 +757,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6037
+            "uid": "233125"
         }
     },
     {
@@ -770,7 +770,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6038
+            "uid": "233125"
         }
     },
     {
@@ -783,7 +783,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6039
+            "uid": "233125"
         }
     },
     {
@@ -796,7 +796,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6040
+            "uid": "233125"
         }
     },
     {
@@ -809,7 +809,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6041
+            "uid": "233125"
         }
     },
     {
@@ -822,7 +822,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6042
+            "uid": "233125"
         }
     },
     {
@@ -835,7 +835,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6043
+            "uid": "206282"
         }
     },
     {
@@ -849,7 +849,7 @@
         "properties": {
             "crossing": "traffic_signals",
             "highway": "crossing",
-            "id": 6044
+            "uid": "206282"
         }
     },
     {
@@ -863,7 +863,7 @@
         "properties": {
             "crossing": "traffic_signals",
             "highway": "crossing",
-            "id": 6045
+            "uid": "206282"
         }
     },
     {
@@ -877,7 +877,7 @@
         "properties": {
             "crossing": "traffic_signals",
             "highway": "crossing",
-            "id": 6046
+            "uid": "206282"
         }
     },
     {
@@ -891,7 +891,7 @@
         "properties": {
             "crossing": "traffic_signals",
             "highway": "crossing",
-            "id": 6047
+            "uid": "7774118"
         }
     },
     {
@@ -905,7 +905,7 @@
         "properties": {
             "crossing": "traffic_signals",
             "highway": "crossing",
-            "id": 6048
+            "uid": "7774118"
         }
     },
     {
@@ -918,7 +918,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6049
+            "uid": "233125"
         }
     },
     {
@@ -931,7 +931,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6050
+            "uid": "233125"
         }
     },
     {
@@ -944,7 +944,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6051
+            "uid": "233125"
         }
     },
     {
@@ -957,7 +957,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6052
+            "uid": "233125"
         }
     },
     {
@@ -970,7 +970,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6053
+            "uid": "233125"
         }
     },
     {
@@ -983,7 +983,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6054
+            "uid": "2853561"
         }
     },
     {
@@ -996,7 +996,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6055
+            "uid": "233125"
         }
     },
     {
@@ -1009,8 +1009,8 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6056,
-            "tactile_paving": "no"
+            "tactile_paving": "no",
+            "uid": "491706"
         }
     },
     {
@@ -1023,7 +1023,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6057
+            "uid": "233125"
         }
     },
     {
@@ -1036,7 +1036,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6058
+            "uid": "233125"
         }
     },
     {
@@ -1049,7 +1049,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6059
+            "uid": "233125"
         }
     },
     {
@@ -1062,7 +1062,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6060
+            "uid": "830106"
         }
     },
     {
@@ -1075,7 +1075,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6061
+            "uid": "830106"
         }
     },
     {
@@ -1088,7 +1088,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6062
+            "uid": "2853561"
         }
     },
     {
@@ -1101,7 +1101,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6063
+            "uid": "4272444"
         }
     },
     {
@@ -1115,8 +1115,8 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6064,
-            "tactile_paving": "yes"
+            "tactile_paving": "yes",
+            "uid": "2758266"
         }
     },
     {
@@ -1130,8 +1130,8 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6065,
-            "tactile_paving": "yes"
+            "tactile_paving": "yes",
+            "uid": "2758266"
         }
     },
     {
@@ -1145,7 +1145,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6066
+            "uid": "27371"
         }
     },
     {
@@ -1159,8 +1159,8 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6067,
-            "tactile_paving": "yes"
+            "tactile_paving": "yes",
+            "uid": "2758266"
         }
     },
     {
@@ -1174,7 +1174,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6068
+            "uid": "491706"
         }
     },
     {
@@ -1188,7 +1188,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6069
+            "uid": "830106"
         }
     },
     {
@@ -1202,7 +1202,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6070
+            "uid": "491706"
         }
     },
     {
@@ -1216,7 +1216,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6071
+            "uid": "491706"
         }
     },
     {
@@ -1230,7 +1230,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6072
+            "uid": "127606"
         }
     },
     {
@@ -1244,7 +1244,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6073
+            "uid": "127606"
         }
     },
     {
@@ -1258,8 +1258,8 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6074,
-            "tactile_paving": "no"
+            "tactile_paving": "no",
+            "uid": "491706"
         }
     },
     {
@@ -1273,7 +1273,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6075
+            "uid": "309427"
         }
     },
     {
@@ -1287,7 +1287,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6076
+            "uid": "309427"
         }
     },
     {
@@ -1301,7 +1301,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6077
+            "uid": "309427"
         }
     },
     {
@@ -1314,7 +1314,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6078
+            "uid": "309427"
         }
     },
     {
@@ -1328,7 +1328,7 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6079
+            "uid": "127606"
         }
     },
     {
@@ -1341,7 +1341,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6080
+            "uid": "491706"
         }
     },
     {
@@ -1354,7 +1354,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6081
+            "uid": "491706"
         }
     },
     {
@@ -1367,7 +1367,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6082
+            "uid": "491706"
         }
     },
     {
@@ -1380,7 +1380,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6083
+            "uid": "491706"
         }
     },
     {
@@ -1393,7 +1393,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6084
+            "uid": "491706"
         }
     },
     {
@@ -1406,7 +1406,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6085
+            "uid": "491706"
         }
     },
     {
@@ -1419,7 +1419,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6086
+            "uid": "491706"
         }
     },
     {
@@ -1432,7 +1432,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6087
+            "uid": "491706"
         }
     },
     {
@@ -1445,7 +1445,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6088
+            "uid": "491706"
         }
     },
     {
@@ -1458,7 +1458,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6089
+            "uid": "491706"
         }
     },
     {
@@ -1471,7 +1471,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6090
+            "uid": "491706"
         }
     },
     {
@@ -1484,7 +1484,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6091
+            "uid": "491706"
         }
     },
     {
@@ -1497,7 +1497,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6092
+            "uid": "491706"
         }
     },
     {
@@ -1510,7 +1510,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6093
+            "uid": "491706"
         }
     },
     {
@@ -1523,7 +1523,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6094
+            "uid": "491706"
         }
     },
     {
@@ -1537,8 +1537,8 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6095,
-            "tactile_paving": "yes"
+            "tactile_paving": "yes",
+            "uid": "127606"
         }
     },
     {
@@ -1551,7 +1551,7 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6096
+            "uid": "127606"
         }
     }
 ]

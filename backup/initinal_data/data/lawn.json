@@ -36,8 +36,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5066,
-            "leisure": "garden"
+            "leisure": "garden",
+            "uid": "395697"
         }
     }
 ]

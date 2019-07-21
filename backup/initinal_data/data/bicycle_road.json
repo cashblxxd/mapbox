@@ -246,9 +246,9 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6097,
             "leisure": "track",
-            "type": "multipolygon"
+            "type": "multipolygon",
+            "uid": "706587"
         }
     },
     {
@@ -352,9 +352,9 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6098,
             "leisure": "track",
-            "name": "Мотодром"
+            "name": "Мотодром",
+            "uid": "491706"
         }
     },
     {
@@ -429,7 +429,7 @@
         },
         "properties": {
             "highway": "track",
-            "id": 6099
+            "uid": "143266"
         }
     },
     {
@@ -460,7 +460,7 @@
         },
         "properties": {
             "highway": "track",
-            "id": 6100
+            "uid": "143266"
         }
     }
 ]

@@ -44,10 +44,10 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5067,
             "leisure": "park",
             "name": "Парк Победы",
-            "type": "multipolygon"
+            "type": "multipolygon",
+            "uid": "2580205"
         }
     },
     {
@@ -99,8 +99,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5068,
-            "leisure": "park"
+            "leisure": "park",
+            "uid": "243088"
         }
     },
     {
@@ -144,9 +144,9 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5069,
             "leisure": "park",
-            "name": "Пансионат \"Солнечный Луч\""
+            "name": "Пансионат \"Солнечный Луч\"",
+            "uid": "1724658"
         }
     },
     {
@@ -186,8 +186,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5070,
-            "leisure": "park"
+            "leisure": "park",
+            "uid": "533140"
         }
     },
     {
@@ -219,9 +219,9 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5071,
             "leisure": "park",
-            "name": "Парк им. Бестужева"
+            "name": "Парк им. Бестужева",
+            "uid": "233125"
         }
     },
     {
@@ -273,8 +273,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5072,
-            "leisure": "park"
+            "leisure": "park",
+            "uid": "206282"
         }
     },
     {
@@ -306,8 +306,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5073,
-            "leisure": "park"
+            "leisure": "park",
+            "uid": "233125"
         }
     },
     {
@@ -499,9 +499,9 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5074,
             "leisure": "park",
-            "name": "Парк \"Южные культуры\""
+            "name": "Парк \"Южные культуры\"",
+            "uid": "1737245"
         }
     },
     {
@@ -821,9 +821,9 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5075,
             "leisure": "park",
-            "name": "Олимпийский парк"
+            "name": "Олимпийский парк",
+            "uid": "2080395"
         }
     },
     {
@@ -899,8 +899,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5076,
-            "leisure": "park"
+            "leisure": "park",
+            "uid": "233125"
         }
     },
     {
@@ -1124,8 +1124,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5077,
-            "leisure": "park"
+            "leisure": "park",
+            "uid": "233125"
         }
     },
     {
@@ -1185,8 +1185,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 5078,
-            "leisure": "park"
+            "leisure": "park",
+            "uid": "127606"
         }
     },
     {
@@ -1395,9 +1395,9 @@
         },
         "properties": {
             "address": "Сочи, Нагорный тупик, 13",
-            "id": 5079,
             "leisure": "park",
-            "name": "\"Парк \"Южные культуры\""
+            "name": "\"Парк \"Южные культуры\"",
+            "uid": "309427"
         }
     }
 ]

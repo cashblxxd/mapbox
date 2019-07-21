@@ -29,9 +29,9 @@
         },
         "properties": {
             "building": "yes",
-            "id": 6247,
             "leisure": "swimming_pool",
-            "name": "Профилакторий"
+            "name": "Профилакторий",
+            "uid": "599708"
         }
     },
     {
@@ -63,8 +63,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6248,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "101999"
         }
     },
     {
@@ -104,8 +104,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6249,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "101999"
         }
     },
     {
@@ -165,8 +165,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6250,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "1308821"
         }
     },
     {
@@ -354,8 +354,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6251,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "233125"
         }
     },
     {
@@ -447,8 +447,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6252,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "233125"
         }
     },
     {
@@ -592,9 +592,9 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6253,
             "leisure": "swimming_pool",
-            "name": "VinoGrad Pool"
+            "name": "VinoGrad Pool",
+            "uid": "206282"
         }
     },
     {
@@ -718,8 +718,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6254,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "233125"
         }
     },
     {
@@ -751,8 +751,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6255,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "233125"
         }
     },
     {
@@ -784,8 +784,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6256,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "233125"
         }
     },
     {
@@ -817,8 +817,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6257,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "233125"
         }
     },
     {
@@ -942,8 +942,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6258,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "233125"
         }
     },
     {
@@ -1067,8 +1067,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6259,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "233125"
         }
     },
     {
@@ -1128,8 +1128,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6260,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "491706"
         }
     },
     {
@@ -1197,8 +1197,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6261,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "491706"
         }
     },
     {
@@ -1250,8 +1250,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6262,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "491706"
         }
     },
     {
@@ -1303,8 +1303,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6263,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "491706"
         }
     },
     {
@@ -1360,8 +1360,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6264,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "463102"
         }
     },
     {
@@ -1393,8 +1393,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6265,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "463102"
         }
     },
     {
@@ -1450,8 +1450,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6266,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "463102"
         }
     },
     {
@@ -1483,8 +1483,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6267,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "463102"
         }
     },
     {
@@ -1516,8 +1516,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6268,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "463102"
         }
     },
     {
@@ -1549,8 +1549,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6269,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "463102"
         }
     },
     {
@@ -1582,8 +1582,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6270,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "491706"
         }
     },
     {
@@ -1615,8 +1615,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6271,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "491706"
         }
     },
     {
@@ -1628,8 +1628,8 @@
             "type": "Point"
         },
         "properties": {
-            "id": 6272,
-            "leisure": "swimming_pool"
+            "leisure": "swimming_pool",
+            "uid": "1724658"
         }
     },
     {
@@ -1701,9 +1701,9 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6273,
             "leisure": "beach_resort",
-            "name": "Муниципальный пляж \"Мзымта\""
+            "name": "Муниципальный пляж \"Мзымта\"",
+            "uid": "2580205"
         }
     },
     {
@@ -1737,9 +1737,9 @@
         "properties": {
             "building": "yes",
             "building:levels": "1",
-            "id": 6274,
             "leisure": "marina",
-            "name": "Яхт-клуб \"Авиатор\""
+            "name": "Яхт-клуб \"Авиатор\"",
+            "uid": "243088"
         }
     },
     {
@@ -1783,8 +1783,8 @@
             "type": "Polygon"
         },
         "properties": {
-            "id": 6275,
-            "leisure": "marina"
+            "leisure": "marina",
+            "uid": "491706"
         }
     },
     {
@@ -1817,7 +1817,7 @@
         },
         "properties": {
             "amenity": "fountain",
-            "id": 6276
+            "uid": "233125"
         }
     },
     {
@@ -1910,7 +1910,7 @@
         },
         "properties": {
             "amenity": "fountain",
-            "id": 6277
+            "uid": "523904"
         }
     },
     {
@@ -1995,7 +1995,7 @@
         },
         "properties": {
             "amenity": "fountain",
-            "id": 6278
+            "uid": "523904"
         }
     },
     {
@@ -2028,7 +2028,7 @@
         },
         "properties": {
             "amenity": "fountain",
-            "id": 6279
+            "uid": "491706"
         }
     },
     {
@@ -2105,7 +2105,7 @@
         },
         "properties": {
             "amenity": "fountain",
-            "id": 6280
+            "uid": "206282"
         }
     },
     {
@@ -2198,7 +2198,7 @@
         },
         "properties": {
             "amenity": "fountain",
-            "id": 6281
+            "uid": "2261094"
         }
     },
     {
@@ -2211,7 +2211,7 @@
         },
         "properties": {
             "amenity": "fountain",
-            "id": 6282
+            "uid": "233125"
         }
     },
     {
@@ -2224,7 +2224,7 @@
         },
         "properties": {
             "amenity": "fountain",
-            "id": 6283
+            "uid": "4406079"
         }
     }
 ]

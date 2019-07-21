@@ -22,7 +22,7 @@
       }
 
       .default {
-        background-image: url('default.png');
+        background-image: url('icons/building.png');
         background-size: cover;
         width: 20px;
         height: 20px;
@@ -40,7 +40,7 @@
       }
 
       .problem {
-        background-image: url('problem.png');
+        background-image: url('icons/problem.png');
         background-size: cover;
         width: 20px;
         height: 20px;
@@ -86,7 +86,7 @@ function readTextFile(file, callback) {
     }
     rawFile.send(null);
 }
-
+/*
 map.on('load', function () {
     readTextFile("dist_data/problems.json", function(text){
       data = JSON.parse(text);
@@ -165,17 +165,17 @@ map.on('load', function() {
             'fill-extrusion-opacity': .6
         }
     }, labelLayerId);
-});
+});*/
 
 // </almost copy-pasted part>
 
-readTextFile("houses1.json", function(text){
+readTextFile("dist_data/buildings.json", function(text){
     geojson = JSON.parse(text);
     console.log(geojson);
     geojson.forEach(function(marker) {
 
       var el = document.createElement('div');
-      el.className = 'uk';
+      el.className = 'default';
 
       // var header = marker.name_full; // || marker.properties.amenity || marker.properties.operator;
       // var desc = marker.legal_address; // || marker.properties.cuisine;
@@ -204,7 +204,7 @@ readTextFile("houses1.json", function(text){
     });
 });
 
-readTextFile("problems.json", function(text){
+readTextFile("dist_data/problems.json", function(text){
     geojson = JSON.parse(text);
     console.log(geojson);
     geojson.features.forEach(function(marker) {

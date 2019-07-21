@@ -8,8 +8,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 5981
+            "highway": "crossing"
         }
     },
     {
@@ -21,8 +20,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 5982
+            "highway": "crossing"
         }
     },
     {
@@ -34,8 +32,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 5983
+            "highway": "crossing"
         }
     },
     {
@@ -48,8 +45,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 5984
+            "highway": "crossing"
         }
     },
     {
@@ -61,8 +57,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 5985
+            "highway": "crossing"
         }
     },
     {
@@ -74,8 +69,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 5986
+            "highway": "crossing"
         }
     },
     {
@@ -87,8 +81,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 5987
+            "highway": "crossing"
         }
     },
     {
@@ -100,8 +93,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 5988
+            "highway": "crossing"
         }
     },
     {
@@ -113,8 +105,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 5989
+            "highway": "crossing"
         }
     },
     {
@@ -126,8 +117,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 5990
+            "highway": "crossing"
         }
     },
     {
@@ -140,8 +130,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 5991
+            "highway": "crossing"
         }
     },
     {
@@ -154,8 +143,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 5992
+            "highway": "crossing"
         }
     },
     {
@@ -167,8 +155,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 5993
+            "highway": "crossing"
         }
     },
     {
@@ -182,7 +169,6 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 5994,
             "tactile_paving": "yes"
         }
     },
@@ -196,8 +182,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 5995
+            "highway": "crossing"
         }
     },
     {
@@ -210,8 +195,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 5996
+            "highway": "crossing"
         }
     },
     {
@@ -223,8 +207,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 5997
+            "highway": "crossing"
         }
     },
     {
@@ -237,8 +220,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 5998
+            "highway": "crossing"
         }
     },
     {
@@ -251,8 +233,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 5999
+            "highway": "crossing"
         }
     },
     {
@@ -264,8 +245,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6000
+            "highway": "crossing"
         }
     },
     {
@@ -277,8 +257,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6001
+            "highway": "crossing"
         }
     },
     {
@@ -290,8 +269,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6002
+            "highway": "crossing"
         }
     },
     {
@@ -303,8 +281,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6003
+            "highway": "crossing"
         }
     },
     {
@@ -316,8 +293,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6004
+            "highway": "crossing"
         }
     },
     {
@@ -329,8 +305,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6005
+            "highway": "crossing"
         }
     },
     {
@@ -342,8 +317,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6006
+            "highway": "crossing"
         }
     },
     {
@@ -355,8 +329,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6007
+            "highway": "crossing"
         }
     },
     {
@@ -368,8 +341,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6008
+            "highway": "crossing"
         }
     },
     {
@@ -381,8 +353,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6009
+            "highway": "crossing"
         }
     },
     {
@@ -394,8 +365,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6010
+            "highway": "crossing"
         }
     },
     {
@@ -407,8 +377,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6011
+            "highway": "crossing"
         }
     },
     {
@@ -420,8 +389,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6012
+            "highway": "crossing"
         }
     },
     {
@@ -433,8 +401,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6013
+            "highway": "crossing"
         }
     },
     {
@@ -446,8 +413,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6014
+            "highway": "crossing"
         }
     },
     {
@@ -461,7 +427,6 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6015,
             "tactile_paving": "yes"
         }
     },
@@ -475,8 +440,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 6016
+            "highway": "crossing"
         }
     },
     {
@@ -489,8 +453,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 6017
+            "highway": "crossing"
         }
     },
     {
@@ -502,8 +465,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6018
+            "highway": "crossing"
         }
     },
     {
@@ -515,8 +477,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6019
+            "highway": "crossing"
         }
     },
     {
@@ -528,8 +489,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6020
+            "highway": "crossing"
         }
     },
     {
@@ -541,8 +501,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6021
+            "highway": "crossing"
         }
     },
     {
@@ -556,7 +515,6 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6022,
             "tactile_paving": "yes"
         }
     },
@@ -571,7 +529,6 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6023,
             "tactile_paving": "yes"
         }
     },
@@ -584,8 +541,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6024
+            "highway": "crossing"
         }
     },
     {
@@ -598,8 +554,7 @@
         },
         "properties": {
             "crossing": "traffic_signals",
-            "highway": "crossing",
-            "id": 6025
+            "highway": "crossing"
         }
     },
     {
@@ -613,7 +568,6 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6026,
             "tactile_paving": "yes"
         }
     },
@@ -626,8 +580,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6027
+            "highway": "crossing"
         }
     },
     {
@@ -639,8 +592,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6028
+            "highway": "crossing"
         }
     },
     {
@@ -652,8 +604,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6029
+            "highway": "crossing"
         }
     },
     {
@@ -665,8 +616,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6030
+            "highway": "crossing"
         }
     },
     {
@@ -678,8 +628,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6031
+            "highway": "crossing"
         }
     },
     {
@@ -691,8 +640,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6032
+            "highway": "crossing"
         }
     },
     {
@@ -704,8 +652,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6033
+            "highway": "crossing"
         }
     },
     {
@@ -717,8 +664,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6034
+            "highway": "crossing"
         }
     },
     {
@@ -730,8 +676,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6035
+            "highway": "crossing"
         }
     },
     {
@@ -743,8 +688,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6036
+            "highway": "crossing"
         }
     },
     {
@@ -756,8 +700,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6037
+            "highway": "crossing"
         }
     },
     {
@@ -769,8 +712,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6038
+            "highway": "crossing"
         }
     },
     {
@@ -782,8 +724,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6039
+            "highway": "crossing"
         }
     },
     {
@@ -795,8 +736,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6040
+            "highway": "crossing"
         }
     },
     {
@@ -808,8 +748,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6041
+            "highway": "crossing"
         }
     },
     {
@@ -821,8 +760,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6042
+            "highway": "crossing"
         }
     },
     {
@@ -834,8 +772,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6043
+            "highway": "crossing"
         }
     },
     {
@@ -848,8 +785,7 @@
         },
         "properties": {
             "crossing": "traffic_signals",
-            "highway": "crossing",
-            "id": 6044
+            "highway": "crossing"
         }
     },
     {
@@ -862,8 +798,7 @@
         },
         "properties": {
             "crossing": "traffic_signals",
-            "highway": "crossing",
-            "id": 6045
+            "highway": "crossing"
         }
     },
     {
@@ -876,8 +811,7 @@
         },
         "properties": {
             "crossing": "traffic_signals",
-            "highway": "crossing",
-            "id": 6046
+            "highway": "crossing"
         }
     },
     {
@@ -890,8 +824,7 @@
         },
         "properties": {
             "crossing": "traffic_signals",
-            "highway": "crossing",
-            "id": 6047
+            "highway": "crossing"
         }
     },
     {
@@ -904,8 +837,7 @@
         },
         "properties": {
             "crossing": "traffic_signals",
-            "highway": "crossing",
-            "id": 6048
+            "highway": "crossing"
         }
     },
     {
@@ -917,8 +849,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6049
+            "highway": "crossing"
         }
     },
     {
@@ -930,8 +861,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6050
+            "highway": "crossing"
         }
     },
     {
@@ -943,8 +873,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6051
+            "highway": "crossing"
         }
     },
     {
@@ -956,8 +885,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6052
+            "highway": "crossing"
         }
     },
     {
@@ -969,8 +897,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6053
+            "highway": "crossing"
         }
     },
     {
@@ -982,8 +909,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6054
+            "highway": "crossing"
         }
     },
     {
@@ -995,8 +921,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6055
+            "highway": "crossing"
         }
     },
     {
@@ -1009,7 +934,6 @@
         },
         "properties": {
             "highway": "crossing",
-            "id": 6056,
             "tactile_paving": "no"
         }
     },
@@ -1022,8 +946,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6057
+            "highway": "crossing"
         }
     },
     {
@@ -1035,8 +958,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6058
+            "highway": "crossing"
         }
     },
     {
@@ -1048,8 +970,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6059
+            "highway": "crossing"
         }
     },
     {
@@ -1061,8 +982,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6060
+            "highway": "crossing"
         }
     },
     {
@@ -1074,8 +994,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6061
+            "highway": "crossing"
         }
     },
     {
@@ -1087,8 +1006,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6062
+            "highway": "crossing"
         }
     },
     {
@@ -1100,8 +1018,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6063
+            "highway": "crossing"
         }
     },
     {
@@ -1115,7 +1032,6 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6064,
             "tactile_paving": "yes"
         }
     },
@@ -1130,7 +1046,6 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6065,
             "tactile_paving": "yes"
         }
     },
@@ -1144,8 +1059,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 6066
+            "highway": "crossing"
         }
     },
     {
@@ -1159,7 +1073,6 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6067,
             "tactile_paving": "yes"
         }
     },
@@ -1173,8 +1086,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 6068
+            "highway": "crossing"
         }
     },
     {
@@ -1187,8 +1099,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 6069
+            "highway": "crossing"
         }
     },
     {
@@ -1201,8 +1112,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 6070
+            "highway": "crossing"
         }
     },
     {
@@ -1215,8 +1125,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 6071
+            "highway": "crossing"
         }
     },
     {
@@ -1229,8 +1138,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 6072
+            "highway": "crossing"
         }
     },
     {
@@ -1243,8 +1151,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 6073
+            "highway": "crossing"
         }
     },
     {
@@ -1258,7 +1165,6 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6074,
             "tactile_paving": "no"
         }
     },
@@ -1272,8 +1178,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 6075
+            "highway": "crossing"
         }
     },
     {
@@ -1286,8 +1191,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 6076
+            "highway": "crossing"
         }
     },
     {
@@ -1300,8 +1204,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 6077
+            "highway": "crossing"
         }
     },
     {
@@ -1313,8 +1216,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6078
+            "highway": "crossing"
         }
     },
     {
@@ -1327,8 +1229,7 @@
         },
         "properties": {
             "crossing": "uncontrolled",
-            "highway": "crossing",
-            "id": 6079
+            "highway": "crossing"
         }
     },
     {
@@ -1340,8 +1241,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6080
+            "highway": "crossing"
         }
     },
     {
@@ -1353,8 +1253,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6081
+            "highway": "crossing"
         }
     },
     {
@@ -1366,8 +1265,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6082
+            "highway": "crossing"
         }
     },
     {
@@ -1379,8 +1277,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6083
+            "highway": "crossing"
         }
     },
     {
@@ -1392,8 +1289,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6084
+            "highway": "crossing"
         }
     },
     {
@@ -1405,8 +1301,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6085
+            "highway": "crossing"
         }
     },
     {
@@ -1418,8 +1313,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6086
+            "highway": "crossing"
         }
     },
     {
@@ -1431,8 +1325,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6087
+            "highway": "crossing"
         }
     },
     {
@@ -1444,8 +1337,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6088
+            "highway": "crossing"
         }
     },
     {
@@ -1457,8 +1349,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6089
+            "highway": "crossing"
         }
     },
     {
@@ -1470,8 +1361,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6090
+            "highway": "crossing"
         }
     },
     {
@@ -1483,8 +1373,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6091
+            "highway": "crossing"
         }
     },
     {
@@ -1496,8 +1385,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6092
+            "highway": "crossing"
         }
     },
     {
@@ -1509,8 +1397,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6093
+            "highway": "crossing"
         }
     },
     {
@@ -1522,8 +1409,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6094
+            "highway": "crossing"
         }
     },
     {
@@ -1537,7 +1423,6 @@
         "properties": {
             "crossing": "uncontrolled",
             "highway": "crossing",
-            "id": 6095,
             "tactile_paving": "yes"
         }
     },
@@ -1550,8 +1435,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "crossing",
-            "id": 6096
+            "highway": "crossing"
         }
     }
 ]

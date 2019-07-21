@@ -47,8 +47,8 @@
             "amenity": "doctors",
             "building": "yes",
             "building:levels": "3",
-            "id": 5800,
-            "name": "Поликлиника №2"
+            "name": "Поликлиника №2",
+            "uid": "233125"
         }
     },
     {
@@ -61,7 +61,7 @@
         },
         "properties": {
             "amenity": "doctors",
-            "id": 5801
+            "uid": "2580205"
         }
     },
     {
@@ -112,8 +112,8 @@
             "amenity": "clinic",
             "building": "hospital",
             "building:levels": "4",
-            "id": 5802,
-            "name": "Краевая больница №4"
+            "name": "Краевая больница №4",
+            "uid": "1724658"
         }
     },
     {
@@ -147,8 +147,8 @@
         "properties": {
             "amenity": "clinic",
             "building": "yes",
-            "id": 5803,
-            "name": "Медпункт"
+            "name": "Медпункт",
+            "uid": "491706"
         }
     },
     {
@@ -161,8 +161,8 @@
         },
         "properties": {
             "amenity": "clinic",
-            "id": 5804,
-            "name": "Будь здоров"
+            "name": "Будь здоров",
+            "uid": "9451067"
         }
     },
     {
@@ -175,8 +175,8 @@
         },
         "properties": {
             "amenity": "clinic",
-            "id": 5805,
-            "name": "Детская поликлиника"
+            "name": "Детская поликлиника",
+            "uid": "1724658"
         }
     },
     {
@@ -230,7 +230,7 @@
         "properties": {
             "building": "commercial",
             "building:levels": "4",
-            "id": 5806
+            "uid": "233125"
         }
     },
     {
@@ -285,8 +285,8 @@
             "address": "Сочи, улица Ленина, 88",
             "building": "commercial",
             "building:levels": "1",
-            "id": 5807,
-            "name": "Сервисный центр IT&COM"
+            "name": "Сервисный центр IT&COM",
+            "uid": "1724658"
         }
     },
     {
@@ -299,8 +299,8 @@
         },
         "properties": {
             "amenity": "pub",
-            "id": 5808,
-            "name": "BeeRлога"
+            "name": "BeeRлога",
+            "uid": "206282"
         }
     },
     {
@@ -313,8 +313,8 @@
         },
         "properties": {
             "amenity": "pub",
-            "id": 5809,
-            "name": "Принц Уэльский"
+            "name": "Принц Уэльский",
+            "uid": "9451067"
         }
     },
     {
@@ -327,8 +327,8 @@
         },
         "properties": {
             "amenity": "pub",
-            "id": 5810,
-            "name": "Барбекю&Паб"
+            "name": "Барбекю&Паб",
+            "uid": "4615380"
         }
     },
     {
@@ -362,8 +362,8 @@
         "properties": {
             "amenity": "fast_food",
             "building": "yes",
-            "id": 5811,
-            "name": "Столовая"
+            "name": "Столовая",
+            "uid": "233125"
         }
     },
     {
@@ -397,8 +397,8 @@
         "properties": {
             "amenity": "fast_food",
             "building": "yes",
-            "id": 5812,
-            "name": "Столовая Флагман"
+            "name": "Столовая Флагман",
+            "uid": "1724658"
         }
     },
     {
@@ -432,8 +432,8 @@
         "properties": {
             "amenity": "fast_food",
             "building": "yes",
-            "id": 5813,
-            "name": "Столовая \"Взморье\""
+            "name": "Столовая \"Взморье\"",
+            "uid": "1724658"
         }
     },
     {
@@ -467,8 +467,8 @@
         "properties": {
             "amenity": "fast_food",
             "building": "yes",
-            "id": 5814,
-            "name": "Santorini"
+            "name": "Santorini",
+            "uid": "955137"
         }
     },
     {
@@ -481,8 +481,8 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5815,
-            "name": "Адриано"
+            "name": "Адриано",
+            "uid": "290680"
         }
     },
     {
@@ -495,8 +495,8 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5816,
-            "name": "Сувлачная"
+            "name": "Сувлачная",
+            "uid": "233125"
         }
     },
     {
@@ -509,8 +509,8 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5817,
-            "name": "Макдоналдс"
+            "name": "Макдоналдс",
+            "uid": "206282"
         }
     },
     {
@@ -523,8 +523,8 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5818,
-            "name": "Burger King"
+            "name": "Burger King",
+            "uid": "519501"
         }
     },
     {
@@ -537,8 +537,8 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5819,
-            "name": "Subway"
+            "name": "Subway",
+            "uid": "127606"
         }
     },
     {
@@ -551,8 +551,8 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5820,
-            "name": "Mealway"
+            "name": "Mealway",
+            "uid": "1737245"
         }
     },
     {
@@ -565,8 +565,8 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5821,
-            "name": "Крошка-картошка"
+            "name": "Крошка-картошка",
+            "uid": "127606"
         }
     },
     {
@@ -579,8 +579,8 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5822,
-            "name": "Ташир пицца"
+            "name": "Ташир пицца",
+            "uid": "127606"
         }
     },
     {
@@ -593,8 +593,8 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5823,
-            "name": "Столовая \"Афина\""
+            "name": "Столовая \"Афина\"",
+            "uid": "1724658"
         }
     },
     {
@@ -607,8 +607,8 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5824,
-            "name": "Столовая \"Утро\""
+            "name": "Столовая \"Утро\"",
+            "uid": "1724658"
         }
     },
     {
@@ -621,8 +621,8 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5825,
-            "name": "Столовая"
+            "name": "Столовая",
+            "uid": "206282"
         }
     },
     {
@@ -635,8 +635,8 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5826,
-            "name": "Энос"
+            "name": "Энос",
+            "uid": "1724658"
         }
     },
     {
@@ -649,8 +649,8 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5827,
-            "name": "KFC"
+            "name": "KFC",
+            "uid": "9451067"
         }
     },
     {
@@ -663,9 +663,9 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5828,
             "internet_access": "wlan",
-            "name": "KFC"
+            "name": "KFC",
+            "uid": "4354789"
         }
     },
     {
@@ -678,8 +678,8 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5829,
-            "name": "Столовая \"Гранат\""
+            "name": "Столовая \"Гранат\"",
+            "uid": "1724658"
         }
     },
     {
@@ -692,8 +692,8 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5830,
-            "name": "Шаурма"
+            "name": "Шаурма",
+            "uid": "5713225"
         }
     },
     {
@@ -706,9 +706,9 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5831,
             "internet_access": "wlan",
-            "name": "Бургер Кинг"
+            "name": "Бургер Кинг",
+            "uid": "87950"
         }
     },
     {
@@ -721,8 +721,8 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5832,
-            "name": "Звездный"
+            "name": "Звездный",
+            "uid": "169413"
         }
     },
     {
@@ -735,8 +735,8 @@
         },
         "properties": {
             "amenity": "fast_food",
-            "id": 5833,
-            "name": "Столовая \"Олимп\""
+            "name": "Столовая \"Олимп\"",
+            "uid": "955137"
         }
     },
     {
@@ -770,8 +770,8 @@
         "properties": {
             "amenity": "dentist",
             "building": "yes",
-            "id": 5834,
-            "name": "Даша"
+            "name": "Даша",
+            "uid": "233125"
         }
     },
     {
@@ -804,8 +804,8 @@
         },
         "properties": {
             "building": "hotel",
-            "id": 5835,
-            "name": "Корпус 2"
+            "name": "Корпус 2",
+            "uid": "152074"
         }
     },
     {
@@ -871,8 +871,8 @@
         "properties": {
             "building": "hotel",
             "building:levels": "6",
-            "id": 5836,
-            "name": "Корпус №3"
+            "name": "Корпус №3",
+            "uid": "152074"
         }
     },
     {
@@ -974,8 +974,8 @@
         "properties": {
             "building": "hotel",
             "building:levels": "8",
-            "id": 5837,
-            "name": "Корпус №4"
+            "name": "Корпус №4",
+            "uid": "152074"
         }
     },
     {
@@ -1009,8 +1009,8 @@
         "properties": {
             "building": "hotel",
             "building:levels": "3",
-            "id": 5838,
-            "name": "Корпус №5"
+            "name": "Корпус №5",
+            "uid": "152074"
         }
     },
     {
@@ -1079,8 +1079,8 @@
         },
         "properties": {
             "building": "hotel",
-            "id": 5839,
-            "name": "Корпус №1"
+            "name": "Корпус №1",
+            "uid": "152074"
         }
     },
     {
@@ -1093,8 +1093,8 @@
         },
         "properties": {
             "amenity": "ice_cream",
-            "id": 5840,
-            "name": "Gelato Anato"
+            "name": "Gelato Anato",
+            "uid": "491706"
         }
     },
     {
@@ -1107,8 +1107,8 @@
         },
         "properties": {
             "amenity": "ice_cream",
-            "id": 5841,
-            "name": "Баскин Роббинс"
+            "name": "Баскин Роббинс",
+            "uid": "4615380"
         }
     },
     {
@@ -1143,7 +1143,7 @@
             "amenity": "car_wash",
             "building": "yes",
             "building:levels": "1",
-            "id": 5842
+            "uid": "143266"
         }
     },
     {
@@ -1156,7 +1156,7 @@
         },
         "properties": {
             "amenity": "car_wash",
-            "id": 5843
+            "uid": "395697"
         }
     },
     {
@@ -1169,7 +1169,7 @@
         },
         "properties": {
             "amenity": "car_wash",
-            "id": 5844
+            "uid": "143266"
         }
     },
     {
@@ -1182,7 +1182,7 @@
         },
         "properties": {
             "amenity": "car_wash",
-            "id": 5845
+            "uid": "127606"
         }
     },
     {
@@ -1195,7 +1195,7 @@
         },
         "properties": {
             "amenity": "car_wash",
-            "id": 5846
+            "uid": "3785043"
         }
     },
     {
@@ -1208,7 +1208,7 @@
         },
         "properties": {
             "amenity": "car_wash",
-            "id": 5847
+            "uid": "127606"
         }
     },
     {
@@ -1221,7 +1221,7 @@
         },
         "properties": {
             "amenity": "car_wash",
-            "id": 5848
+            "uid": "127606"
         }
     },
     {
@@ -1234,7 +1234,7 @@
         },
         "properties": {
             "amenity": "car_wash",
-            "id": 5849
+            "uid": "127606"
         }
     },
     {
@@ -1269,8 +1269,8 @@
             "address": "Сочи, Авиационная улица, 23",
             "building": "industrial",
             "building:levels": "1",
-            "id": 5850,
-            "name": "Бумер. Автосервис"
+            "name": "Бумер. Автосервис",
+            "uid": "10128080"
         }
     },
     {
@@ -1321,8 +1321,8 @@
             "address": "Адлер, улица Ульянова, 47",
             "building": "retail",
             "building:levels": "3",
-            "id": 5851,
-            "name": "\"Магнит\""
+            "name": "\"Магнит\"",
+            "uid": "7613549"
         }
     },
     {
@@ -1440,8 +1440,8 @@
         "properties": {
             "building": "retail",
             "building:levels": "5",
-            "id": 5852,
-            "name": "Поиск"
+            "name": "Поиск",
+            "uid": "152074"
         }
     },
     {
@@ -1480,8 +1480,8 @@
             "address": "Сочи, Новогорная улица, 7А",
             "building": "retail",
             "building:levels": "3",
-            "id": 5853,
-            "name": "Отель Adler Olimpappart 3*"
+            "name": "Отель Adler Olimpappart 3*",
+            "uid": "481934"
         }
     },
     {
@@ -1494,8 +1494,8 @@
         },
         "properties": {
             "amenity": "cinema",
-            "id": 5854,
-            "name": "Кинотеатр \"Комсомолец\""
+            "name": "Кинотеатр \"Комсомолец\"",
+            "uid": "8503005"
         }
     },
     {
@@ -1508,8 +1508,8 @@
         },
         "properties": {
             "amenity": "cinema",
-            "id": 5855,
-            "name": "Кинотеатр \"Октябрь\""
+            "name": "Кинотеатр \"Октябрь\"",
+            "uid": "1724658"
         }
     },
     {
@@ -1522,8 +1522,8 @@
         },
         "properties": {
             "amenity": "cinema",
-            "id": 5856,
-            "name": "City Stars Plaza City"
+            "name": "City Stars Plaza City",
+            "uid": "127606"
         }
     },
     {
@@ -1559,8 +1559,8 @@
             "atm": "yes",
             "building": "yes",
             "building:levels": "1",
-            "id": 5857,
-            "name": "Уралсиб"
+            "name": "Уралсиб",
+            "uid": "233125"
         }
     },
     {
@@ -1596,8 +1596,8 @@
             "atm": "yes",
             "building": "yes",
             "building:levels": "1",
-            "id": 5858,
-            "name": "Кубань-Кредит"
+            "name": "Кубань-Кредит",
+            "uid": "233125"
         }
     },
     {
@@ -1641,9 +1641,9 @@
             "atm": "yes",
             "brand": "ВТБ",
             "building": "yes",
-            "id": 5859,
             "name": "ВТБ",
-            "operator": "Банк ВТБ (публичное акционерное общество)"
+            "operator": "Банк ВТБ (публичное акционерное общество)",
+            "uid": "3580412"
         }
     },
     {
@@ -1657,8 +1657,8 @@
         "properties": {
             "amenity": "bank",
             "atm": "yes",
-            "id": 5860,
-            "name": "Сбербанк"
+            "name": "Сбербанк",
+            "uid": "157864"
         }
     },
     {
@@ -1671,7 +1671,7 @@
         },
         "properties": {
             "amenity": "bank",
-            "id": 5861
+            "uid": "233125"
         }
     },
     {
@@ -1684,9 +1684,9 @@
         },
         "properties": {
             "amenity": "bank",
-            "id": 5862,
             "name": "Сбербанк",
-            "operator": "ОАО \"Сбербанк России\""
+            "operator": "ОАО \"Сбербанк России\"",
+            "uid": "157864"
         }
     },
     {
@@ -1699,8 +1699,8 @@
         },
         "properties": {
             "amenity": "bank",
-            "id": 5863,
-            "name": "Банк Хоум Кредит"
+            "name": "Банк Хоум Кредит",
+            "uid": "127606"
         }
     },
     {
@@ -1714,8 +1714,8 @@
         "properties": {
             "amenity": "bank",
             "atm": "yes",
-            "id": 5864,
-            "name": "Крайинвестбанк"
+            "name": "Крайинвестбанк",
+            "uid": "395697"
         }
     },
     {
@@ -1729,9 +1729,9 @@
         "properties": {
             "amenity": "bank",
             "atm": "yes",
-            "id": 5865,
             "name": "ПАО Сбербанк",
-            "operator": "ПАО Сбербанк"
+            "operator": "ПАО Сбербанк",
+            "uid": "1724658"
         }
     },
     {
@@ -1744,8 +1744,8 @@
         },
         "properties": {
             "amenity": "bank",
-            "id": 5866,
-            "name": "Кубань- Кредит"
+            "name": "Кубань- Кредит",
+            "uid": "3521535"
         }
     },
     {
@@ -1759,9 +1759,9 @@
         "properties": {
             "amenity": "bank",
             "brand": "ВТБ",
-            "id": 5867,
             "name": "ВТБ",
-            "operator": "Банк ВТБ (публичное акционерное общество)"
+            "operator": "Банк ВТБ (публичное акционерное общество)",
+            "uid": "3580412"
         }
     },
     {
@@ -1774,8 +1774,8 @@
         },
         "properties": {
             "amenity": "bank",
-            "id": 5868,
-            "name": "Бинбанк"
+            "name": "Бинбанк",
+            "uid": "1737245"
         }
     },
     {
@@ -1788,7 +1788,7 @@
         },
         "properties": {
             "amenity": "recycling",
-            "id": 5869
+            "uid": "233125"
         }
     },
     {
@@ -1801,7 +1801,7 @@
         },
         "properties": {
             "amenity": "recycling",
-            "id": 5870
+            "uid": "233125"
         }
     },
     {
@@ -1814,7 +1814,7 @@
         },
         "properties": {
             "amenity": "recycling",
-            "id": 5871
+            "uid": "233125"
         }
     },
     {
@@ -1827,7 +1827,7 @@
         },
         "properties": {
             "amenity": "recycling",
-            "id": 5872
+            "uid": "233125"
         }
     },
     {
@@ -1840,7 +1840,7 @@
         },
         "properties": {
             "amenity": "recycling",
-            "id": 5873
+            "uid": "233125"
         }
     },
     {
@@ -1853,7 +1853,7 @@
         },
         "properties": {
             "amenity": "recycling",
-            "id": 5874
+            "uid": "395697"
         }
     },
     {
@@ -1866,8 +1866,8 @@
         },
         "properties": {
             "amenity": "recycling",
-            "id": 5875,
-            "location": "overground"
+            "location": "overground",
+            "uid": "127606"
         }
     },
     {
@@ -1880,7 +1880,7 @@
         },
         "properties": {
             "amenity": "recycling",
-            "id": 5876
+            "uid": "395697"
         }
     },
     {
@@ -1893,9 +1893,9 @@
         },
         "properties": {
             "amenity": "bar",
-            "id": 5877,
             "internet_access": "wlan",
-            "name": "Сувлачная ЭНОС"
+            "name": "Сувлачная ЭНОС",
+            "uid": "4175658"
         }
     },
     {
@@ -1908,9 +1908,9 @@
         },
         "properties": {
             "amenity": "bar",
-            "id": 5878,
             "internet_access": "yes",
-            "name": "Рок-бар Треугольник"
+            "name": "Рок-бар Треугольник",
+            "uid": "491706"
         }
     },
     {
@@ -1923,8 +1923,8 @@
         },
         "properties": {
             "amenity": "bar",
-            "id": 5879,
-            "name": "Багратион"
+            "name": "Багратион",
+            "uid": "127606"
         }
     },
     {
@@ -1937,8 +1937,8 @@
         },
         "properties": {
             "amenity": "bar",
-            "id": 5880,
-            "name": "Корсар"
+            "name": "Корсар",
+            "uid": "491706"
         }
     },
     {
@@ -1951,7 +1951,7 @@
         },
         "properties": {
             "amenity": "bar",
-            "id": 5881
+            "uid": "6567499"
         }
     },
     {
@@ -1964,8 +1964,8 @@
         },
         "properties": {
             "amenity": "bar",
-            "id": 5882,
-            "name": "Ла Барка"
+            "name": "Ла Барка",
+            "uid": "4341457"
         }
     },
     {
@@ -1978,8 +1978,8 @@
         },
         "properties": {
             "amenity": "bar",
-            "id": 5883,
-            "name": "Бамбу лаундж"
+            "name": "Бамбу лаундж",
+            "uid": "10088375"
         }
     },
     {
@@ -2093,8 +2093,8 @@
         "properties": {
             "amenity": "restaurant",
             "building": "yes",
-            "id": 5884,
-            "name": "Замок"
+            "name": "Замок",
+            "uid": "133332"
         }
     },
     {
@@ -2129,8 +2129,8 @@
             "amenity": "restaurant",
             "building": "yes",
             "building:levels": "3",
-            "id": 5885,
-            "name": "Рис"
+            "name": "Рис",
+            "uid": "27371"
         }
     },
     {
@@ -2143,8 +2143,8 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5886,
-            "name": "Adriano"
+            "name": "Adriano",
+            "uid": "233125"
         }
     },
     {
@@ -2157,8 +2157,8 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5887,
-            "name": "Бар \"Диско\""
+            "name": "Бар \"Диско\"",
+            "uid": "1724658"
         }
     },
     {
@@ -2171,8 +2171,8 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5888,
-            "name": "Бар Садко"
+            "name": "Бар Садко",
+            "uid": "1308821"
         }
     },
     {
@@ -2185,8 +2185,8 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5889,
-            "name": "Nippon House"
+            "name": "Nippon House",
+            "uid": "233125"
         }
     },
     {
@@ -2199,8 +2199,8 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5890,
-            "name": "Santa"
+            "name": "Santa",
+            "uid": "233125"
         }
     },
     {
@@ -2213,8 +2213,8 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5891,
-            "name": "Баязет"
+            "name": "Баязет",
+            "uid": "233125"
         }
     },
     {
@@ -2227,8 +2227,8 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5892,
-            "name": "Столовая \"Охотник\""
+            "name": "Столовая \"Охотник\"",
+            "uid": "1724658"
         }
     },
     {
@@ -2241,8 +2241,8 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5893,
-            "name": "Суши Плаза"
+            "name": "Суши Плаза",
+            "uid": "127606"
         }
     },
     {
@@ -2255,8 +2255,8 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5894,
-            "name": "Пивной дворик"
+            "name": "Пивной дворик",
+            "uid": "1724658"
         }
     },
     {
@@ -2269,7 +2269,7 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5895
+            "uid": "9981470"
         }
     },
     {
@@ -2282,9 +2282,9 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5896,
             "internet_access": "wlan",
-            "name": "Ассорти"
+            "name": "Ассорти",
+            "uid": "3938339"
         }
     },
     {
@@ -2297,8 +2297,8 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5897,
-            "name": "Мята"
+            "name": "Мята",
+            "uid": "1737245"
         }
     },
     {
@@ -2311,8 +2311,8 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5898,
-            "name": "Шафран Гурман"
+            "name": "Шафран Гурман",
+            "uid": "491706"
         }
     },
     {
@@ -2325,9 +2325,9 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5899,
             "internet_access": "wlan",
-            "name": "Паста-бар \"Пармезан\""
+            "name": "Паста-бар \"Пармезан\"",
+            "uid": "3795911"
         }
     },
     {
@@ -2340,9 +2340,9 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5900,
             "internet_access": "wlan",
-            "name": "Босфор"
+            "name": "Босфор",
+            "uid": "491706"
         }
     },
     {
@@ -2355,8 +2355,8 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5901,
-            "name": "Армянский двор"
+            "name": "Армянский двор",
+            "uid": "127606"
         }
     },
     {
@@ -2369,9 +2369,9 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5902,
             "internet_access": "wlan",
-            "name": "Библиотека"
+            "name": "Библиотека",
+            "uid": "491706"
         }
     },
     {
@@ -2384,8 +2384,8 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5903,
-            "name": "Pizza"
+            "name": "Pizza",
+            "uid": "4615380"
         }
     },
     {
@@ -2398,8 +2398,8 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5904,
-            "name": "Чайхана Пахлава"
+            "name": "Чайхана Пахлава",
+            "uid": "4615380"
         }
     },
     {
@@ -2412,8 +2412,8 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5905,
-            "name": "Стари Град"
+            "name": "Стари Град",
+            "uid": "4615380"
         }
     },
     {
@@ -2427,8 +2427,8 @@
         "properties": {
             "address": "Сочи, переулок Бестужева, 7/1а",
             "amenity": "restaurant",
-            "id": 5906,
-            "name": "Mimoza"
+            "name": "Mimoza",
+            "uid": "10007272"
         }
     },
     {
@@ -2441,8 +2441,8 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5907,
-            "name": "Batono"
+            "name": "Batono",
+            "uid": "7624024"
         }
     },
     {
@@ -2455,9 +2455,9 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5908,
             "internet_access": "wlan",
-            "name": "Mamino"
+            "name": "Mamino",
+            "uid": "7624024"
         }
     },
     {
@@ -2470,9 +2470,9 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5909,
             "internet_access": "wlan",
-            "name": "Хмели сунели"
+            "name": "Хмели сунели",
+            "uid": "7624024"
         }
     },
     {
@@ -2485,8 +2485,8 @@
         },
         "properties": {
             "amenity": "restaurant",
-            "id": 5910,
-            "name": "Сарган"
+            "name": "Сарган",
+            "uid": "10088375"
         }
     },
     {
@@ -2557,8 +2557,8 @@
             "amenity": "cafe",
             "building": "yes",
             "building:levels": "6",
-            "id": 5911,
-            "name": "Атлант"
+            "name": "Атлант",
+            "uid": "233125"
         }
     },
     {
@@ -2601,7 +2601,7 @@
             "amenity": "cafe",
             "building": "yes",
             "building:levels": "1",
-            "id": 5912
+            "uid": "233125"
         }
     },
     {
@@ -2635,8 +2635,8 @@
         "properties": {
             "amenity": "cafe",
             "building": "yes",
-            "id": 5913,
-            "name": "Радость"
+            "name": "Радость",
+            "uid": "1724658"
         }
     },
     {
@@ -2682,8 +2682,8 @@
         "properties": {
             "amenity": "cafe",
             "building": "yes",
-            "id": 5914,
-            "name": "Банратион"
+            "name": "Банратион",
+            "uid": "1724658"
         }
     },
     {
@@ -2745,8 +2745,8 @@
         "properties": {
             "amenity": "cafe",
             "building": "yes",
-            "id": 5915,
-            "name": "Скиф"
+            "name": "Скиф",
+            "uid": "1724658"
         }
     },
     {
@@ -2784,8 +2784,8 @@
         "properties": {
             "amenity": "cafe",
             "building": "yes",
-            "id": 5916,
-            "name": "Алексис"
+            "name": "Алексис",
+            "uid": "233125"
         }
     },
     {
@@ -2828,8 +2828,8 @@
             "amenity": "cafe",
             "building": "yes",
             "building:levels": "1",
-            "id": 5917,
-            "name": "Кулинария"
+            "name": "Кулинария",
+            "uid": "1357136"
         }
     },
     {
@@ -2871,9 +2871,9 @@
         "properties": {
             "amenity": "cafe",
             "building": "yes",
-            "id": 5918,
             "internet_access": "wlan",
-            "name": "Столовая"
+            "name": "Столовая",
+            "uid": "3878664"
         }
     },
     {
@@ -2907,8 +2907,8 @@
         "properties": {
             "amenity": "cafe",
             "building": "yes",
-            "id": 5919,
-            "name": "Разгуляй"
+            "name": "Разгуляй",
+            "uid": "206282"
         }
     },
     {
@@ -2958,7 +2958,7 @@
         "properties": {
             "amenity": "cafe",
             "building": "yes",
-            "id": 5920
+            "uid": "2356855"
         }
     },
     {
@@ -2971,8 +2971,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5921,
-            "name": "Lariot"
+            "name": "Lariot",
+            "uid": "491706"
         }
     },
     {
@@ -2985,8 +2985,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5922,
-            "name": "Рубин"
+            "name": "Рубин",
+            "uid": "233125"
         }
     },
     {
@@ -2999,7 +2999,7 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5923
+            "uid": "233125"
         }
     },
     {
@@ -3012,8 +3012,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5924,
-            "name": "фрегат"
+            "name": "фрегат",
+            "uid": "206282"
         }
     },
     {
@@ -3026,8 +3026,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5925,
-            "name": "Шато"
+            "name": "Шато",
+            "uid": "233125"
         }
     },
     {
@@ -3040,8 +3040,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5926,
-            "name": "Ла-феста"
+            "name": "Ла-феста",
+            "uid": "233125"
         }
     },
     {
@@ -3054,8 +3054,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5927,
-            "name": "Авлабар"
+            "name": "Авлабар",
+            "uid": "233125"
         }
     },
     {
@@ -3068,9 +3068,9 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5928,
             "internet_access": "wlan",
-            "name": "Home Burger"
+            "name": "Home Burger",
+            "uid": "491706"
         }
     },
     {
@@ -3083,8 +3083,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5929,
-            "name": "Олимп еда"
+            "name": "Олимп еда",
+            "uid": "143266"
         }
     },
     {
@@ -3097,8 +3097,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5930,
-            "name": "Кавказ"
+            "name": "Кавказ",
+            "uid": "143266"
         }
     },
     {
@@ -3111,8 +3111,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5931,
-            "name": "Удача"
+            "name": "Удача",
+            "uid": "491706"
         }
     },
     {
@@ -3125,8 +3125,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5932,
-            "name": "Кофейня \"Kofein\""
+            "name": "Кофейня \"Kofein\"",
+            "uid": "491706"
         }
     },
     {
@@ -3139,8 +3139,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5933,
-            "name": "Трокадеро"
+            "name": "Трокадеро",
+            "uid": "127606"
         }
     },
     {
@@ -3153,8 +3153,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5934,
-            "name": "Маяк"
+            "name": "Маяк",
+            "uid": "491706"
         }
     },
     {
@@ -3167,8 +3167,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5935,
-            "name": "Vintage"
+            "name": "Vintage",
+            "uid": "127606"
         }
     },
     {
@@ -3181,8 +3181,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5936,
-            "name": "Избушка"
+            "name": "Избушка",
+            "uid": "2663253"
         }
     },
     {
@@ -3195,8 +3195,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5937,
-            "name": "Охотник"
+            "name": "Охотник",
+            "uid": "491706"
         }
     },
     {
@@ -3209,8 +3209,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5938,
-            "name": "Шоколадница"
+            "name": "Шоколадница",
+            "uid": "9451067"
         }
     },
     {
@@ -3223,8 +3223,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5939,
-            "name": "Столовая \"Вкусный Уголок\""
+            "name": "Столовая \"Вкусный Уголок\"",
+            "uid": "1724658"
         }
     },
     {
@@ -3237,8 +3237,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5940,
-            "name": "Орхидея"
+            "name": "Орхидея",
+            "uid": "206282"
         }
     },
     {
@@ -3251,8 +3251,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5941,
-            "name": "Сушивесла"
+            "name": "Сушивесла",
+            "uid": "206282"
         }
     },
     {
@@ -3265,8 +3265,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5942,
-            "name": "Ника"
+            "name": "Ника",
+            "uid": "206282"
         }
     },
     {
@@ -3280,9 +3280,9 @@
         "properties": {
             "address": "Адлер, улица Кирова, 58",
             "amenity": "cafe",
-            "id": 5943,
             "internet_access": "yes",
-            "name": "Сармат cafe"
+            "name": "Сармат cafe",
+            "uid": "520239"
         }
     },
     {
@@ -3295,8 +3295,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5944,
-            "name": "Сувлачная"
+            "name": "Сувлачная",
+            "uid": "1724658"
         }
     },
     {
@@ -3309,8 +3309,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5945,
-            "name": "Рис"
+            "name": "Рис",
+            "uid": "2261094"
         }
     },
     {
@@ -3323,8 +3323,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5946,
-            "name": "Столовая \"Имеретинский\""
+            "name": "Столовая \"Имеретинский\"",
+            "uid": "1724658"
         }
     },
     {
@@ -3337,8 +3337,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5947,
-            "name": "Кофейник"
+            "name": "Кофейник",
+            "uid": "4279204"
         }
     },
     {
@@ -3351,9 +3351,9 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5948,
             "internet_access": "wlan",
-            "name": "хинкальная"
+            "name": "хинкальная",
+            "uid": "519501"
         }
     },
     {
@@ -3366,8 +3366,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5949,
-            "name": "Приморское"
+            "name": "Приморское",
+            "uid": "4354789"
         }
     },
     {
@@ -3380,8 +3380,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5950,
-            "name": "Сытый гусь"
+            "name": "Сытый гусь",
+            "uid": "154487"
         }
     },
     {
@@ -3394,8 +3394,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5951,
-            "name": "Понтос"
+            "name": "Понтос",
+            "uid": "4354789"
         }
     },
     {
@@ -3408,9 +3408,9 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5952,
             "internet_access": "wlan",
-            "name": "BARABAS Espresso Bar"
+            "name": "BARABAS Espresso Bar",
+            "uid": "133332"
         }
     },
     {
@@ -3423,9 +3423,9 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5953,
             "internet_access": "wlan",
-            "name": "Буратинос"
+            "name": "Буратинос",
+            "uid": "491706"
         }
     },
     {
@@ -3438,9 +3438,9 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5954,
             "internet_access": "no",
-            "name": "Булки на море"
+            "name": "Булки на море",
+            "uid": "1724658"
         }
     },
     {
@@ -3453,8 +3453,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5955,
-            "name": "Пхали Хинкали"
+            "name": "Пхали Хинкали",
+            "uid": "491706"
         }
     },
     {
@@ -3467,8 +3467,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5956,
-            "name": "Сливки"
+            "name": "Сливки",
+            "uid": "491706"
         }
     },
     {
@@ -3481,8 +3481,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5957,
-            "name": "Баскин Роббинс"
+            "name": "Баскин Роббинс",
+            "uid": "1724658"
         }
     },
     {
@@ -3495,8 +3495,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5958,
-            "name": "Сакура"
+            "name": "Сакура",
+            "uid": "127606"
         }
     },
     {
@@ -3509,8 +3509,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5959,
-            "name": "Поль Бейкери"
+            "name": "Поль Бейкери",
+            "uid": "491706"
         }
     },
     {
@@ -3523,8 +3523,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5960,
-            "name": "Суши шоп"
+            "name": "Суши шоп",
+            "uid": "9451067"
         }
     },
     {
@@ -3537,8 +3537,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5961,
-            "name": "Traveler's Coffee"
+            "name": "Traveler's Coffee",
+            "uid": "491706"
         }
     },
     {
@@ -3551,8 +3551,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5962,
-            "name": "Буревестник"
+            "name": "Буревестник",
+            "uid": "4272444"
         }
     },
     {
@@ -3565,8 +3565,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5963,
-            "name": "Причал"
+            "name": "Причал",
+            "uid": "4272444"
         }
     },
     {
@@ -3579,9 +3579,9 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5964,
             "internet_access": "yes",
-            "name": "Капри"
+            "name": "Капри",
+            "uid": "481934"
         }
     },
     {
@@ -3594,8 +3594,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5965,
-            "name": "Крит"
+            "name": "Крит",
+            "uid": "481934"
         }
     },
     {
@@ -3608,8 +3608,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5966,
-            "name": "Далмация"
+            "name": "Далмация",
+            "uid": "491706"
         }
     },
     {
@@ -3622,9 +3622,9 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5967,
             "name": "Вина Кубани",
-            "operator": "Артак"
+            "operator": "Артак",
+            "uid": "6210701"
         }
     },
     {
@@ -3637,8 +3637,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5968,
-            "name": "Столовая \"Южная\""
+            "name": "Столовая \"Южная\"",
+            "uid": "1724658"
         }
     },
     {
@@ -3651,8 +3651,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5969,
-            "name": "Шашлычная"
+            "name": "Шашлычная",
+            "uid": "1737245"
         }
     },
     {
@@ -3665,7 +3665,7 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5970
+            "uid": "2522164"
         }
     },
     {
@@ -3678,8 +3678,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5971,
-            "name": "Кофейня \"Аромат+\""
+            "name": "Кофейня \"Аромат+\"",
+            "uid": "4615380"
         }
     },
     {
@@ -3692,8 +3692,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5972,
-            "name": "Хурма. Вкусное место"
+            "name": "Хурма. Вкусное место",
+            "uid": "4406079"
         }
     },
     {
@@ -3706,8 +3706,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5973,
-            "name": "Сицилия"
+            "name": "Сицилия",
+            "uid": "4406079"
         }
     },
     {
@@ -3720,8 +3720,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5974,
-            "name": "Улыбка"
+            "name": "Улыбка",
+            "uid": "491706"
         }
     },
     {
@@ -3734,8 +3734,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5975,
-            "name": "Встреча"
+            "name": "Встреча",
+            "uid": "491706"
         }
     },
     {
@@ -3748,9 +3748,9 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5976,
             "internet_access": "wlan",
-            "name": "Lunch organic cafe"
+            "name": "Lunch organic cafe",
+            "uid": "7725768"
         }
     },
     {
@@ -3763,8 +3763,8 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5977,
-            "name": "Пивной дом \"Фрау Марта\""
+            "name": "Пивной дом \"Фрау Марта\"",
+            "uid": "2356855"
         }
     },
     {
@@ -3777,10 +3777,10 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5978,
             "internet_access": "wlan",
             "name": "Lunch organic cafe",
-            "operator": "Kashintsev family group"
+            "operator": "Kashintsev family group",
+            "uid": "7725768"
         }
     },
     {
@@ -3794,8 +3794,8 @@
         "properties": {
             "address": "Сочи, улица Бестужева, 1/1",
             "amenity": "cafe",
-            "id": 5979,
-            "name": "Moncasa gourmet"
+            "name": "Moncasa gourmet",
+            "uid": "491706"
         }
     },
     {
@@ -3808,9 +3808,9 @@
         },
         "properties": {
             "amenity": "cafe",
-            "id": 5980,
             "internet_access": "wlan",
-            "name": "Surf Coffee x Wave"
+            "name": "Surf Coffee x Wave",
+            "uid": "9967201"
         }
     }
 ]

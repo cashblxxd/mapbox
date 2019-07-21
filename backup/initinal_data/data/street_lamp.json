@@ -9,7 +9,7 @@
         },
         "properties": {
             "highway": "street_lamp",
-            "id": 5080
+            "uid": "127606"
         }
     },
     {
@@ -22,7 +22,7 @@
         },
         "properties": {
             "highway": "street_lamp",
-            "id": 5081
+            "uid": "127606"
         }
     }
 ]

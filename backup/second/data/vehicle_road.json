@@ -8,8 +8,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "turning_circle",
-            "id": 6101
+            "highway": "turning_circle"
         }
     },
     {
@@ -21,8 +20,7 @@
             "type": "Point"
         },
         "properties": {
-            "highway": "turning_circle",
-            "id": 6102
+            "highway": "turning_circle"
         }
     },
     {
@@ -61,7 +59,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6103,
             "name": "улица Ромашек"
         }
     },
@@ -137,7 +134,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6104,
             "name": "улица Молокова"
         }
     },
@@ -185,7 +181,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6105,
             "name": "улица Кирова"
         }
     },
@@ -217,7 +212,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6106,
             "name": "улица Фридриха Энгельса"
         }
     },
@@ -253,7 +247,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6107,
             "name": "Демократическая улица"
         }
     },
@@ -277,7 +270,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6108,
             "name": "улица Ленина"
         }
     },
@@ -324,8 +316,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "tertiary",
-            "id": 6109
+            "highway": "tertiary"
         }
     },
     {
@@ -356,7 +347,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6110,
             "name": "Суздальская улица"
         }
     },
@@ -428,7 +418,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6111,
             "name": "улица Тюльпанов"
         }
     },
@@ -508,7 +497,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6112,
             "name": "Голубая улица"
         }
     },
@@ -588,7 +576,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6113,
             "name": "улица Молокова"
         }
     },
@@ -652,7 +639,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6114,
             "name": "Цветочная улица"
         }
     },
@@ -684,7 +670,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6115,
             "name": "улица Кирова"
         }
     },
@@ -715,8 +700,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "tertiary",
-            "id": 6116
+            "highway": "tertiary"
         }
     },
     {
@@ -736,7 +720,6 @@
         "properties": {
             "bridge": "yes",
             "highway": "tertiary",
-            "id": 6117,
             "name": "Голубая улица"
         }
     },
@@ -768,7 +751,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6118,
             "name": "улица Станиславского"
         }
     },
@@ -916,7 +898,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6119,
             "name": "Суздальская улица"
         }
     },
@@ -935,8 +916,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "tertiary",
-            "id": 6120
+            "highway": "tertiary"
         }
     },
     {
@@ -991,7 +971,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6121,
             "name": "Олимпийский проспект"
         }
     },
@@ -1022,8 +1001,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "tertiary",
-            "id": 6122
+            "highway": "tertiary"
         }
     },
     {
@@ -1049,8 +1027,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "tertiary",
-            "id": 6123
+            "highway": "tertiary"
         }
     },
     {
@@ -1072,8 +1049,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "tertiary",
-            "id": 6124
+            "highway": "tertiary"
         }
     },
     {
@@ -1116,7 +1092,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6125,
             "name": "Перспективная улица"
         }
     },
@@ -1143,8 +1118,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "tertiary",
-            "id": 6126
+            "highway": "tertiary"
         }
     },
     {
@@ -1179,7 +1153,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6127,
             "name": "Цветочная улица"
         }
     },
@@ -1214,8 +1187,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "tertiary",
-            "id": 6128
+            "highway": "tertiary"
         }
     },
     {
@@ -1290,7 +1262,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6129,
             "name": "Олимпийский проспект"
         }
     },
@@ -1321,8 +1292,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "tertiary",
-            "id": 6130
+            "highway": "tertiary"
         }
     },
     {
@@ -1349,7 +1319,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6131,
             "name": "улица Тюльпанов"
         }
     },
@@ -1373,7 +1342,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6132,
             "name": "улица Станиславского"
         }
     },
@@ -1633,7 +1601,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6133,
             "name": "Олимпийский проспект"
         }
     },
@@ -1805,7 +1772,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6134,
             "name": "улица Тюльпанов"
         }
     },
@@ -1832,8 +1798,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "tertiary",
-            "id": 6135
+            "highway": "tertiary"
         }
     },
     {
@@ -1888,7 +1853,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6136,
             "name": "Олимпийский проспект"
         }
     },
@@ -1911,8 +1875,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "tertiary",
-            "id": 6137
+            "highway": "tertiary"
         }
     },
     {
@@ -1934,8 +1897,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "tertiary",
-            "id": 6138
+            "highway": "tertiary"
         }
     },
     {
@@ -1970,7 +1932,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6139,
             "name": "Перспективная улица"
         }
     },
@@ -1990,7 +1951,6 @@
         },
         "properties": {
             "highway": "tertiary",
-            "id": 6140,
             "name": "Перспективная улица"
         }
     },
@@ -2062,7 +2022,6 @@
         },
         "properties": {
             "highway": "secondary_link",
-            "id": 6141,
             "name": "Авиационная улица"
         }
     },
@@ -2101,8 +2060,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6142
+            "highway": "secondary_link"
         }
     },
     {
@@ -2184,8 +2142,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6143
+            "highway": "secondary_link"
         }
     },
     {
@@ -2219,8 +2176,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6144
+            "highway": "secondary_link"
         }
     },
     {
@@ -2258,8 +2214,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6145
+            "highway": "secondary_link"
         }
     },
     {
@@ -2313,8 +2268,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6146
+            "highway": "secondary_link"
         }
     },
     {
@@ -2364,8 +2318,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6147
+            "highway": "secondary_link"
         }
     },
     {
@@ -2411,8 +2364,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6148
+            "highway": "secondary_link"
         }
     },
     {
@@ -2446,8 +2398,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6149
+            "highway": "secondary_link"
         }
     },
     {
@@ -2477,8 +2428,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6150
+            "highway": "secondary_link"
         }
     },
     {
@@ -2544,8 +2494,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6151
+            "highway": "secondary_link"
         }
     },
     {
@@ -2591,8 +2540,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6152
+            "highway": "secondary_link"
         }
     },
     {
@@ -2674,8 +2622,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6153
+            "highway": "secondary_link"
         }
     },
     {
@@ -2697,8 +2644,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6154
+            "highway": "secondary_link"
         }
     },
     {
@@ -2716,8 +2662,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6155
+            "highway": "secondary_link"
         }
     },
     {
@@ -2739,8 +2684,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6156
+            "highway": "secondary_link"
         }
     },
     {
@@ -2782,8 +2726,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6157
+            "highway": "secondary_link"
         }
     },
     {
@@ -2822,8 +2765,7 @@
         },
         "properties": {
             "bridge": "yes",
-            "highway": "secondary_link",
-            "id": 6158
+            "highway": "secondary_link"
         }
     },
     {
@@ -2865,8 +2807,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6159
+            "highway": "secondary_link"
         }
     },
     {
@@ -2925,8 +2866,7 @@
         },
         "properties": {
             "bridge": "yes",
-            "highway": "secondary_link",
-            "id": 6160
+            "highway": "secondary_link"
         }
     },
     {
@@ -2996,8 +2936,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6161
+            "highway": "secondary_link"
         }
     },
     {
@@ -3036,7 +2975,6 @@
         },
         "properties": {
             "highway": "secondary_link",
-            "id": 6162,
             "name": "улица Ленина"
         }
     },
@@ -3063,8 +3001,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6163
+            "highway": "secondary_link"
         }
     },
     {
@@ -3106,8 +3043,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6164
+            "highway": "secondary_link"
         }
     },
     {
@@ -3149,8 +3085,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6165
+            "highway": "secondary_link"
         }
     },
     {
@@ -3216,8 +3151,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6166
+            "highway": "secondary_link"
         }
     },
     {
@@ -3240,8 +3174,7 @@
         },
         "properties": {
             "bridge": "yes",
-            "highway": "secondary_link",
-            "id": 6167
+            "highway": "secondary_link"
         }
     },
     {
@@ -3264,8 +3197,7 @@
         },
         "properties": {
             "bridge": "yes",
-            "highway": "secondary_link",
-            "id": 6168
+            "highway": "secondary_link"
         }
     },
     {
@@ -3307,8 +3239,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6169
+            "highway": "secondary_link"
         }
     },
     {
@@ -3350,8 +3281,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6170
+            "highway": "secondary_link"
         }
     },
     {
@@ -3370,8 +3300,7 @@
         },
         "properties": {
             "bridge": "yes",
-            "highway": "secondary_link",
-            "id": 6171
+            "highway": "secondary_link"
         }
     },
     {
@@ -3409,8 +3338,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6172
+            "highway": "secondary_link"
         }
     },
     {
@@ -3432,8 +3360,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6173
+            "highway": "secondary_link"
         }
     },
     {
@@ -3451,8 +3378,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6174
+            "highway": "secondary_link"
         }
     },
     {
@@ -3483,7 +3409,6 @@
         },
         "properties": {
             "highway": "secondary_link",
-            "id": 6175,
             "name": "улица Тюльпанов"
         }
     },
@@ -3526,8 +3451,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6176
+            "highway": "secondary_link"
         }
     },
     {
@@ -3565,8 +3489,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6177
+            "highway": "secondary_link"
         }
     },
     {
@@ -3656,8 +3579,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6178
+            "highway": "secondary_link"
         }
     },
     {
@@ -3683,8 +3605,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6179
+            "highway": "secondary_link"
         }
     },
     {
@@ -3726,8 +3647,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6180
+            "highway": "secondary_link"
         }
     },
     {
@@ -3766,7 +3686,6 @@
         },
         "properties": {
             "highway": "secondary_link",
-            "id": 6181,
             "name": "улица Ленина"
         }
     },
@@ -3809,8 +3728,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6182
+            "highway": "secondary_link"
         }
     },
     {
@@ -3880,8 +3798,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary_link",
-            "id": 6183
+            "highway": "secondary_link"
         }
     },
     {
@@ -3915,8 +3832,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "tertiary_link",
-            "id": 6184
+            "highway": "tertiary_link"
         }
     },
     {
@@ -3934,8 +3850,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "tertiary_link",
-            "id": 6185
+            "highway": "tertiary_link"
         }
     },
     {
@@ -3981,8 +3896,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "tertiary_link",
-            "id": 6186
+            "highway": "tertiary_link"
         }
     },
     {
@@ -4601,7 +4515,6 @@
         },
         "properties": {
             "highway": "raceway",
-            "id": 6187,
             "name": "Сочи Автодром",
             "operator": "ОАО «Центр «Омега»"
         }
@@ -4622,7 +4535,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6188,
             "name": "улица Ленина"
         }
     },
@@ -4646,7 +4558,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6189,
             "name": "улица Ленина"
         }
     },
@@ -4686,7 +4597,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6190,
             "name": "улица Кирова"
         }
     },
@@ -4738,7 +4648,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6191,
             "name": "улица Ленина"
         }
     },
@@ -4762,7 +4671,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6192,
             "name": "улица Ленина"
         }
     },
@@ -4786,7 +4694,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6193,
             "name": "улица Ленина"
         }
     },
@@ -4810,7 +4717,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6194,
             "name": "улица Ленина"
         }
     },
@@ -4841,8 +4747,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary",
-            "id": 6195
+            "highway": "secondary"
         }
     },
     {
@@ -4889,8 +4794,7 @@
         },
         "properties": {
             "bridge": "yes",
-            "highway": "secondary",
-            "id": 6196
+            "highway": "secondary"
         }
     },
     {
@@ -4917,7 +4821,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6197,
             "name": "улица Ленина"
         }
     },
@@ -4980,8 +4883,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary",
-            "id": 6198
+            "highway": "secondary"
         }
     },
     {
@@ -5032,7 +4934,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6199,
             "name": "улица Ленина"
         }
     },
@@ -5053,7 +4954,6 @@
         "properties": {
             "bridge": "yes",
             "highway": "secondary",
-            "id": 6200,
             "name": "улица Ленина"
         }
     },
@@ -5085,7 +4985,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6201,
             "name": "улица Ленина"
         }
     },
@@ -5140,8 +5039,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary",
-            "id": 6202
+            "highway": "secondary"
         }
     },
     {
@@ -5176,7 +5074,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6203,
             "name": "улица Ленина"
         }
     },
@@ -5224,7 +5121,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6204,
             "name": "улица Ленина"
         }
     },
@@ -5291,8 +5187,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary",
-            "id": 6205
+            "highway": "secondary"
         }
     },
     {
@@ -5343,7 +5238,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6206,
             "name": "улица Ленина"
         }
     },
@@ -5406,8 +5300,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary",
-            "id": 6207
+            "highway": "secondary"
         }
     },
     {
@@ -5505,8 +5398,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary",
-            "id": 6208
+            "highway": "secondary"
         }
     },
     {
@@ -5548,8 +5440,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary",
-            "id": 6209
+            "highway": "secondary"
         }
     },
     {
@@ -5572,7 +5463,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6210,
             "name": "улица Ленина"
         }
     },
@@ -5607,8 +5497,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary",
-            "id": 6211
+            "highway": "secondary"
         }
     },
     {
@@ -5626,8 +5515,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary",
-            "id": 6212
+            "highway": "secondary"
         }
     },
     {
@@ -5654,7 +5542,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6213,
             "name": "улица Ленина"
         }
     },
@@ -5698,7 +5585,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6214,
             "name": "улица Ленина"
         }
     },
@@ -5850,7 +5736,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6215,
             "name": "Триумфальная улица"
         }
     },
@@ -5974,7 +5859,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6216,
             "name": "Триумфальная улица"
         }
     },
@@ -6038,7 +5922,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6217,
             "name": "улица Энергетиков"
         }
     },
@@ -6058,7 +5941,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6218,
             "name": "улица Ленина"
         }
     },
@@ -6079,7 +5961,6 @@
         "properties": {
             "bridge": "yes",
             "highway": "secondary",
-            "id": 6219,
             "name": "улица Ленина"
         }
     },
@@ -6099,7 +5980,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6220,
             "name": "улица Ленина"
         }
     },
@@ -6131,7 +6011,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6221,
             "name": "улица Ленина"
         }
     },
@@ -6155,7 +6034,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6222,
             "name": "улица Ленина"
         }
     },
@@ -6175,7 +6053,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6223,
             "name": "улица Ленина"
         }
     },
@@ -6202,8 +6079,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary",
-            "id": 6224
+            "highway": "secondary"
         }
     },
     {
@@ -6246,7 +6122,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6225,
             "name": "улица Энергетиков"
         }
     },
@@ -6286,7 +6161,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6226,
             "name": "улица Энергетиков"
         }
     },
@@ -6342,7 +6216,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6227,
             "name": "улица Энергетиков"
         }
     },
@@ -6365,8 +6238,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary",
-            "id": 6228
+            "highway": "secondary"
         }
     },
     {
@@ -6389,7 +6261,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6229,
             "name": "Триумфальная улица"
         }
     },
@@ -6421,7 +6292,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6230,
             "name": "Триумфальная улица"
         }
     },
@@ -6457,7 +6327,6 @@
         },
         "properties": {
             "highway": "secondary",
-            "id": 6231,
             "name": "улица Ленина"
         }
     },
@@ -6504,8 +6373,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary",
-            "id": 6232
+            "highway": "secondary"
         }
     },
     {
@@ -6527,8 +6395,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary",
-            "id": 6233
+            "highway": "secondary"
         }
     },
     {
@@ -6578,8 +6445,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary",
-            "id": 6234
+            "highway": "secondary"
         }
     },
     {
@@ -6613,8 +6479,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "secondary",
-            "id": 6235
+            "highway": "secondary"
         }
     },
     {
@@ -6648,8 +6513,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "primary_link",
-            "id": 6236
+            "highway": "primary_link"
         }
     },
     {
@@ -6683,8 +6547,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "primary_link",
-            "id": 6237
+            "highway": "primary_link"
         }
     },
     {
@@ -6730,8 +6593,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "primary_link",
-            "id": 6238
+            "highway": "primary_link"
         }
     },
     {
@@ -6777,8 +6639,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "primary_link",
-            "id": 6239
+            "highway": "primary_link"
         }
     },
     {
@@ -6816,8 +6677,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "primary_link",
-            "id": 6240
+            "highway": "primary_link"
         }
     },
     {
@@ -6875,8 +6735,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "primary_link",
-            "id": 6241
+            "highway": "primary_link"
         }
     },
     {
@@ -6903,8 +6762,7 @@
         },
         "properties": {
             "bridge": "yes",
-            "highway": "primary_link",
-            "id": 6242
+            "highway": "primary_link"
         }
     },
     {
@@ -6950,8 +6808,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "primary_link",
-            "id": 6243
+            "highway": "primary_link"
         }
     },
     {
@@ -6973,8 +6830,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "primary_link",
-            "id": 6244
+            "highway": "primary_link"
         }
     },
     {
@@ -6996,8 +6852,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "primary_link",
-            "id": 6245
+            "highway": "primary_link"
         }
     },
     {
@@ -7039,8 +6894,7 @@
             "type": "LineString"
         },
         "properties": {
-            "highway": "primary_link",
-            "id": 6246
+            "highway": "primary_link"
         }
     }
 ]

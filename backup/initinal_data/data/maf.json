@@ -9,7 +9,7 @@
         },
         "properties": {
             "amenity": "bicycle_parking",
-            "id": 6284
+            "uid": "830106"
         }
     },
     {
@@ -22,7 +22,7 @@
         },
         "properties": {
             "amenity": "bicycle_parking",
-            "id": 6285
+            "uid": "1737245"
         }
     },
     {
@@ -35,7 +35,7 @@
         },
         "properties": {
             "amenity": "bicycle_parking",
-            "id": 6286
+            "uid": "2758266"
         }
     },
     {
@@ -48,7 +48,7 @@
         },
         "properties": {
             "amenity": "post_box",
-            "id": 6287
+            "uid": "143266"
         }
     },
     {
@@ -61,7 +61,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6288
+            "uid": "1737245"
         }
     },
     {
@@ -74,7 +74,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6289
+            "uid": "1737245"
         }
     },
     {
@@ -87,7 +87,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6290
+            "uid": "1737245"
         }
     },
     {
@@ -100,7 +100,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6291
+            "uid": "1737245"
         }
     },
     {
@@ -113,7 +113,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6292
+            "uid": "1737245"
         }
     },
     {
@@ -126,7 +126,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6293
+            "uid": "1737245"
         }
     },
     {
@@ -139,7 +139,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6294
+            "uid": "1737245"
         }
     },
     {
@@ -152,7 +152,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6295
+            "uid": "1737245"
         }
     },
     {
@@ -165,7 +165,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6296
+            "uid": "1737245"
         }
     },
     {
@@ -178,7 +178,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6297
+            "uid": "2356855"
         }
     },
     {
@@ -191,7 +191,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6298
+            "uid": "2356855"
         }
     },
     {
@@ -204,7 +204,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6299
+            "uid": "2356855"
         }
     },
     {
@@ -217,7 +217,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6300
+            "uid": "2356855"
         }
     },
     {
@@ -230,7 +230,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6301
+            "uid": "2356855"
         }
     },
     {
@@ -243,7 +243,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6302
+            "uid": "2356855"
         }
     },
     {
@@ -256,7 +256,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6303
+            "uid": "2356855"
         }
     },
     {
@@ -269,7 +269,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6304
+            "uid": "2356855"
         }
     },
     {
@@ -282,7 +282,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6305
+            "uid": "2356855"
         }
     },
     {
@@ -295,7 +295,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6306
+            "uid": "6580356"
         }
     },
     {
@@ -308,7 +308,7 @@
         },
         "properties": {
             "amenity": "bench",
-            "id": 6307
+            "uid": "491706"
         }
     }
 ]
