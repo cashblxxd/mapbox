@@ -86,8 +86,31 @@ function readTextFile(file, callback) {
     }
     rawFile.send(null);
 }
-/*
+
 map.on('load', function () {
+    map.addLayer({
+        'id': '3d-buildings',
+        'source': 'composite',
+        'source-layer': 'building',
+        'filter': ['==', 'extrude', 'true'],
+        'type': 'fill-extrusion',
+        'minzoom': 15,
+        'paint': {
+            'fill-extrusion-color': '#aaa',
+            'fill-extrusion-height': [
+                "interpolate", ["linear"], ["zoom"],
+                15, 0,
+                15.05, ["get", "height"]
+            ],
+            'fill-extrusion-base': [
+                "interpolate", ["linear"], ["zoom"],
+                15, 0,
+                15.05, ["get", "min_height"]
+            ],
+            'fill-extrusion-opacity': .6
+        }
+    }, labelLayerId);
+
     readTextFile("dist_data/problems.json", function(text){
       data = JSON.parse(text);
       map.addSource("point", {
@@ -131,8 +154,6 @@ for (var i = 0; i < toggleableLayerIds.length; i++) {
     layers.appendChild(link);
 }
 
-
-map.on('load', function() {
     var layers = map.getStyle().layers;
 
     var labelLayerId;
@@ -143,67 +164,46 @@ map.on('load', function() {
         }
     }
 
-    map.addLayer({
-        'id': '3d-buildings',
-        'source': 'composite',
-        'source-layer': 'building',
-        'filter': ['==', 'extrude', 'true'],
-        'type': 'fill-extrusion',
-        'minzoom': 15,
-        'paint': {
-            'fill-extrusion-color': '#aaa',
-            'fill-extrusion-height': [
-                "interpolate", ["linear"], ["zoom"],
-                15, 0,
-                15.05, ["get", "height"]
-            ],
-            'fill-extrusion-base': [
-                "interpolate", ["linear"], ["zoom"],
-                15, 0,
-                15.05, ["get", "min_height"]
-            ],
-            'fill-extrusion-opacity': .6
-        }
-    }, labelLayerId);
-});*/
-
-// </almost copy-pasted part>
-
-readTextFile("dist_data/buildings.json", function(text){
-    geojson = JSON.parse(text);
-    console.log(geojson);
-    geojson.forEach(function(marker) {
-
-      var el = document.createElement('div');
-      el.className = 'default';
-
-      // var header = marker.name_full; // || marker.properties.amenity || marker.properties.operator;
-      // var desc = marker.legal_address; // || marker.properties.cuisine;
-
-      var table = document.createElement("table");
-
-      var tr = table.insertRow(-1);
-
-      var col = [];
-      for (var key in marker.properties) {
-          // if (banned.indexOf(key) !== -1) {continue;}
-          var tr = table.insertRow(-1);
-          var tabCell = tr.insertCell(-1);
-          tabCell.innerHTML = key;
-          var tabCell2 = tr.insertCell(-1);
-          tabCell2.innerHTML = marker.properties[key];
-      }
-
-      console.log(table.innerHTML);
-
-      new mapboxgl.Marker(el)
-        .setLngLat(marker.geometry.coordinates)
-        .setPopup(new mapboxgl.Popup({ offset: 25 })
-        .setHTML('<table>' + table.innerHTML + '</table>'))
-        .addTo(map);
-    });
 });
 
+// </almost copy-pasted part>
+/*
+readTextFile("main.json", function(text){
+    data = JSON.parse(text);
+    for(var elem in data) {
+        geojson.forEach(function(marker) {
+            var el = document.createElement('div');
+            el.className = 'default';
+
+            // var header = marker.name_full; // || marker.properties.amenity || marker.properties.operator;
+            // var desc = marker.legal_address; // || marker.properties.cuisine;
+
+            var table = document.createElement("table");
+
+            var tr = table.insertRow(-1);
+
+            var col = [];
+            for (var key in marker.properties) {
+                // if (banned.indexOf(key) !== -1) {continue;}
+                var tr = table.insertRow(-1);
+                var tabCell = tr.insertCell(-1);
+                tabCell.innerHTML = key;
+                var tabCell2 = tr.insertCell(-1);
+                tabCell2.innerHTML = marker.properties[key];
+            }
+
+        console.log(table.innerHTML);
+
+        new mapboxgl.Marker(el)
+          .setLngLat(marker.geometry.coordinates)
+          .setPopup(new mapboxgl.Popup({ offset: 25 })
+          .setHTML('<table>' + table.innerHTML + '</table>'))
+          .addTo(map);
+      });
+    }
+
+});*/
+/*
 readTextFile("dist_data/problems.json", function(text){
     geojson = JSON.parse(text);
     console.log(geojson);
@@ -237,7 +237,7 @@ readTextFile("dist_data/problems.json", function(text){
         .setHTML('<table>' + table.innerHTML + '</table>'))
         .addTo(map);
     });
-});
+});*/
 
 /*readTextFile("config.json", function(text){
     config = JSON.parse(text);
